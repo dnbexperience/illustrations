@@ -1,0 +1,99 @@
+name: CI
+
+on:
+  pull_request:
+  push:
+    branches:
+      - "**"
+  workflow_dispatch:
+    inputs:
+      validate_figma:
+        description: Validate live Figma synchronization in a disposable checkout
+        type: boolean
+        default: false
+
+permissions:
+  contents: read
+
+concurrency:
+  group: ci-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  figma:
+    name: Validate live Figma sync
+    if: github.event_name == 'workflow_dispatch' && inputs.validate_figma
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - name: Check out selected revision
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7
+        with:
+          persist-credentials: false
+      - name: Set up Node.js
+        uses: actions/setup-node@820762786026740c76f36085b0efc47a31fe5020 # v7
+        with:
+          node-version-file: .node-version
+          cache: npm
+      - name: Install locked dependencies
+        run: npm ci --ignore-scripts
+      - name: Validate live source exports
+        run: npm run sync:figma
+        env:
+          FIGMA_TOKEN: ${{ secrets.FIGMA_TOKEN }}
+      - name: Validate synchronized package
+        run: npm run ci
+      - name: Generate visual review catalogue
+        run: npm run preview
+      - name: Record source changes
+        if: always()
+        run: |
+          mkdir -p .figma-review
+          git diff --binary > .figma-review/synchronization.patch
+          git diff --stat >> "$GITHUB_STEP_SUMMARY"
+      - name: Upload source and visual review
+        if: always()
+        uses: actions/upload-artifact@043fb46d1a93c77aae656e7c1c64a875d1fc6a0a # v7
+        with:
+          name: live-figma-review
+          path: |
+            .figma-review
+            .review
+          include-hidden-files: true
+          if-no-files-found: warn
+          retention-days: 14
+
+  validate:
+    name: Validate package
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7
+        with:
+          persist-credentials: false
+
+      - name: Set up Node.js
+        uses: actions/setup-node@820762786026740c76f36085b0efc47a31fe5020 # v7
+        with:
+          node-version-file: .node-version
+          cache: npm
+
+      - name: Install locked dependencies
+        run: npm ci --ignore-scripts
+
+      - name: Audit dependencies
+        run: npm audit --audit-level=high
+
+      - name: Validate package
+        run: npm run ci
+
+      - name: Verify npm publishing lifecycle
+        run: npm run release:check
+
+      - name: Install browser
+        run: npm exec playwright install --with-deps chromium
+
+      - name: Verify browser interactions and hydration
+        run: npm run test:browser

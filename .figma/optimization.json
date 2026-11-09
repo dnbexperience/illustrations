@@ -1,0 +1,2958 @@
+{
+  "engine": "svgo",
+  "version": "4.1.0",
+  "sourceBytes": 9979123,
+  "optimizedBytes": 6436132,
+  "illustrations": [
+    {
+      "slug": "background-splash-01",
+      "before": 680,
+      "after": 575
+    },
+    {
+      "slug": "background-splash-02",
+      "before": 550,
+      "after": 475
+    },
+    {
+      "slug": "background-splash-03",
+      "before": 594,
+      "after": 522
+    },
+    {
+      "slug": "background-splash-04",
+      "before": 738,
+      "after": 627
+    },
+    {
+      "slug": "background-splash-05",
+      "before": 703,
+      "after": 600
+    },
+    {
+      "slug": "background-splash-06",
+      "before": 994,
+      "after": 721
+    },
+    {
+      "slug": "house-family-home",
+      "before": 9991,
+      "after": 7474
+    },
+    {
+      "slug": "house-frontal",
+      "before": 2089,
+      "after": 1562
+    },
+    {
+      "slug": "house-modern",
+      "before": 3338,
+      "after": 2464
+    },
+    {
+      "slug": "device-laptop-01",
+      "before": 2100,
+      "after": 1622
+    },
+    {
+      "slug": "device-phone-01",
+      "before": 6489,
+      "after": 4705
+    },
+    {
+      "slug": "device-phone-02",
+      "before": 13152,
+      "after": 9578
+    },
+    {
+      "slug": "device-phone-03",
+      "before": 2070,
+      "after": 1462
+    },
+    {
+      "slug": "effects-fireworks-01",
+      "before": 31755,
+      "after": 19532
+    },
+    {
+      "slug": "effects-tada-01",
+      "before": 1103,
+      "after": 668
+    },
+    {
+      "slug": "interior-furniture-beanbag-01",
+      "before": 5217,
+      "after": 3233
+    },
+    {
+      "slug": "interior-plants-03",
+      "before": 4513,
+      "after": 3298
+    },
+    {
+      "slug": "interior-plants-plant-01",
+      "before": 2438,
+      "after": 1710
+    },
+    {
+      "slug": "interior-plants-plant-02",
+      "before": 1884,
+      "after": 1489
+    },
+    {
+      "slug": "sofa",
+      "before": 7418,
+      "after": 4821
+    },
+    {
+      "slug": "nature-bushes-bush-01",
+      "before": 1026,
+      "after": 856
+    },
+    {
+      "slug": "nature-bushes-bush-02",
+      "before": 1031,
+      "after": 863
+    },
+    {
+      "slug": "nature-other-earth",
+      "before": 9755,
+      "after": 6935
+    },
+    {
+      "slug": "nature-plants-moneyplant-02",
+      "before": 8884,
+      "after": 5527
+    },
+    {
+      "slug": "nature-plants-moneyplant-03",
+      "before": 7867,
+      "after": 4116
+    },
+    {
+      "slug": "nature-trees-tree-02",
+      "before": 5783,
+      "after": 4499
+    },
+    {
+      "slug": "tree",
+      "before": 1742,
+      "after": 1502
+    },
+    {
+      "slug": "advisor",
+      "before": 6459,
+      "after": 4307
+    },
+    {
+      "slug": "advisor-2",
+      "before": 6189,
+      "after": 4215
+    },
+    {
+      "slug": "arrows",
+      "before": 1430,
+      "after": 919
+    },
+    {
+      "slug": "bank",
+      "before": 4245,
+      "after": 2644
+    },
+    {
+      "slug": "bankid-graphics",
+      "before": 2723,
+      "after": 619
+    },
+    {
+      "slug": "blob",
+      "before": 519,
+      "after": 434
+    },
+    {
+      "slug": "briefcase",
+      "before": 1285,
+      "after": 890
+    },
+    {
+      "slug": "broken-vase",
+      "before": 9787,
+      "after": 6767
+    },
+    {
+      "slug": "calculator-5614-942",
+      "before": 11368,
+      "after": 6324
+    },
+    {
+      "slug": "calculator-and-statistics",
+      "before": 12446,
+      "after": 5888
+    },
+    {
+      "slug": "camera",
+      "before": 6018,
+      "after": 2915
+    },
+    {
+      "slug": "cat",
+      "before": 7500,
+      "after": 4665
+    },
+    {
+      "slug": "certificate",
+      "before": 4155,
+      "after": 1893
+    },
+    {
+      "slug": "check-mark",
+      "before": 1313,
+      "after": 855
+    },
+    {
+      "slug": "child",
+      "before": 7378,
+      "after": 5357
+    },
+    {
+      "slug": "cloud",
+      "before": 666,
+      "after": 507
+    },
+    {
+      "slug": "cloud-2",
+      "before": 747,
+      "after": 481
+    },
+    {
+      "slug": "cloud-3",
+      "before": 893,
+      "after": 505
+    },
+    {
+      "slug": "cloud-4",
+      "before": 690,
+      "after": 536
+    },
+    {
+      "slug": "cloud-5605-947",
+      "before": 608,
+      "after": 521
+    },
+    {
+      "slug": "coffee-cup",
+      "before": 2758,
+      "after": 2122
+    },
+    {
+      "slug": "coin",
+      "before": 1007,
+      "after": 686
+    },
+    {
+      "slug": "coins",
+      "before": 4070,
+      "after": 3243
+    },
+    {
+      "slug": "construction",
+      "before": 2329,
+      "after": 1752
+    },
+    {
+      "slug": "couple",
+      "before": 26063,
+      "after": 13669
+    },
+    {
+      "slug": "cullet",
+      "before": 1034,
+      "after": 505
+    },
+    {
+      "slug": "documents-5614-978",
+      "before": 12575,
+      "after": 6420
+    },
+    {
+      "slug": "dog",
+      "before": 8854,
+      "after": 4562
+    },
+    {
+      "slug": "drink",
+      "before": 2668,
+      "after": 1646
+    },
+    {
+      "slug": "duct-tape",
+      "before": 1677,
+      "after": 1246
+    },
+    {
+      "slug": "first-aid-kit-5614-972",
+      "before": 8617,
+      "after": 4981
+    },
+    {
+      "slug": "flag-pole",
+      "before": 5282,
+      "after": 3423
+    },
+    {
+      "slug": "foliage",
+      "before": 1990,
+      "after": 1066
+    },
+    {
+      "slug": "foliage-2",
+      "before": 2450,
+      "after": 1198
+    },
+    {
+      "slug": "graph",
+      "before": 1927,
+      "after": 1140
+    },
+    {
+      "slug": "hand-6",
+      "before": 1403,
+      "after": 836
+    },
+    {
+      "slug": "hand-holding-phone-2",
+      "before": 29709,
+      "after": 16827
+    },
+    {
+      "slug": "houses-modern",
+      "before": 1252,
+      "after": 952
+    },
+    {
+      "slug": "houses-traditional",
+      "before": 4348,
+      "after": 3014
+    },
+    {
+      "slug": "houses-wooden",
+      "before": 20471,
+      "after": 11775
+    },
+    {
+      "slug": "key",
+      "before": 1393,
+      "after": 1092
+    },
+    {
+      "slug": "key-2",
+      "before": 1633,
+      "after": 904
+    },
+    {
+      "slug": "keyhole",
+      "before": 1053,
+      "after": 788
+    },
+    {
+      "slug": "light-bulb",
+      "before": 2367,
+      "after": 1474
+    },
+    {
+      "slug": "light-bulb-with-coin",
+      "before": 4085,
+      "after": 2459
+    },
+    {
+      "slug": "lock",
+      "before": 1923,
+      "after": 1126
+    },
+    {
+      "slug": "log-in-screen-1",
+      "before": 9984,
+      "after": 4942
+    },
+    {
+      "slug": "log-in-screen-2",
+      "before": 13194,
+      "after": 6817
+    },
+    {
+      "slug": "log-in-screen-3",
+      "before": 36044,
+      "after": 32862
+    },
+    {
+      "slug": "log-in-screen-4",
+      "before": 10877,
+      "after": 5534
+    },
+    {
+      "slug": "log-in-window",
+      "before": 10333,
+      "after": 5587
+    },
+    {
+      "slug": "luggage",
+      "before": 3848,
+      "after": 2742
+    },
+    {
+      "slug": "man",
+      "before": 30100,
+      "after": 18792
+    },
+    {
+      "slug": "man-5671-953",
+      "before": 12090,
+      "after": 7171
+    },
+    {
+      "slug": "man-at-desk",
+      "before": 10042,
+      "after": 7047
+    },
+    {
+      "slug": "money-note",
+      "before": 2435,
+      "after": 1591
+    },
+    {
+      "slug": "money-note-2",
+      "before": 2560,
+      "after": 1587
+    },
+    {
+      "slug": "money-rain",
+      "before": 17432,
+      "after": 10292
+    },
+    {
+      "slug": "money-sack",
+      "before": 3577,
+      "after": 2174
+    },
+    {
+      "slug": "money-sack-2",
+      "before": 7625,
+      "after": 4721
+    },
+    {
+      "slug": "money-sack-with-coins",
+      "before": 6488,
+      "after": 3945
+    },
+    {
+      "slug": "motorcycle",
+      "before": 6816,
+      "after": 4470
+    },
+    {
+      "slug": "netbank",
+      "before": 9839,
+      "after": 5669
+    },
+    {
+      "slug": "objects-furniture-chair",
+      "before": 5903,
+      "after": 4398
+    },
+    {
+      "slug": "objects-furniture-desk",
+      "before": 6976,
+      "after": 4464
+    },
+    {
+      "slug": "objects-furniture-footrest",
+      "before": 3032,
+      "after": 2004
+    },
+    {
+      "slug": "objects-furniture-table",
+      "before": 1519,
+      "after": 1204
+    },
+    {
+      "slug": "objects-household-paintbucket-01",
+      "before": 3443,
+      "after": 2735
+    },
+    {
+      "slug": "objects-household-paintbucket-02",
+      "before": 1834,
+      "after": 1439
+    },
+    {
+      "slug": "objects-household-paintroller-01",
+      "before": 1453,
+      "after": 1114
+    },
+    {
+      "slug": "objects-household-scissor-01",
+      "before": 2845,
+      "after": 2104
+    },
+    {
+      "slug": "objects-other-cardboardbox-01",
+      "before": 2076,
+      "after": 1476
+    },
+    {
+      "slug": "objects-other-cardboardbox-02",
+      "before": 1814,
+      "after": 1231
+    },
+    {
+      "slug": "objects-other-cardboardbox-03",
+      "before": 4105,
+      "after": 2756
+    },
+    {
+      "slug": "objects-other-cementbarrel-01",
+      "before": 2240,
+      "after": 1727
+    },
+    {
+      "slug": "objects-other-piggybank-02",
+      "before": 5338,
+      "after": 3957
+    },
+    {
+      "slug": "objects-other-rocket-01",
+      "before": 7077,
+      "after": 5425
+    },
+    {
+      "slug": "objects-other-umbrella-01",
+      "before": 1456,
+      "after": 1153
+    },
+    {
+      "slug": "objects-other-water-can",
+      "before": 4033,
+      "after": 2416
+    },
+    {
+      "slug": "objects-outdoor-mailbox-01",
+      "before": 17552,
+      "after": 7221
+    },
+    {
+      "slug": "objects-valuables-art",
+      "before": 5995,
+      "after": 4339
+    },
+    {
+      "slug": "objects-valuables-diamond",
+      "before": 6169,
+      "after": 3461
+    },
+    {
+      "slug": "objects-valuables-jewelry",
+      "before": 21810,
+      "after": 13228
+    },
+    {
+      "slug": "paint-buckets",
+      "before": 5014,
+      "after": 3237
+    },
+    {
+      "slug": "paint-roller",
+      "before": 2607,
+      "after": 1719
+    },
+    {
+      "slug": "paint-roller-with-paint",
+      "before": 2923,
+      "after": 1985
+    },
+    {
+      "slug": "pie-chart",
+      "before": 833,
+      "after": 535
+    },
+    {
+      "slug": "piggy-bank",
+      "before": 3772,
+      "after": 2817
+    },
+    {
+      "slug": "piggy-bank-2",
+      "before": 9340,
+      "after": 4938
+    },
+    {
+      "slug": "piggy-bank-3",
+      "before": 21989,
+      "after": 12768
+    },
+    {
+      "slug": "piggy-bank-4",
+      "before": 6337,
+      "after": 3785
+    },
+    {
+      "slug": "piggy-bank-5614-950",
+      "before": 6894,
+      "after": 4062
+    },
+    {
+      "slug": "pile-of-coins",
+      "before": 40702,
+      "after": 22682
+    },
+    {
+      "slug": "pile-of-coins-2",
+      "before": 17182,
+      "after": 12872
+    },
+    {
+      "slug": "pile-of-coins-3",
+      "before": 14106,
+      "after": 9728
+    },
+    {
+      "slug": "price-tag",
+      "before": 7681,
+      "after": 3183
+    },
+    {
+      "slug": "shield",
+      "before": 1052,
+      "after": 784
+    },
+    {
+      "slug": "skyscraper",
+      "before": 5739,
+      "after": 4257
+    },
+    {
+      "slug": "speech-bubble",
+      "before": 4160,
+      "after": 2545
+    },
+    {
+      "slug": "statistics",
+      "before": 3748,
+      "after": 1995
+    },
+    {
+      "slug": "statistics-2",
+      "before": 1525,
+      "after": 1090
+    },
+    {
+      "slug": "tree-2",
+      "before": 3581,
+      "after": 1894
+    },
+    {
+      "slug": "tree-3",
+      "before": 3562,
+      "after": 1959
+    },
+    {
+      "slug": "tree-5604-938",
+      "before": 3555,
+      "after": 1947
+    },
+    {
+      "slug": "umbrella",
+      "before": 3463,
+      "after": 2318
+    },
+    {
+      "slug": "water-can",
+      "before": 19290,
+      "after": 9212
+    },
+    {
+      "slug": "water-can-2",
+      "before": 4516,
+      "after": 2526
+    },
+    {
+      "slug": "woman",
+      "before": 11701,
+      "after": 6460
+    },
+    {
+      "slug": "woman-2-5671-941",
+      "before": 9510,
+      "after": 5545
+    },
+    {
+      "slug": "woman-3-5671-950",
+      "before": 12660,
+      "after": 7330
+    },
+    {
+      "slug": "woman-shaking-hand",
+      "before": 18634,
+      "after": 12473
+    },
+    {
+      "slug": "woman-shaking-hand-2",
+      "before": 17639,
+      "after": 11625
+    },
+    {
+      "slug": "woman-with-broken-arm",
+      "before": 17113,
+      "after": 11968
+    },
+    {
+      "slug": "hand1",
+      "before": 3222,
+      "after": 2365
+    },
+    {
+      "slug": "hand10",
+      "before": 1219,
+      "after": 927
+    },
+    {
+      "slug": "hand11",
+      "before": 1066,
+      "after": 873
+    },
+    {
+      "slug": "hand12",
+      "before": 1272,
+      "after": 975
+    },
+    {
+      "slug": "hand13",
+      "before": 1361,
+      "after": 1074
+    },
+    {
+      "slug": "hand14",
+      "before": 1273,
+      "after": 1032
+    },
+    {
+      "slug": "hand15",
+      "before": 1381,
+      "after": 1096
+    },
+    {
+      "slug": "hand16",
+      "before": 2329,
+      "after": 1702
+    },
+    {
+      "slug": "hand17",
+      "before": 1558,
+      "after": 1198
+    },
+    {
+      "slug": "hand18",
+      "before": 2369,
+      "after": 1785
+    },
+    {
+      "slug": "hand2",
+      "before": 1633,
+      "after": 1270
+    },
+    {
+      "slug": "hand3",
+      "before": 1232,
+      "after": 968
+    },
+    {
+      "slug": "hand4",
+      "before": 720,
+      "after": 446
+    },
+    {
+      "slug": "hand5",
+      "before": 1231,
+      "after": 983
+    },
+    {
+      "slug": "hand6-8496-16312",
+      "before": 1375,
+      "after": 1118
+    },
+    {
+      "slug": "hand7",
+      "before": 1231,
+      "after": 910
+    },
+    {
+      "slug": "hand8",
+      "before": 1324,
+      "after": 921
+    },
+    {
+      "slug": "hand9",
+      "before": 1150,
+      "after": 962
+    },
+    {
+      "slug": "head-man-1-skin-color-dark-skin-color",
+      "before": 1679,
+      "after": 887
+    },
+    {
+      "slug": "head-man-1-skin-color-light-skin-color",
+      "before": 1789,
+      "after": 1008
+    },
+    {
+      "slug": "head-man-1-skin-color-medium-skin-color",
+      "before": 1679,
+      "after": 922
+    },
+    {
+      "slug": "head-man-2-skin-color-dark-skin-color",
+      "before": 2770,
+      "after": 1407
+    },
+    {
+      "slug": "head-man-2-skin-color-light-skin-color",
+      "before": 2772,
+      "after": 1408
+    },
+    {
+      "slug": "head-man-2-skin-color-light-skin-color2",
+      "before": 2778,
+      "after": 1413
+    },
+    {
+      "slug": "head-man-2-skin-color-medium-skin-color",
+      "before": 2768,
+      "after": 1403
+    },
+    {
+      "slug": "head-man-3-skin-color-dark-skin-color",
+      "before": 1471,
+      "after": 835
+    },
+    {
+      "slug": "head-man-3-skin-color-light-skin-color",
+      "before": 1477,
+      "after": 840
+    },
+    {
+      "slug": "head-man-3-skin-color-medium-skin-color",
+      "before": 1471,
+      "after": 833
+    },
+    {
+      "slug": "head-man-4-skin-color-dark-skin-color",
+      "before": 1337,
+      "after": 766
+    },
+    {
+      "slug": "head-man-4-skin-color-light-skin-color",
+      "before": 1343,
+      "after": 771
+    },
+    {
+      "slug": "head-man-4-skin-color-medium-skin-color",
+      "before": 1337,
+      "after": 764
+    },
+    {
+      "slug": "head-man-4-skin-color-medium-skin-color-2",
+      "before": 1435,
+      "after": 844
+    },
+    {
+      "slug": "head-man-5-skin-color-dark-skin-color",
+      "before": 1425,
+      "after": 757
+    },
+    {
+      "slug": "head-man-5-skin-color-light-skin-color",
+      "before": 1431,
+      "after": 799
+    },
+    {
+      "slug": "head-man-5-skin-color-medium-skin-color",
+      "before": 1425,
+      "after": 792
+    },
+    {
+      "slug": "head-man-6-skin-color-dark-skin-color",
+      "before": 1666,
+      "after": 1337
+    },
+    {
+      "slug": "head-man-6-skin-color-light-skin-color",
+      "before": 1672,
+      "after": 1342
+    },
+    {
+      "slug": "head-man-6-skin-color-medium-skin-color",
+      "before": 1666,
+      "after": 1335
+    },
+    {
+      "slug": "head-woman-1-skin-color-dark-skin-color",
+      "before": 2200,
+      "after": 1056
+    },
+    {
+      "slug": "head-woman-1-skin-color-light-skin-color",
+      "before": 2201,
+      "after": 1093
+    },
+    {
+      "slug": "head-woman-1-skin-color-medium-skin-color",
+      "before": 2196,
+      "after": 1087
+    },
+    {
+      "slug": "head-woman-10-skin-color-dark-skin-color",
+      "before": 3120,
+      "after": 1709
+    },
+    {
+      "slug": "head-woman-10-skin-color-light-skin-color",
+      "before": 3104,
+      "after": 1749
+    },
+    {
+      "slug": "head-woman-10-skin-color-medium-skin-color",
+      "before": 3129,
+      "after": 1759
+    },
+    {
+      "slug": "head-woman-11-skin-color-dark-skin-color",
+      "before": 2693,
+      "after": 1254
+    },
+    {
+      "slug": "head-woman-11-skin-color-light-skin-color",
+      "before": 2699,
+      "after": 1296
+    },
+    {
+      "slug": "head-woman-11-skin-color-medium-skin-color",
+      "before": 2693,
+      "after": 1289
+    },
+    {
+      "slug": "head-woman-2-skin-color-dark-skin-color",
+      "before": 2478,
+      "after": 1727
+    },
+    {
+      "slug": "head-woman-2-skin-color-light-skin-color",
+      "before": 2484,
+      "after": 1769
+    },
+    {
+      "slug": "head-woman-2-skin-color-medium-skin-color",
+      "before": 2478,
+      "after": 1762
+    },
+    {
+      "slug": "head-woman-3-skin-color-dark-skin-color",
+      "before": 1510,
+      "after": 768
+    },
+    {
+      "slug": "head-woman-3-skin-color-light-skin-color",
+      "before": 1516,
+      "after": 810
+    },
+    {
+      "slug": "head-woman-3-skin-color-medium-skin-color",
+      "before": 1510,
+      "after": 803
+    },
+    {
+      "slug": "head-woman-4-skin-color-dark-skin-color",
+      "before": 2031,
+      "after": 1030
+    },
+    {
+      "slug": "head-woman-4-skin-color-light-skin-color",
+      "before": 2032,
+      "after": 1067
+    },
+    {
+      "slug": "head-woman-4-skin-color-medium-skin-color",
+      "before": 2027,
+      "after": 1061
+    },
+    {
+      "slug": "head-woman-6-skin-color-dark-skin-color",
+      "before": 1896,
+      "after": 977
+    },
+    {
+      "slug": "head-woman-6-skin-color-light-skin-color",
+      "before": 1892,
+      "after": 977
+    },
+    {
+      "slug": "head-woman-6-skin-color-light-skin-color2",
+      "before": 2013,
+      "after": 1065
+    },
+    {
+      "slug": "head-woman-6-skin-color-medium-skin-color",
+      "before": 1888,
+      "after": 971
+    },
+    {
+      "slug": "head-woman-7-skin-color-dark-skin-color",
+      "before": 1858,
+      "after": 970
+    },
+    {
+      "slug": "head-woman-7-skin-color-light-skin-color",
+      "before": 1859,
+      "after": 1007
+    },
+    {
+      "slug": "head-woman-7-skin-color-medium-skin-color",
+      "before": 1854,
+      "after": 1001
+    },
+    {
+      "slug": "head-woman-8-skin-color-dark-skin-color",
+      "before": 3070,
+      "after": 1484
+    },
+    {
+      "slug": "head-woman-8-skin-color-light-skin-color",
+      "before": 2906,
+      "after": 1494
+    },
+    {
+      "slug": "head-woman-8-skin-color-medium-skin-color",
+      "before": 3040,
+      "after": 1496
+    },
+    {
+      "slug": "head-woman-9-skin-color-dark-skin-color",
+      "before": 3168,
+      "after": 1623
+    },
+    {
+      "slug": "head-woman-9-skin-color-light-skin-color",
+      "before": 3171,
+      "after": 1579
+    },
+    {
+      "slug": "head-woman-9-skin-color-medium-skin-color",
+      "before": 3174,
+      "after": 1625
+    },
+    {
+      "slug": "human-hands-pointing",
+      "before": 7545,
+      "after": 5759
+    },
+    {
+      "slug": "sitting-business-man1-skin-color-dark-skin-color",
+      "before": 6187,
+      "after": 4380
+    },
+    {
+      "slug": "sitting-business-man1-skin-color-light-skin-color",
+      "before": 6188,
+      "after": 4319
+    },
+    {
+      "slug": "sitting-business-man1-skin-color-medium-skin-color",
+      "before": 6189,
+      "after": 4319
+    },
+    {
+      "slug": "sitting-business-woman1-skin-color-dark-skin-color",
+      "before": 25817,
+      "after": 13840
+    },
+    {
+      "slug": "sitting-business-woman1-skin-color-light-skin-color",
+      "before": 25818,
+      "after": 13840
+    },
+    {
+      "slug": "sitting-business-woman1-skin-color-medium-skin-color",
+      "before": 25819,
+      "after": 13840
+    },
+    {
+      "slug": "sitting-customer-woman1-skin-color-dark-skin-color",
+      "before": 22353,
+      "after": 10652
+    },
+    {
+      "slug": "sitting-customer-woman1-skin-color-light-skin-color",
+      "before": 22343,
+      "after": 10623
+    },
+    {
+      "slug": "sitting-customer-woman1-skin-color-medium-skin-color",
+      "before": 22363,
+      "after": 10656
+    },
+    {
+      "slug": "sitting-customer-woman2-skin-color-dark-skin-color",
+      "before": 7590,
+      "after": 5649
+    },
+    {
+      "slug": "sitting-customer-woman2-skin-color-light-skin-color",
+      "before": 7598,
+      "after": 5600
+    },
+    {
+      "slug": "sitting-customer-woman2-skin-color-medium-skin-color",
+      "before": 7582,
+      "after": 5643
+    },
+    {
+      "slug": "standing-business-group1",
+      "before": 17579,
+      "after": 10335
+    },
+    {
+      "slug": "standing-business-man1-skin-color-dark-skin-color",
+      "before": 19104,
+      "after": 13128
+    },
+    {
+      "slug": "standing-business-man1-skin-color-light-skin-color",
+      "before": 19124,
+      "after": 13127
+    },
+    {
+      "slug": "standing-business-man1-skin-color-medium-skin-color",
+      "before": 19106,
+      "after": 13128
+    },
+    {
+      "slug": "standing-business-man2-skin-color-dark-skin-color",
+      "before": 7719,
+      "after": 5506
+    },
+    {
+      "slug": "standing-business-man2-skin-color-light-skin-color",
+      "before": 7720,
+      "after": 5506
+    },
+    {
+      "slug": "standing-business-man2-skin-color-medium-skin-color",
+      "before": 7721,
+      "after": 5506
+    },
+    {
+      "slug": "standing-business-man3-skin-color-dark-skin-color",
+      "before": 5505,
+      "after": 3097
+    },
+    {
+      "slug": "standing-business-man3-skin-color-light-skin-color",
+      "before": 6419,
+      "after": 3419
+    },
+    {
+      "slug": "standing-business-man3-skin-color-medium-skin-color",
+      "before": 5509,
+      "after": 3099
+    },
+    {
+      "slug": "standing-business-man4-skin-color-dark-skin-color",
+      "before": 6204,
+      "after": 4411
+    },
+    {
+      "slug": "standing-business-man4-skin-color-light-skin-color",
+      "before": 6205,
+      "after": 4411
+    },
+    {
+      "slug": "standing-business-man4-skin-color-medium-skin-color",
+      "before": 6206,
+      "after": 4411
+    },
+    {
+      "slug": "standing-business-man5-skin-color-dark-skin-color",
+      "before": 8984,
+      "after": 6813
+    },
+    {
+      "slug": "standing-business-man5-skin-color-light-skin-color",
+      "before": 8993,
+      "after": 6821
+    },
+    {
+      "slug": "standing-business-man5-skin-color-medium-skin-color",
+      "before": 8986,
+      "after": 6813
+    },
+    {
+      "slug": "standing-business-man6-skin-color-dark-skin-color",
+      "before": 8664,
+      "after": 5772
+    },
+    {
+      "slug": "standing-business-man6-skin-color-dark-skin-color-8496-14421",
+      "before": 25261,
+      "after": 16659
+    },
+    {
+      "slug": "standing-business-man6-skin-color-light-skin-color",
+      "before": 8665,
+      "after": 5772
+    },
+    {
+      "slug": "standing-business-man6-skin-color-light-skin-color-8496-14169",
+      "before": 25256,
+      "after": 16629
+    },
+    {
+      "slug": "standing-business-man6-skin-color-medium-skin-color",
+      "before": 8666,
+      "after": 5772
+    },
+    {
+      "slug": "standing-business-man6-skin-color-medium-skin-color-8496-14295",
+      "before": 25263,
+      "after": 16633
+    },
+    {
+      "slug": "standing-business-woman1-skin-color-dark-skin-color",
+      "before": 21682,
+      "after": 14732
+    },
+    {
+      "slug": "standing-business-woman1-skin-color-light-skin-color",
+      "before": 21663,
+      "after": 14717
+    },
+    {
+      "slug": "standing-business-woman1-skin-color-medium-skin-color",
+      "before": 21684,
+      "after": 14732
+    },
+    {
+      "slug": "standing-business-woman2-skin-color-dark-skin-color",
+      "before": 11034,
+      "after": 8271
+    },
+    {
+      "slug": "standing-business-woman2-skin-color-light-skin-color",
+      "before": 11005,
+      "after": 8265
+    },
+    {
+      "slug": "standing-business-woman2-skin-color-medium-skin-color",
+      "before": 11004,
+      "after": 8266
+    },
+    {
+      "slug": "standing-business-woman3-skin-color-dark-skin-color",
+      "before": 10697,
+      "after": 7321
+    },
+    {
+      "slug": "standing-business-woman3-skin-color-light-skin-color",
+      "before": 10695,
+      "after": 7321
+    },
+    {
+      "slug": "standing-business-woman3-skin-color-medium-skin-color",
+      "before": 10703,
+      "after": 7323
+    },
+    {
+      "slug": "standing-business-woman4-skin-color-dark-skin-color",
+      "before": 7475,
+      "after": 5441
+    },
+    {
+      "slug": "standing-business-woman4-skin-color-light-skin-color",
+      "before": 7446,
+      "after": 5423
+    },
+    {
+      "slug": "standing-business-woman4-skin-color-medium-skin-color",
+      "before": 7477,
+      "after": 5441
+    },
+    {
+      "slug": "standing-business-woman5-skin-color-dark-skin-color",
+      "before": 10854,
+      "after": 7609
+    },
+    {
+      "slug": "standing-business-woman5-skin-color-light-skin-color",
+      "before": 10855,
+      "after": 7611
+    },
+    {
+      "slug": "standing-business-woman5-skin-color-medium-skin-color",
+      "before": 10848,
+      "after": 7607
+    },
+    {
+      "slug": "standing-business-woman6-skin-color-dark-skin-color",
+      "before": 6529,
+      "after": 4734
+    },
+    {
+      "slug": "standing-business-woman6-skin-color-dark-skin-color-8496-13400",
+      "before": 8096,
+      "after": 5916
+    },
+    {
+      "slug": "standing-business-woman6-skin-color-light-skin-color",
+      "before": 6530,
+      "after": 4734
+    },
+    {
+      "slug": "standing-business-woman6-skin-color-light-skin-color-8496-13354",
+      "before": 8091,
+      "after": 5928
+    },
+    {
+      "slug": "standing-business-woman6-skin-color-medium-skin-color",
+      "before": 6531,
+      "after": 4735
+    },
+    {
+      "slug": "standing-business-woman6-skin-color-medium-skin-color-8496-13377",
+      "before": 8108,
+      "after": 5929
+    },
+    {
+      "slug": "standing-customer-man1-skin-color-dark-skin-color",
+      "before": 23154,
+      "after": 15521
+    },
+    {
+      "slug": "standing-customer-man1-skin-color-light-skin-color",
+      "before": 23175,
+      "after": 15534
+    },
+    {
+      "slug": "standing-customer-man1-skin-color-medium-skin-color",
+      "before": 23162,
+      "after": 15527
+    },
+    {
+      "slug": "standing-customer-man2-skin-color-dark-skin-color",
+      "before": 22227,
+      "after": 14796
+    },
+    {
+      "slug": "standing-customer-man2-skin-color-light-skin-color",
+      "before": 22380,
+      "after": 14989
+    },
+    {
+      "slug": "standing-customer-man2-skin-color-medium-skin-color",
+      "before": 22373,
+      "after": 14940
+    },
+    {
+      "slug": "standing-customer-man3-skin-color-dark-skin-color",
+      "before": 7233,
+      "after": 5263
+    },
+    {
+      "slug": "standing-customer-man3-skin-color-light-skin-color",
+      "before": 7234,
+      "after": 5263
+    },
+    {
+      "slug": "standing-customer-man3-skin-color-medium-skin-color",
+      "before": 7225,
+      "after": 5253
+    },
+    {
+      "slug": "standing-customer-man4-skin-color-dark-skin-color",
+      "before": 4482,
+      "after": 3260
+    },
+    {
+      "slug": "standing-customer-man4-skin-color-light-skin-color",
+      "before": 4487,
+      "after": 3264
+    },
+    {
+      "slug": "standing-customer-man4-skin-color-medium-skin-color",
+      "before": 4484,
+      "after": 3260
+    },
+    {
+      "slug": "standing-customer-man5-skin-color-dark-skin-color",
+      "before": 8606,
+      "after": 5876
+    },
+    {
+      "slug": "standing-customer-man5-skin-color-light-skin-color",
+      "before": 8607,
+      "after": 5876
+    },
+    {
+      "slug": "standing-customer-man5-skin-color-medium-skin-color",
+      "before": 8608,
+      "after": 5876
+    },
+    {
+      "slug": "standing-customer-man6-skin-color-dark-skin-color",
+      "before": 10501,
+      "after": 7520
+    },
+    {
+      "slug": "standing-customer-man6-skin-color-light-skin-color",
+      "before": 10506,
+      "after": 7524
+    },
+    {
+      "slug": "standing-customer-man6-skin-color-medium-skin-color",
+      "before": 10505,
+      "after": 7522
+    },
+    {
+      "slug": "standing-customer-woman1-skin-color-dark-skin-color",
+      "before": 9027,
+      "after": 6542
+    },
+    {
+      "slug": "standing-customer-woman1-skin-color-light-skin-color",
+      "before": 9032,
+      "after": 6546
+    },
+    {
+      "slug": "standing-customer-woman1-skin-color-medium-skin-color",
+      "before": 9029,
+      "after": 6542
+    },
+    {
+      "slug": "standing-customer-woman2-skin-color-dark-skin-color",
+      "before": 7437,
+      "after": 5217
+    },
+    {
+      "slug": "standing-customer-woman2-skin-color-light-skin-color",
+      "before": 7455,
+      "after": 5234
+    },
+    {
+      "slug": "standing-customer-woman2-skin-color-medium-skin-color",
+      "before": 7445,
+      "after": 5223
+    },
+    {
+      "slug": "standing-customer-woman3-skin-color-dark-skin-color",
+      "before": 5605,
+      "after": 3927
+    },
+    {
+      "slug": "standing-customer-woman3-skin-color-light-skin-color",
+      "before": 5608,
+      "after": 3928
+    },
+    {
+      "slug": "standing-customer-woman3-skin-color-medium-skin-color",
+      "before": 5611,
+      "after": 3929
+    },
+    {
+      "slug": "standing-customer-woman4-skin-color-dark-skin-color",
+      "before": 23325,
+      "after": 15717
+    },
+    {
+      "slug": "standing-customer-woman4-skin-color-light-skin-color",
+      "before": 23326,
+      "after": 15717
+    },
+    {
+      "slug": "standing-customer-woman4-skin-color-medium-skin-color",
+      "before": 23323,
+      "after": 15713
+    },
+    {
+      "slug": "standing-customer-woman5-skin-color-dark-skin-color",
+      "before": 5434,
+      "after": 3831
+    },
+    {
+      "slug": "standing-customer-woman5-skin-color-light-skin-color",
+      "before": 5437,
+      "after": 3832
+    },
+    {
+      "slug": "standing-customer-woman5-skin-color-medium-skin-color",
+      "before": 5440,
+      "after": 3772
+    },
+    {
+      "slug": "standing-customer-woman6-skin-color-dark-skin-color",
+      "before": 7913,
+      "after": 5742
+    },
+    {
+      "slug": "standing-customer-woman6-skin-color-light-skin-color",
+      "before": 7942,
+      "after": 5697
+    },
+    {
+      "slug": "standing-customer-woman6-skin-color-medium-skin-color",
+      "before": 7931,
+      "after": 5746
+    },
+    {
+      "slug": "walking-business-man1-skin-color-dark-skin-color",
+      "before": 6122,
+      "after": 4339
+    },
+    {
+      "slug": "walking-business-man1-skin-color-light-skin-color",
+      "before": 6141,
+      "after": 4352
+    },
+    {
+      "slug": "walking-business-man1-skin-color-medium-skin-color",
+      "before": 6128,
+      "after": 4341
+    },
+    {
+      "slug": "walking-business-woman1-skin-color-dark-skin-color",
+      "before": 7279,
+      "after": 5445
+    },
+    {
+      "slug": "walking-business-woman1-skin-color-light-skin-color",
+      "before": 7225,
+      "after": 5423
+    },
+    {
+      "slug": "walking-business-woman1-skin-color-medium-skin-color",
+      "before": 7235,
+      "after": 5432
+    },
+    {
+      "slug": "walking-customer-man1-skin-color-dark-skin-color",
+      "before": 6104,
+      "after": 3997
+    },
+    {
+      "slug": "walking-customer-man1-skin-color-light-skin-color",
+      "before": 6093,
+      "after": 4004
+    },
+    {
+      "slug": "walking-customer-man1-skin-color-medium-skin-color",
+      "before": 6080,
+      "after": 3994
+    },
+    {
+      "slug": "walking-customer-woman1-skin-color-dark-skin-color",
+      "before": 4771,
+      "after": 3429
+    },
+    {
+      "slug": "walking-customer-woman1-skin-color-light-skin-color",
+      "before": 4772,
+      "after": 3429
+    },
+    {
+      "slug": "walking-customer-woman1-skin-color-medium-skin-color",
+      "before": 4770,
+      "after": 3429
+    },
+    {
+      "slug": "walking-customer-woman2-skin-color-dark-skin-color",
+      "before": 4096,
+      "after": 2788
+    },
+    {
+      "slug": "walking-customer-woman2-skin-color-light-skin-color",
+      "before": 4093,
+      "after": 2788
+    },
+    {
+      "slug": "walking-customer-woman2-skin-color-medium-skin-color",
+      "before": 4088,
+      "after": 2783
+    },
+    {
+      "slug": "account",
+      "before": 17676,
+      "after": 12143
+    },
+    {
+      "slug": "advisor-contact",
+      "before": 9856,
+      "after": 7395
+    },
+    {
+      "slug": "agreement",
+      "before": 31807,
+      "after": 20586
+    },
+    {
+      "slug": "apllication-recieved",
+      "before": 6561,
+      "after": 4643
+    },
+    {
+      "slug": "app-security",
+      "before": 20488,
+      "after": 11683
+    },
+    {
+      "slug": "applications-comfirmed-celebratory-situation",
+      "before": 32103,
+      "after": 20910
+    },
+    {
+      "slug": "apps-and-uis",
+      "before": 46020,
+      "after": 26556
+    },
+    {
+      "slug": "astronaut-1",
+      "before": 51296,
+      "after": 25771
+    },
+    {
+      "slug": "astronaut-2",
+      "before": 58422,
+      "after": 30825
+    },
+    {
+      "slug": "balance",
+      "before": 15306,
+      "after": 10397
+    },
+    {
+      "slug": "bank-id",
+      "before": 12474,
+      "after": 7724
+    },
+    {
+      "slug": "birthday",
+      "before": 32699,
+      "after": 21505
+    },
+    {
+      "slug": "boat",
+      "before": 14794,
+      "after": 10410
+    },
+    {
+      "slug": "bsu-saving",
+      "before": 22132,
+      "after": 14049
+    },
+    {
+      "slug": "building-a-house-frame",
+      "before": 18038,
+      "after": 10829
+    },
+    {
+      "slug": "calculator",
+      "before": 16077,
+      "after": 10825
+    },
+    {
+      "slug": "calendar",
+      "before": 77113,
+      "after": 40577
+    },
+    {
+      "slug": "calendar-4965-961",
+      "before": 112114,
+      "after": 60671
+    },
+    {
+      "slug": "calendar-small",
+      "before": 34931,
+      "after": 22462
+    },
+    {
+      "slug": "car-2",
+      "before": 8333,
+      "after": 5566
+    },
+    {
+      "slug": "car-3832-265",
+      "before": 32625,
+      "after": 22269
+    },
+    {
+      "slug": "car-insurance",
+      "before": 33171,
+      "after": 22409
+    },
+    {
+      "slug": "car-loan",
+      "before": 30167,
+      "after": 19579
+    },
+    {
+      "slug": "car-value",
+      "before": 14273,
+      "after": 9375
+    },
+    {
+      "slug": "card",
+      "before": 5689,
+      "after": 3450
+    },
+    {
+      "slug": "cb-login",
+      "before": 15243,
+      "after": 9744
+    },
+    {
+      "slug": "cb-login-11035-2289",
+      "before": 15369,
+      "after": 9690
+    },
+    {
+      "slug": "cb-nettbank",
+      "before": 12639,
+      "after": 8125
+    },
+    {
+      "slug": "celebrate",
+      "before": 32747,
+      "after": 21131
+    },
+    {
+      "slug": "child-insurance",
+      "before": 9881,
+      "after": 6709
+    },
+    {
+      "slug": "cityscape",
+      "before": 22694,
+      "after": 11870
+    },
+    {
+      "slug": "click-to-pay-29-8-25-1",
+      "before": 28308,
+      "after": 18383
+    },
+    {
+      "slug": "clouds-1",
+      "before": 197862,
+      "after": 100477
+    },
+    {
+      "slug": "clouds-2",
+      "before": 205217,
+      "after": 101379
+    },
+    {
+      "slug": "cogwheel",
+      "before": 8519,
+      "after": 6629
+    },
+    {
+      "slug": "connected-world",
+      "before": 43811,
+      "after": 25965
+    },
+    {
+      "slug": "construction-people",
+      "before": 43521,
+      "after": 28767
+    },
+    {
+      "slug": "construction-workers",
+      "before": 53645,
+      "after": 29504
+    },
+    {
+      "slug": "consumer-loan",
+      "before": 20355,
+      "after": 12582
+    },
+    {
+      "slug": "consumer-loan-3505-716",
+      "before": 20523,
+      "after": 12854
+    },
+    {
+      "slug": "contents-insurance",
+      "before": 28020,
+      "after": 20106
+    },
+    {
+      "slug": "credit-cards",
+      "before": 5025,
+      "after": 3388
+    },
+    {
+      "slug": "credit-cards-5907-0",
+      "before": 23160,
+      "after": 12366
+    },
+    {
+      "slug": "crew",
+      "before": 67561,
+      "after": 43503
+    },
+    {
+      "slug": "crystal-ball",
+      "before": 17746,
+      "after": 12524
+    },
+    {
+      "slug": "crystal-ball-3505-2450",
+      "before": 35053,
+      "after": 23020
+    },
+    {
+      "slug": "crystal-ball-crop",
+      "before": 17191,
+      "after": 11700
+    },
+    {
+      "slug": "currency",
+      "before": 43556,
+      "after": 24974
+    },
+    {
+      "slug": "customers",
+      "before": 160685,
+      "after": 98223
+    },
+    {
+      "slug": "customers-8496-20573",
+      "before": 182971,
+      "after": 114134
+    },
+    {
+      "slug": "customiza",
+      "before": 3412,
+      "after": 2147
+    },
+    {
+      "slug": "cutting-cost",
+      "before": 34068,
+      "after": 21680
+    },
+    {
+      "slug": "dark-piggy-bank-with-missing-money",
+      "before": 64474,
+      "after": 40120
+    },
+    {
+      "slug": "desk",
+      "before": 12241,
+      "after": 8374
+    },
+    {
+      "slug": "desktop-account",
+      "before": 27088,
+      "after": 15960
+    },
+    {
+      "slug": "desktop-check",
+      "before": 5015,
+      "after": 3262
+    },
+    {
+      "slug": "developer",
+      "before": 32620,
+      "after": 21454
+    },
+    {
+      "slug": "dnb-filial",
+      "before": 27779,
+      "after": 18328
+    },
+    {
+      "slug": "dnb-illustrasjoner-utvlag",
+      "before": 127564,
+      "after": 69424
+    },
+    {
+      "slug": "dnb-illustrasjoner-utvlagme3-51",
+      "before": 21988,
+      "after": 12135
+    },
+    {
+      "slug": "dnb-illustrasjoner-utvlagme3-52",
+      "before": 12298,
+      "after": 7344
+    },
+    {
+      "slug": "dnb-illustrasjoner-utvlagme3-77",
+      "before": 38550,
+      "after": 20479
+    },
+    {
+      "slug": "dnb-space",
+      "before": 206917,
+      "after": 107536
+    },
+    {
+      "slug": "documents",
+      "before": 13139,
+      "after": 7805
+    },
+    {
+      "slug": "face-id-android",
+      "before": 12070,
+      "after": 8419
+    },
+    {
+      "slug": "face-id-ios",
+      "before": 36502,
+      "after": 21917
+    },
+    {
+      "slug": "failed",
+      "before": 4726,
+      "after": 3043
+    },
+    {
+      "slug": "family",
+      "before": 24512,
+      "after": 16299
+    },
+    {
+      "slug": "father-and-son",
+      "before": 48795,
+      "after": 28003
+    },
+    {
+      "slug": "first-aid-kit",
+      "before": 8660,
+      "after": 6176
+    },
+    {
+      "slug": "fly",
+      "before": 25451,
+      "after": 9898
+    },
+    {
+      "slug": "football-and-flag",
+      "before": 19223,
+      "after": 12591
+    },
+    {
+      "slug": "football-player-with-flag",
+      "before": 28959,
+      "after": 17916
+    },
+    {
+      "slug": "footballplayer-with-flag",
+      "before": 29192,
+      "after": 18383
+    },
+    {
+      "slug": "for-sale",
+      "before": 16813,
+      "after": 11416
+    },
+    {
+      "slug": "freezing",
+      "before": 18149,
+      "after": 9027
+    },
+    {
+      "slug": "funds",
+      "before": 34187,
+      "after": 20921
+    },
+    {
+      "slug": "globe",
+      "before": 9730,
+      "after": 5758
+    },
+    {
+      "slug": "graph-for-stocks",
+      "before": 55813,
+      "after": 39285
+    },
+    {
+      "slug": "groups",
+      "before": 94425,
+      "after": 58468
+    },
+    {
+      "slug": "growing-money",
+      "before": 65371,
+      "after": 36969
+    },
+    {
+      "slug": "haaland-vm26",
+      "before": 31358,
+      "after": 19374
+    },
+    {
+      "slug": "hand-with-gestures",
+      "before": 19124,
+      "after": 13118
+    },
+    {
+      "slug": "hand-with-phone",
+      "before": 6045,
+      "after": 4476
+    },
+    {
+      "slug": "high-five-2",
+      "before": 6442,
+      "after": 4466
+    },
+    {
+      "slug": "hourglass",
+      "before": 6446,
+      "after": 4509
+    },
+    {
+      "slug": "human-1",
+      "before": 7051,
+      "after": 4985
+    },
+    {
+      "slug": "human-2",
+      "before": 24819,
+      "after": 15743
+    },
+    {
+      "slug": "humans-sitting",
+      "before": 70724,
+      "after": 45412
+    },
+    {
+      "slug": "humans-walking",
+      "before": 40274,
+      "after": 25118
+    },
+    {
+      "slug": "illustration-construction-woman",
+      "before": 23810,
+      "after": 16103
+    },
+    {
+      "slug": "inbox",
+      "before": 39122,
+      "after": 24575
+    },
+    {
+      "slug": "insurance-house",
+      "before": 6351,
+      "after": 4166
+    },
+    {
+      "slug": "international-payments",
+      "before": 28419,
+      "after": 18230
+    },
+    {
+      "slug": "invoice-scan",
+      "before": 14345,
+      "after": 9044
+    },
+    {
+      "slug": "invoice-scan-3505-1385",
+      "before": 28715,
+      "after": 18110
+    },
+    {
+      "slug": "invoice-scan-dark",
+      "before": 14303,
+      "after": 9143
+    },
+    {
+      "slug": "kickboxing",
+      "before": 39635,
+      "after": 22983
+    },
+    {
+      "slug": "kickboxing-3505-3797",
+      "before": 39816,
+      "after": 22923
+    },
+    {
+      "slug": "layer-1",
+      "before": 21204,
+      "after": 13806
+    },
+    {
+      "slug": "lightbulb",
+      "before": 11580,
+      "after": 6396
+    },
+    {
+      "slug": "log-out-1",
+      "before": 5506,
+      "after": 3307
+    },
+    {
+      "slug": "log-out-2",
+      "before": 5001,
+      "after": 3477
+    },
+    {
+      "slug": "login-birthday",
+      "before": 15863,
+      "after": 10785
+    },
+    {
+      "slug": "login-birthday-dark",
+      "before": 16679,
+      "after": 11366
+    },
+    {
+      "slug": "login-faceid-android",
+      "before": 5928,
+      "after": 4364
+    },
+    {
+      "slug": "login-faceid-dark-android",
+      "before": 5959,
+      "after": 4382
+    },
+    {
+      "slug": "login-faceid-dark-ios",
+      "before": 17976,
+      "after": 11486
+    },
+    {
+      "slug": "login-faceid-ios",
+      "before": 17951,
+      "after": 11467
+    },
+    {
+      "slug": "login-mobilenumber",
+      "before": 15130,
+      "after": 11094
+    },
+    {
+      "slug": "login-mobilenumber-dark",
+      "before": 15925,
+      "after": 11716
+    },
+    {
+      "slug": "login-pin",
+      "before": 15491,
+      "after": 10746
+    },
+    {
+      "slug": "login-pin-dark",
+      "before": 16259,
+      "after": 11323
+    },
+    {
+      "slug": "login-ssn",
+      "before": 14733,
+      "after": 10751
+    },
+    {
+      "slug": "login-ssn-dark",
+      "before": 15533,
+      "after": 11427
+    },
+    {
+      "slug": "login-touchid",
+      "before": 8535,
+      "after": 6111
+    },
+    {
+      "slug": "login-touchid-dark",
+      "before": 8558,
+      "after": 6131
+    },
+    {
+      "slug": "login-trust-device",
+      "before": 8733,
+      "after": 6390
+    },
+    {
+      "slug": "login-trust-device-dark",
+      "before": 8758,
+      "after": 6409
+    },
+    {
+      "slug": "logout",
+      "before": 10491,
+      "after": 6689
+    },
+    {
+      "slug": "lost-connection",
+      "before": 25703,
+      "after": 15243
+    },
+    {
+      "slug": "lost-connection-3514-1",
+      "before": 60074,
+      "after": 37193
+    },
+    {
+      "slug": "lost-connection-crop",
+      "before": 19064,
+      "after": 12496
+    },
+    {
+      "slug": "lost-connection-wire",
+      "before": 15281,
+      "after": 11055
+    },
+    {
+      "slug": "mailbox",
+      "before": 36353,
+      "after": 18183
+    },
+    {
+      "slug": "man-1",
+      "before": 11336,
+      "after": 7975
+    },
+    {
+      "slug": "man-2",
+      "before": 8591,
+      "after": 5872
+    },
+    {
+      "slug": "man-3",
+      "before": 25882,
+      "after": 17595
+    },
+    {
+      "slug": "man-3505-2150",
+      "before": 56269,
+      "after": 34368
+    },
+    {
+      "slug": "man-4",
+      "before": 11820,
+      "after": 8125
+    },
+    {
+      "slug": "man-5",
+      "before": 6082,
+      "after": 4526
+    },
+    {
+      "slug": "man-6",
+      "before": 9875,
+      "after": 7190
+    },
+    {
+      "slug": "man-crossed-arms",
+      "before": 17917,
+      "after": 11697
+    },
+    {
+      "slug": "man-open-arms",
+      "before": 19421,
+      "after": 11949
+    },
+    {
+      "slug": "man-raised-arm",
+      "before": 19061,
+      "after": 12087
+    },
+    {
+      "slug": "man-sarching",
+      "before": 52034,
+      "after": 32970
+    },
+    {
+      "slug": "man-searching",
+      "before": 18176,
+      "after": 11879
+    },
+    {
+      "slug": "man-searching-dark",
+      "before": 16513,
+      "after": 10861
+    },
+    {
+      "slug": "man-searching-light",
+      "before": 17068,
+      "after": 10811
+    },
+    {
+      "slug": "man-sitting-1",
+      "before": 8858,
+      "after": 6315
+    },
+    {
+      "slug": "man-sitting-3",
+      "before": 23943,
+      "after": 16549
+    },
+    {
+      "slug": "man-stocks-and-savings",
+      "before": 27432,
+      "after": 18690
+    },
+    {
+      "slug": "man-walking-1",
+      "before": 8827,
+      "after": 6273
+    },
+    {
+      "slug": "man-walking-2",
+      "before": 7591,
+      "after": 5466
+    },
+    {
+      "slug": "man-walking-3",
+      "before": 8867,
+      "after": 6150
+    },
+    {
+      "slug": "mobilbank",
+      "before": 25710,
+      "after": 16529
+    },
+    {
+      "slug": "mobilbank-redesign",
+      "before": 13850,
+      "after": 9451
+    },
+    {
+      "slug": "mobile-bank",
+      "before": 25598,
+      "after": 14721
+    },
+    {
+      "slug": "mobile-number",
+      "before": 31228,
+      "after": 21713
+    },
+    {
+      "slug": "mom-child",
+      "before": 17681,
+      "after": 11788
+    },
+    {
+      "slug": "money-left",
+      "before": 64868,
+      "after": 35469
+    },
+    {
+      "slug": "money-over-time",
+      "before": 20119,
+      "after": 15290
+    },
+    {
+      "slug": "monfetti",
+      "before": 47430,
+      "after": 30247
+    },
+    {
+      "slug": "mortgage",
+      "before": 7931,
+      "after": 5438
+    },
+    {
+      "slug": "mortgage-11017-3445",
+      "before": 8046,
+      "after": 5172
+    },
+    {
+      "slug": "nettbank",
+      "before": 31002,
+      "after": 19147
+    },
+    {
+      "slug": "no-acess-ingen-tilgang-hund",
+      "before": 14893,
+      "after": 9609
+    },
+    {
+      "slug": "no-transactions",
+      "before": 56411,
+      "after": 28476
+    },
+    {
+      "slug": "office",
+      "before": 25572,
+      "after": 16537
+    },
+    {
+      "slug": "office-woman",
+      "before": 28820,
+      "after": 18944
+    },
+    {
+      "slug": "onboarding-side-1",
+      "before": 49199,
+      "after": 32596
+    },
+    {
+      "slug": "onboarding-side-2",
+      "before": 22149,
+      "after": 15073
+    },
+    {
+      "slug": "onboarding-side-3",
+      "before": 13101,
+      "after": 8985
+    },
+    {
+      "slug": "onboarding-side-5",
+      "before": 31067,
+      "after": 18503
+    },
+    {
+      "slug": "overview",
+      "before": 17629,
+      "after": 12052
+    },
+    {
+      "slug": "papirfly2",
+      "before": 20388,
+      "after": 11950
+    },
+    {
+      "slug": "payment",
+      "before": 14855,
+      "after": 8916
+    },
+    {
+      "slug": "payments-and-transactions-desktop",
+      "before": 63289,
+      "after": 56189
+    },
+    {
+      "slug": "payments-and-transactions-desktop-2",
+      "before": 60720,
+      "after": 54139
+    },
+    {
+      "slug": "penger-til-overs",
+      "before": 14241,
+      "after": 9540
+    },
+    {
+      "slug": "pension-profile",
+      "before": 12745,
+      "after": 8079
+    },
+    {
+      "slug": "people",
+      "before": 40161,
+      "after": 26797
+    },
+    {
+      "slug": "people-balloons",
+      "before": 54144,
+      "after": 33319
+    },
+    {
+      "slug": "personnel-insurance-personal-forsikring-coorprate-banking",
+      "before": 372,
+      "after": 268
+    },
+    {
+      "slug": "piggybank",
+      "before": 12791,
+      "after": 8579
+    },
+    {
+      "slug": "pin",
+      "before": 31925,
+      "after": 21444
+    },
+    {
+      "slug": "receipts",
+      "before": 27888,
+      "after": 16861
+    },
+    {
+      "slug": "receipts-background-mode-dark",
+      "before": 13703,
+      "after": 8584
+    },
+    {
+      "slug": "receipts-background-mode-light",
+      "before": 13689,
+      "after": 8570
+    },
+    {
+      "slug": "retired-couple",
+      "before": 23338,
+      "after": 14990
+    },
+    {
+      "slug": "retten-til-innsyn",
+      "before": 10371,
+      "after": 7041
+    },
+    {
+      "slug": "retten-til-sletting",
+      "before": 16871,
+      "after": 11358
+    },
+    {
+      "slug": "risk-level-dark-risk-level-high-mode-dark",
+      "before": 2441,
+      "after": 1952
+    },
+    {
+      "slug": "risk-level-dark-risk-level-low-mode-light",
+      "before": 2442,
+      "after": 1960
+    },
+    {
+      "slug": "risk-level-dark-risk-level-medium-mode-dark",
+      "before": 2447,
+      "after": 1951
+    },
+    {
+      "slug": "risk-level-dark-risk-level-very-high-mode-dark",
+      "before": 2445,
+      "after": 1958
+    },
+    {
+      "slug": "risk-level-dark-risk-level-very-low-mode-light",
+      "before": 2448,
+      "after": 1952
+    },
+    {
+      "slug": "risk-level-light-risk-level-high-mode-light",
+      "before": 2442,
+      "after": 2001
+    },
+    {
+      "slug": "risk-level-light-risk-level-low-mode-light",
+      "before": 2442,
+      "after": 1960
+    },
+    {
+      "slug": "risk-level-light-risk-level-medium-mode-light",
+      "before": 2448,
+      "after": 1951
+    },
+    {
+      "slug": "risk-level-light-risk-level-very-high-mode-light",
+      "before": 2449,
+      "after": 2009
+    },
+    {
+      "slug": "risk-level-light-risk-level-very-low-mode-light",
+      "before": 2448,
+      "after": 1952
+    },
+    {
+      "slug": "risk-profiles",
+      "before": 24718,
+      "after": 17858
+    },
+    {
+      "slug": "rocket-launch",
+      "before": 7578,
+      "after": 5860
+    },
+    {
+      "slug": "safe-to-spend",
+      "before": 34412,
+      "after": 19300
+    },
+    {
+      "slug": "saving-thief",
+      "before": 15105,
+      "after": 9469
+    },
+    {
+      "slug": "savings",
+      "before": 23477,
+      "after": 16600
+    },
+    {
+      "slug": "savings-goal",
+      "before": 13277,
+      "after": 9099
+    },
+    {
+      "slug": "shaking-hands-corprate-style",
+      "before": 32048,
+      "after": 22025
+    },
+    {
+      "slug": "shopping",
+      "before": 30960,
+      "after": 18484
+    },
+    {
+      "slug": "shopping-10037-5225",
+      "before": 28899,
+      "after": 17684
+    },
+    {
+      "slug": "shopping-background-dark",
+      "before": 15319,
+      "after": 9461
+    },
+    {
+      "slug": "shopping-background-light",
+      "before": 15320,
+      "after": 9461
+    },
+    {
+      "slug": "shopping-theme-darkmode",
+      "before": 14307,
+      "after": 9061
+    },
+    {
+      "slug": "shopping-theme-lightmode",
+      "before": 14293,
+      "after": 9047
+    },
+    {
+      "slug": "sparing",
+      "before": 6522,
+      "after": 6363
+    },
+    {
+      "slug": "ssn",
+      "before": 30409,
+      "after": 21113
+    },
+    {
+      "slug": "stocks",
+      "before": 33907,
+      "after": 22363
+    },
+    {
+      "slug": "stocks-3505-6450",
+      "before": 34204,
+      "after": 22363
+    },
+    {
+      "slug": "stocks-and-funds-man-sitting-in-front-of-graphs",
+      "before": 42117,
+      "after": 27002
+    },
+    {
+      "slug": "subscriptions",
+      "before": 158771,
+      "after": 148460
+    },
+    {
+      "slug": "subscriptions-dark-mode-false",
+      "before": 142222,
+      "after": 137322
+    },
+    {
+      "slug": "subscriptions-dark-mode-true",
+      "before": 142239,
+      "after": 137324
+    },
+    {
+      "slug": "surprise",
+      "before": 12448,
+      "after": 8392
+    },
+    {
+      "slug": "talk-to-dnb",
+      "before": 23252,
+      "after": 16265
+    },
+    {
+      "slug": "technical-issue",
+      "before": 19435,
+      "after": 12212
+    },
+    {
+      "slug": "tennis",
+      "before": 41332,
+      "after": 27058
+    },
+    {
+      "slug": "tickets",
+      "before": 39862,
+      "after": 22902
+    },
+    {
+      "slug": "touch-id",
+      "before": 17654,
+      "after": 11846
+    },
+    {
+      "slug": "travel-insurance",
+      "before": 38162,
+      "after": 24767
+    },
+    {
+      "slug": "trust-device",
+      "before": 17661,
+      "after": 12265
+    },
+    {
+      "slug": "visually-impaired",
+      "before": 10843,
+      "after": 7522
+    },
+    {
+      "slug": "watering-money",
+      "before": 24725,
+      "after": 16346
+    },
+    {
+      "slug": "weightlifter-man",
+      "before": 80883,
+      "after": 50478
+    },
+    {
+      "slug": "weightlifter-man-1",
+      "before": 29971,
+      "after": 19491
+    },
+    {
+      "slug": "weightlifter-man-2",
+      "before": 25432,
+      "after": 16761
+    },
+    {
+      "slug": "weightlifter-man-3",
+      "before": 25613,
+      "after": 16232
+    },
+    {
+      "slug": "weightlifter-woman",
+      "before": 74887,
+      "after": 48669
+    },
+    {
+      "slug": "weightlifter-woman-1",
+      "before": 29614,
+      "after": 20014
+    },
+    {
+      "slug": "weightlifter-woman-2",
+      "before": 22195,
+      "after": 14996
+    },
+    {
+      "slug": "weightlifter-woman-3",
+      "before": 23231,
+      "after": 15899
+    },
+    {
+      "slug": "woman-1",
+      "before": 13936,
+      "after": 10241
+    },
+    {
+      "slug": "woman-1-8496-10537",
+      "before": 9277,
+      "after": 6158
+    },
+    {
+      "slug": "woman-10",
+      "before": 12128,
+      "after": 8530
+    },
+    {
+      "slug": "woman-2",
+      "before": 15195,
+      "after": 10888
+    },
+    {
+      "slug": "woman-2-8496-10539",
+      "before": 8600,
+      "after": 5355
+    },
+    {
+      "slug": "woman-3",
+      "before": 11719,
+      "after": 8263
+    },
+    {
+      "slug": "woman-3505-2575",
+      "before": 67451,
+      "after": 45458
+    },
+    {
+      "slug": "woman-3505-6423",
+      "before": 29188,
+      "after": 20352
+    },
+    {
+      "slug": "woman-4",
+      "before": 26329,
+      "after": 17611
+    },
+    {
+      "slug": "woman-5",
+      "before": 9696,
+      "after": 6548
+    },
+    {
+      "slug": "woman-6",
+      "before": 13268,
+      "after": 9314
+    },
+    {
+      "slug": "woman-8501-26733",
+      "before": 52370,
+      "after": 31905
+    },
+    {
+      "slug": "woman-presenting",
+      "before": 12150,
+      "after": 5667
+    },
+    {
+      "slug": "woman-searching",
+      "before": 18810,
+      "after": 12349
+    },
+    {
+      "slug": "woman-searching-3505-1797",
+      "before": 51796,
+      "after": 33166
+    },
+    {
+      "slug": "woman-searching-dark",
+      "before": 16420,
+      "after": 10720
+    },
+    {
+      "slug": "woman-searching-light",
+      "before": 16331,
+      "after": 10779
+    },
+    {
+      "slug": "woman-sitting-2",
+      "before": 30259,
+      "after": 19809
+    },
+    {
+      "slug": "woman-sitting-4",
+      "before": 7704,
+      "after": 5697
+    },
+    {
+      "slug": "woman-sitting-5",
+      "before": 24575,
+      "after": 16948
+    },
+    {
+      "slug": "woman-sitting-5-property-1-dark-mode",
+      "before": 35010,
+      "after": 24407
+    },
+    {
+      "slug": "woman-sitting-5-property-1-light-mode",
+      "before": 32030,
+      "after": 22259
+    },
+    {
+      "slug": "woman-sitting-6-dark-mode",
+      "before": 26041,
+      "after": 16370
+    },
+    {
+      "slug": "woman-walking-1",
+      "before": 7402,
+      "after": 5389
+    },
+    {
+      "slug": "woman-walking-2",
+      "before": 8591,
+      "after": 6002
+    },
+    {
+      "slug": "woman-walking-3",
+      "before": 7413,
+      "after": 5006
+    },
+    {
+      "slug": "woman-walking-4",
+      "before": 8066,
+      "after": 5416
+    },
+    {
+      "slug": "woman-watering-her-savings",
+      "before": 25886,
+      "after": 18387
+    },
+    {
+      "slug": "women",
+      "before": 54304,
+      "after": 36058
+    },
+    {
+      "slug": "workers",
+      "before": 76196,
+      "after": 44877
+    },
+    {
+      "slug": "car",
+      "before": 7046,
+      "after": 4130
+    },
+    {
+      "slug": "transport-bikes-bike-01",
+      "before": 7504,
+      "after": 4305
+    },
+    {
+      "slug": "transport-cars-pickup-01",
+      "before": 6061,
+      "after": 4476
+    },
+    {
+      "slug": "transport-cars-truck-01",
+      "before": 4650,
+      "after": 3495
+    },
+    {
+      "slug": "transport-cars-van-01",
+      "before": 10344,
+      "after": 6023
+    },
+    {
+      "slug": "transport-excavator",
+      "before": 12540,
+      "after": 7268
+    },
+    {
+      "slug": "transport-motorbikes-motorbike-01",
+      "before": 8898,
+      "after": 5047
+    },
+    {
+      "slug": "transport-other-rollercoaster-01",
+      "before": 2841,
+      "after": 2211
+    },
+    {
+      "slug": "transport-other-scooter-01",
+      "before": 2325,
+      "after": 1619
+    },
+    {
+      "slug": "transport-other-trolley-01",
+      "before": 8503,
+      "after": 5695
+    },
+    {
+      "slug": "transport-planes-plane-01",
+      "before": 5714,
+      "after": 3771
+    },
+    {
+      "slug": "transport-situation-crash",
+      "before": 10408,
+      "after": 5990
+    },
+    {
+      "slug": "transport-wheel",
+      "before": 6975,
+      "after": 3937
+    }
+  ]
+}

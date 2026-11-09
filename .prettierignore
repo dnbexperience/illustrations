@@ -1,0 +1,12 @@
+node_modules
+dist
+.pages
+.catalogue
+.review
+coverage
+assets
+package-lock.json
+test-results
+playwright-report
+
+.figma-review/

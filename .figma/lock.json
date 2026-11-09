@@ -1,0 +1,3546 @@
+{
+  "schemaVersion": 1,
+  "figmaVersion": "2410874798609493059",
+  "assets": [
+    {
+      "path": "sources/background/background-splash-01.svg",
+      "nodeId": "3515:1027",
+      "sha256": "c3d6836f2e4f6e63dd90ce8f124f648d82f3411d6fa6323a9fbc19de58efe906",
+      "exportSha256": "e6fed7707fe28f3f7085dc693b7024d51c6761c4e572d056c5a38752e2b86f1e"
+    },
+    {
+      "path": "sources/background/background-splash-02.svg",
+      "nodeId": "3515:1025",
+      "sha256": "9d5de071161909609b10afe1eb4587dfadf4f7a2fec2acbe1ab39054cc8264e0",
+      "exportSha256": "19af08a00fd272a5459c1fd74551f1243210876246a963bd42780823761d15ed"
+    },
+    {
+      "path": "sources/background/background-splash-03.svg",
+      "nodeId": "3515:1023",
+      "sha256": "52bacf77f4777363314a0c67a43f16bc3a41efc96318970901cd0a024154d24e",
+      "exportSha256": "629736cdff558bf90a472f6500d49ff01ff80cb0a5db6a5de0867ecb38705e25"
+    },
+    {
+      "path": "sources/background/background-splash-04.svg",
+      "nodeId": "3515:1021",
+      "sha256": "d6e88269a07b29523f3dd9c0a8fac049e6fde31ea23971602ded93f4221a3c76",
+      "exportSha256": "36c55e0c4f061294c786f98cdba24ac71a7adb05ada804d7102d3845a1aa5962"
+    },
+    {
+      "path": "sources/background/background-splash-05.svg",
+      "nodeId": "3515:1019",
+      "sha256": "5f7ed32a60fa65193f11f91a6762ee00479d7bebf9062185cb1f83076ba748ea",
+      "exportSha256": "6a411ccdaca35df4d41e0f2a8c423ee2646163382a435532f128dfd594a04b0e"
+    },
+    {
+      "path": "sources/background/background-splash-06.svg",
+      "nodeId": "3515:1017",
+      "sha256": "91d91ed4ffaa8c7399da28284cb2f53820ab9b9a329a7f8637f273174c4b513f",
+      "exportSha256": "b83554ff42b800ae83070f26fe5ff606b7a35698c70031e59a992378565fe062"
+    },
+    {
+      "path": "sources/buildings/house-family-home.svg",
+      "nodeId": "4162:0",
+      "sha256": "f9ca8a17009c49dd455c4e780dcc2606e8b045b018e18f61e6dbd81522e11a23",
+      "exportSha256": "f2d10d40ed5e9ba771bafaf4b6c341c9bf10b24c4121c0227a3aa4a240ef4aac"
+    },
+    {
+      "path": "sources/buildings/house-frontal.svg",
+      "nodeId": "3515:230",
+      "sha256": "586fa71fa0e5b1b91dac2e7e0fd643d2397147177243a699379878c62b4545c0",
+      "exportSha256": "06caed331d933f9e027e64168cfb57d5190c9554fcf5e642e576fc13d908324b"
+    },
+    {
+      "path": "sources/buildings/house-modern.svg",
+      "nodeId": "3515:239",
+      "sha256": "748098e52c28f225d673a71d4842a284ba5c72929a469c0c99966bc69a674f31",
+      "exportSha256": "1fa40998fca1860666ffcfba063efeff740ae0dba62a73fefa04d6606d03ac4f"
+    },
+    {
+      "path": "sources/device/device-laptop-01.svg",
+      "nodeId": "5960:6",
+      "sha256": "bcb889036b5bc71f6078ecb65c601550facd0f250988c9b6d7c0663324c1ff88",
+      "exportSha256": "1ba6e088d4f69961ce3b71f007d6e602fc292fa4ec017d187acaee98ffc9408f"
+    },
+    {
+      "path": "sources/device/device-phone-01.svg",
+      "nodeId": "5900:74",
+      "sha256": "09c5456d1ab59ef38067515080d9973e4a954884b48d90b56f4074ca41229964",
+      "exportSha256": "b2b944a6d256794bceaead86bc140c7ec0597031c17c73396b27da6cf5e62753"
+    },
+    {
+      "path": "sources/device/device-phone-02.svg",
+      "nodeId": "5900:171",
+      "sha256": "73d672cf65e374eb2e7e02120b45c9e9e346dd3417b8ff7ae08b5d80fc9a865d",
+      "exportSha256": "6b3ea28a37225dd3f061efb314650dcbbae25b186003fb79cfa2c6aef6abd48f"
+    },
+    {
+      "path": "sources/device/device-phone-03.svg",
+      "nodeId": "3515:1049",
+      "sha256": "5bfd6fd64aa1692c505a2d7ea35372ff1052ce8f255eebd33fd40f8108d2f82d",
+      "exportSha256": "487efac284a47a37362c46fcae88b0e5bb4fb6ecc6f452f6b195c7598295bbd8"
+    },
+    {
+      "path": "sources/effects/effects-fireworks-01.svg",
+      "nodeId": "3515:972",
+      "sha256": "f11c53411fb936f17aee0fd4106f6b3acf3e2a1e414bc3b31eb522ee301b2e5f",
+      "exportSha256": "0b9e191f945a9b27aa15c0cae55b2112c6c08305c87bf51fb3d45e857882f0c2"
+    },
+    {
+      "path": "sources/effects/effects-tada-01.svg",
+      "nodeId": "3515:1012",
+      "sha256": "9ec90c922a82ce1beaf670aa0ee2d7ab29af39db1a83692e60c34f9526e9b461",
+      "exportSha256": "48b57590285e5432d3141b8a9032bb6367a42488639c2ac97bfe58286234310e"
+    },
+    {
+      "path": "sources/interior/interior-furniture-beanbag-01.svg",
+      "nodeId": "3515:749",
+      "sha256": "44b6bd366587508c38eb475b0a50e00d2c56496c5969da0637d95271915cdb51",
+      "exportSha256": "fe21428ff5ad9a8e529cfbb4c3d2c8740c8c511a70a15117ad94c7d951142fae"
+    },
+    {
+      "path": "sources/interior/interior-plants-03.svg",
+      "nodeId": "4928:126",
+      "sha256": "3332e7334bb25ed05363eebec1d13f0993f7db82eb66d324b2dd10a6d02e4fb3",
+      "exportSha256": "f18d3543c3ebbb3150d1a62b0a775e88dad0c3df286fd8f9bf9cadcc48aa3447"
+    },
+    {
+      "path": "sources/interior/interior-plants-plant-01.svg",
+      "nodeId": "3515:742",
+      "sha256": "3a922d8e36c69db875fc1047d359b036a5588113de91cc223457edb1a599eca5",
+      "exportSha256": "598ba84d5f036d6645d566aadd9463139fdc76ce0a87ae6c237a0e7ec8aa0c4f"
+    },
+    {
+      "path": "sources/interior/interior-plants-plant-02.svg",
+      "nodeId": "3515:1125",
+      "sha256": "ebfdd8043e31397c2fb31502240b24b15a328212884f80c900d7fa8b27aad0a5",
+      "exportSha256": "c05826e6ca1f2dd0c9604b1dbf388d865e84914d7b7cf70b1f3b6021d36edebb"
+    },
+    {
+      "path": "sources/interior/sofa.svg",
+      "nodeId": "3515:715",
+      "sha256": "1594209a733d5b786bfe9178a9316515c95b6c5f3b445aa9fb6dd8e739755b3a",
+      "exportSha256": "376794a1a949658fd0449c262b3954e1e355102c8f9a7ae76e4eb3d78bc9af09"
+    },
+    {
+      "path": "sources/nature/nature-bushes-bush-01.svg",
+      "nodeId": "3515:688",
+      "sha256": "7e420575ad05c070e839b65cfeee88defc26e8b64785db62837146e3b453d1d0",
+      "exportSha256": "1d70e207ad72228f207d3d8f3f61c2effc541f398c14472d3dd691e82b0ddf41"
+    },
+    {
+      "path": "sources/nature/nature-bushes-bush-02.svg",
+      "nodeId": "3515:685",
+      "sha256": "d0209995cb7bf8f308bd2a3e6845bf5d874e59d290b7257bd713aa1771e79748",
+      "exportSha256": "93260b5528855b7ddc53c940554e79298d7d340c8164241e82a16f346d16da42"
+    },
+    {
+      "path": "sources/nature/nature-other-earth.svg",
+      "nodeId": "3515:1068",
+      "sha256": "9d530f5d31a05473b812286fbd41700b150725d192bfe8a954f833db3f29e907",
+      "exportSha256": "d74003bfc489d61e8e435e082743d90313ecf5eee81b3fd6ac09d1887f1bea97"
+    },
+    {
+      "path": "sources/nature/nature-plants-moneyplant-02.svg",
+      "nodeId": "3518:293",
+      "sha256": "95f54a404ab39c17d08c2d33fce890cde6ba059ac170b6ced266c5c6fc09dd97",
+      "exportSha256": "0e2400cc9da3212bf93ef155b489298df62e38e66a1a278138dc7a342ae14564"
+    },
+    {
+      "path": "sources/nature/nature-plants-moneyplant-03.svg",
+      "nodeId": "3518:273",
+      "sha256": "0e6ec060b7cffe20382e04a65155c352febb0b19cf44cac0161a3ff2e8b02912",
+      "exportSha256": "3e7d54d1cf236fdc025b86c91174757736dd057b94fd710ccbd013e3912d040c"
+    },
+    {
+      "path": "sources/nature/nature-trees-tree-02.svg",
+      "nodeId": "3515:590",
+      "sha256": "203919587de537b4c0a0cd90a77f55d146579087110bed70513e4a09f7bd9416",
+      "exportSha256": "02233ca3e88adc82bc11eb26fa733560e74f01c861e50647733a161388d9b360"
+    },
+    {
+      "path": "sources/nature/tree.svg",
+      "nodeId": "3515:607",
+      "sha256": "2ca7bfb277a9894b0cbbb2cfd727dee13a3f2ed01d0a76bd0a24ea12c5b8a9be",
+      "exportSha256": "a421cd189431bb6be55b2ac170c4ba15604e87765d090b551ec55ff8fd0c8958"
+    },
+    {
+      "path": "sources/objects/advisor.svg",
+      "nodeId": "5671:944",
+      "sha256": "370bdf3ce951bea15658a609ed8a813ff0d5bd64afba5a26e26af959968bc849",
+      "exportSha256": "67c0fe36986d241da209547b0d8b8f3e4e1e58c2f8dac8a552f27cffb4d70e6b"
+    },
+    {
+      "path": "sources/objects/advisor-2.svg",
+      "nodeId": "5671:945",
+      "sha256": "031bcdab954c1ed6246126aa2e97a3c683f391d79277aba6c97511c9c356bf18",
+      "exportSha256": "bf5b6c7a962b5062fa10b08201f4fa0e8d12b475b55251b81d610747239ea80b"
+    },
+    {
+      "path": "sources/objects/arrows.svg",
+      "nodeId": "5614:959",
+      "sha256": "1233603ba6e858c2a74e4ba65754f6294f6880321fc5437f3fdb6c9711799637",
+      "exportSha256": "2dd8b812cdd6c248f683139d671eaeaafac8d2a465cc8afcf705df7eae810673"
+    },
+    {
+      "path": "sources/objects/bank.svg",
+      "nodeId": "5605:943",
+      "sha256": "c0a876346b9f04a2fe388f186f976f55a2831f4207107216458827553d1de493",
+      "exportSha256": "30c624592e43952415457941fcc6ab1ae1cc779af1a7ee37a4e3a8fff13656ee"
+    },
+    {
+      "path": "sources/objects/bankid-graphics.svg",
+      "nodeId": "5614:965",
+      "sha256": "3f6b8947cec03a9b6dd05de5f541285decb548cb45b28f5ef244da1ae95ab33a",
+      "exportSha256": "74c999f7115f79a94fa9c1d0c874e3b8c72bd0e00df5b6734b0d871f6f5835b3"
+    },
+    {
+      "path": "sources/objects/blob.svg",
+      "nodeId": "5605:950",
+      "sha256": "1462c16ab04b06fa1b34eb36c1961b49ed2751bc00e1a772c91347b121c736ce",
+      "exportSha256": "3a36b45440b8a608a64b6a8ebc35850de3176d0236bba543bbbbf719001f2e73"
+    },
+    {
+      "path": "sources/objects/briefcase.svg",
+      "nodeId": "5614:939",
+      "sha256": "425bc77ff2f477cdd7904bc8b5ce33b5aaecde9b831834a6a9a32e771921ed47",
+      "exportSha256": "c84a0db3b13896baf9222a9b04e04c36c55c692554ebcf71846c25ad1aa9c5be"
+    },
+    {
+      "path": "sources/objects/broken-vase.svg",
+      "nodeId": "5605:953",
+      "sha256": "17af0e9bef5811d45923244fd1a48b7662a539b9922ef30623d4d026919e36a5",
+      "exportSha256": "aa410ef88cce07fd4e29683531c26f76bc58fa5f914aa1bb0146866aaeeb12ed"
+    },
+    {
+      "path": "sources/objects/calculator-5614-942.svg",
+      "nodeId": "5614:942",
+      "sha256": "06216d041b0fa1b1f57d835b38b1416002cd550c5e52aa4481741220a98b542b",
+      "exportSha256": "83ef3c8bb69baafbdaadaa347ccee95147bd66c1e5cadfab0b2cc9a8a2050b82"
+    },
+    {
+      "path": "sources/objects/calculator-and-statistics.svg",
+      "nodeId": "5614:940",
+      "sha256": "6731dc9c126bb808e81a91acd84a0d1fec1be79beedf638e5f5014a9f776a563",
+      "exportSha256": "2dd6deeebf4cad9fd4615b37d8b961e57933422351952da5c1b0697424fd6d7c"
+    },
+    {
+      "path": "sources/objects/camera.svg",
+      "nodeId": "5614:987",
+      "sha256": "bd017293f8e94013427872a63cb7a67ab3254e697efca2fae68db8cf6093778d",
+      "exportSha256": "abf5fe457db733de89560439d7159227b7d90f0fdfbb264760bdaadb9c9d6cc6"
+    },
+    {
+      "path": "sources/objects/cat.svg",
+      "nodeId": "5671:949",
+      "sha256": "d184b6114b082a4bd5097a3242d89e9940358ab19c0b1934099f06527aed63b4",
+      "exportSha256": "a36285f9130254da2ce5ce830df015036978e850227696c02a2e5c450bc6c958"
+    },
+    {
+      "path": "sources/objects/certificate.svg",
+      "nodeId": "5614:938",
+      "sha256": "25105ed60331791075f69bd69ffab72ec83032248b0080b815363eac66ca8e22",
+      "exportSha256": "f724576496159c50dd4a43747c25b6f977aa42e58bcb8a4361a9462864d9c5b4"
+    },
+    {
+      "path": "sources/objects/check-mark.svg",
+      "nodeId": "5614:941",
+      "sha256": "9a938082a691c572152f0d2efc6e9a55f1d8ba49d2156d476d4766e4db77f212",
+      "exportSha256": "2bacf068342041e764184b4fddbbdb5fc5452b381d6d011233ab21b2a382dc84"
+    },
+    {
+      "path": "sources/objects/child.svg",
+      "nodeId": "5671:942",
+      "sha256": "1a268aeed477146183726928ab3374258b292b713452f9e99c53d025c1773e02",
+      "exportSha256": "1c93905df603833fa53fb147f0c4fdb79c15005e8a23cca6c154df79dcab16db"
+    },
+    {
+      "path": "sources/objects/cloud.svg",
+      "nodeId": "5671:934",
+      "sha256": "1a3330c4c97f50d46441ba45477fb6dd9ce344cf588698199e1cffd705412b6b",
+      "exportSha256": "898d0843e181ca35186b4bf07b163ff09e10d607e01a89ab4d8e5d93c1633927"
+    },
+    {
+      "path": "sources/objects/cloud-2.svg",
+      "nodeId": "5671:935",
+      "sha256": "3bfa28aac4646d7a91968b69ae9a0ded4d6b8952de7967b6d5448f1e6341626c",
+      "exportSha256": "8d14d6a86aa1231343151f7864b06060f62d50a5386323b4a031daebae5e9d3b"
+    },
+    {
+      "path": "sources/objects/cloud-3.svg",
+      "nodeId": "5671:936",
+      "sha256": "691eff979d0f837e84332fc5487270ac6eaa679cf97aa046a926c84d9ac5a898",
+      "exportSha256": "9f0a832465cb315ea410760329f94d30db9172caf2207f001361e1adc8523f45"
+    },
+    {
+      "path": "sources/objects/cloud-4.svg",
+      "nodeId": "5605:949",
+      "sha256": "9ec1885a1102c4bf996b14b9440dfa77b54367dc97367e8bb1b6d0b65cdbf5d0",
+      "exportSha256": "099468b1fa5dfa4dceb334b41b456da80bc4c554e19aff5e81db69b1c1fb5706"
+    },
+    {
+      "path": "sources/objects/cloud-5605-947.svg",
+      "nodeId": "5605:947",
+      "sha256": "b26c2a7956c9c9fa014fc3acfa9dbf2427208f584dbc5570e9a95f8c2f9255bf",
+      "exportSha256": "5f99902624303ff1a283df0198d1ab5e4964622ee09a8f88e66a690c1dacffc0"
+    },
+    {
+      "path": "sources/objects/coffee-cup.svg",
+      "nodeId": "5615:938",
+      "sha256": "c0ae5c5f27e92e4c202b772f82370c61dad03053e84968e3dd2fd2ec2c41606e",
+      "exportSha256": "10ce5daf78a7edcdf2e041037fe190ba0bd0bff82007a460171a2806bdde0f0f"
+    },
+    {
+      "path": "sources/objects/coin.svg",
+      "nodeId": "5614:962",
+      "sha256": "fdef48613fd09169c1446cfff72906677f0a471b5f304165187e8421eccb6dc0",
+      "exportSha256": "9bde83e357071062a8b49b889b40df2612adb8f06c008ddee3c29c9711db6645"
+    },
+    {
+      "path": "sources/objects/coins.svg",
+      "nodeId": "5615:936",
+      "sha256": "dde24200d29840f5a1ae623a7faea335cbdcf94c83aa1196960b3fe9502bcd91",
+      "exportSha256": "d9561ec86b76aca6740fce144c9419c2bfe33ef13d5a71a4e91b6c91f1528a19"
+    },
+    {
+      "path": "sources/objects/construction.svg",
+      "nodeId": "5605:942",
+      "sha256": "826fd2c1a5548b81084fa8f4bda57eb3f11a6093add880155b447b4097d43f62",
+      "exportSha256": "301ae2d9ca6dd7de7fadff16e507c4054740cf7991d8710d6c5f264421542e57"
+    },
+    {
+      "path": "sources/objects/couple.svg",
+      "nodeId": "5671:952",
+      "sha256": "953deaaca23146a5d92d53eee0dfbcec5d013eb39982e378c8f65a362899a889",
+      "exportSha256": "91334ce41bcac2ced49ff18806da5b35c9d1f86b8a68a2d463cfdfc23c4ef128"
+    },
+    {
+      "path": "sources/objects/cullet.svg",
+      "nodeId": "5614:980",
+      "sha256": "4bf414082a76047736fa7fd563e9c08e75bd460f5f5b8fb8032084b9a79284ef",
+      "exportSha256": "2813bb40701f5bab3efcab0513722d0786451b665df8332a04f289d0552673d2"
+    },
+    {
+      "path": "sources/objects/documents-5614-978.svg",
+      "nodeId": "5614:978",
+      "sha256": "f538e0d8dd4e5c5f14ff354be8a936b77da07eabad54d584a56184047c1af14d",
+      "exportSha256": "4df0460f13e6b6d308fe41398daaad6344ef9c47c6b0c88834bf5e1912ac7530"
+    },
+    {
+      "path": "sources/objects/dog.svg",
+      "nodeId": "5671:947",
+      "sha256": "de534b31046d7dd39bb60d15be476a968541e92c652efc1e6f9223441c886b0e",
+      "exportSha256": "5894a0feec1fb96c65a6869575a73aade02574ec1d5d594c9939b50dae795040"
+    },
+    {
+      "path": "sources/objects/drink.svg",
+      "nodeId": "5614:985",
+      "sha256": "c85babd9a6a127bedac4d2575a99fc7c490afb84592f4e48c8d1dd03c516257a",
+      "exportSha256": "59724979b34d01d8b5152fe103c6c66050e4cd819d8d08bb1e353b8f5b7fe0c7"
+    },
+    {
+      "path": "sources/objects/duct-tape.svg",
+      "nodeId": "5614:943",
+      "sha256": "9f2be4417a74d50f9a00741f19bb46a0b2b7925b74e200a0beaa50573928a4b3",
+      "exportSha256": "e802e296ae81b6510110022c8b04ebb7371b6da123bfd658b6615c6e02c5f31a"
+    },
+    {
+      "path": "sources/objects/first-aid-kit-5614-972.svg",
+      "nodeId": "5614:972",
+      "sha256": "92a9148eedebef6d7c9f70649589fa58f1007916474679ef6f68ef6f79ecb1c7",
+      "exportSha256": "1ce424bb5690b6fe51eabc3557a938a73d08df3074edfc8739e53e9898dca2b3"
+    },
+    {
+      "path": "sources/objects/flag-pole.svg",
+      "nodeId": "5614:949",
+      "sha256": "695b3590284a686145289389f86cde95ece0344f989da0c299c04c2bf353aa59",
+      "exportSha256": "01f298828cac7aa0d079fc402024ef7325cfd1b3815b4d88b3e816d8fa64d1c0"
+    },
+    {
+      "path": "sources/objects/foliage.svg",
+      "nodeId": "5605:952",
+      "sha256": "3c7c6159cd773ef2460409428611f0bbc7003028c5eb812a3f948ea8ae7e1249",
+      "exportSha256": "96d6a7f1fe9c11d92d145112b766b7e25bc943f10d6d720efc080f38eacbce03"
+    },
+    {
+      "path": "sources/objects/foliage-2.svg",
+      "nodeId": "5605:954",
+      "sha256": "c7003071f597927a9d1a682f85c8555d6ba4a775aa4ce5f90a1aee6c2ab1b5ec",
+      "exportSha256": "656f4b09f481a953fcc1042f0d5aaeb9c8637152fc255ffe937287dcde0d2349"
+    },
+    {
+      "path": "sources/objects/graph.svg",
+      "nodeId": "5614:956",
+      "sha256": "ef1b0cf122bbb151ed9391eefb57d9f82f84ffd1db0b1487f6d5f8291519b763",
+      "exportSha256": "143670b6b27ae7351706b73a48902ae3e30c0d6155cec05ae2df33448b7f12d8"
+    },
+    {
+      "path": "sources/objects/hand-6.svg",
+      "nodeId": "5711:941",
+      "sha256": "c3bf930b94103a2d47ce2dde6f9a04d189e22ac6686ed3944ca4fd7ae66cf319",
+      "exportSha256": "a8dd225262dfde99b34ab46ed21b17c5b7a8beb7ce7a8705adfe4a4862c9efa2"
+    },
+    {
+      "path": "sources/objects/hand-holding-phone-2.svg",
+      "nodeId": "5711:935",
+      "sha256": "01d81f5648a67c383eb583c4fceba6f2a95f09fb63c2f013748b281697510613",
+      "exportSha256": "a1ca525f0065bbe5182c04a79db17e953b545e55c0d2c933cae5df4f09fe0db2"
+    },
+    {
+      "path": "sources/objects/houses-modern.svg",
+      "nodeId": "5605:940",
+      "sha256": "527aad2c67884d53763bee6c0e5aab5a4c829ca781a8339e83d3c83e2e7dcf12",
+      "exportSha256": "09c9b83d8223abe0cec3df9eb0e46f433172d95ca785ecfa30b37778eb109014"
+    },
+    {
+      "path": "sources/objects/houses-traditional.svg",
+      "nodeId": "5605:939",
+      "sha256": "203f6ea80a27a0c240fc42abe4bf74bd2e845aa55767ec1a6ddce363e2edbd58",
+      "exportSha256": "99e1b3017c180116b3c2139a6db4b1dcf78c615c9f5b625aec2d5fbabf84bd23"
+    },
+    {
+      "path": "sources/objects/houses-wooden.svg",
+      "nodeId": "5605:938",
+      "sha256": "0df990f3bee6ab422ef8bb29e8aa8b024a9b1f2a6e83696bd470e96c76c48673",
+      "exportSha256": "20cb287507af5d198d77c6224ddd74319aacb734cf46a5a1f3ef381205ee9371"
+    },
+    {
+      "path": "sources/objects/key.svg",
+      "nodeId": "5614:945",
+      "sha256": "36345d5154d7dc19ba53990d01488c4cdf29ef91c3932829c9e27161baaa9558",
+      "exportSha256": "4e2d748123d8e41066d26d454053932511a6c8381aefa983c2c5b2feac0c52eb"
+    },
+    {
+      "path": "sources/objects/key-2.svg",
+      "nodeId": "5614:984",
+      "sha256": "c1fabfd3dcdebf6460302d9c35f046dbc8ed21bf1bc67dd83c43fd509c5c1983",
+      "exportSha256": "a7992f159ae78167593557bff2301906669dcaefda384e5795e469ccb7454765"
+    },
+    {
+      "path": "sources/objects/keyhole.svg",
+      "nodeId": "5604:941",
+      "sha256": "4f0a78fd583690195a24f948100c1eb798624fe6705325d5c8aeb21431924751",
+      "exportSha256": "dd83bb4b8487dc4db5c339cab0c80cf2b34b6e6e70b91445670b1eecca616da6"
+    },
+    {
+      "path": "sources/objects/light-bulb.svg",
+      "nodeId": "5614:944",
+      "sha256": "d46ab925ec6b14a118e8c881176133eb986b7becf8ecc92f87e248bb0d36bf1b",
+      "exportSha256": "9a45f0d1e2974c2a856cd60135749c1edb0a20eb6cbe0c0a3258829d94f969a9"
+    },
+    {
+      "path": "sources/objects/light-bulb-with-coin.svg",
+      "nodeId": "5614:960",
+      "sha256": "fd692335bed63ec4de5d7c62a76559f15566ac1e8bfc1c7b332c076c788e2fd6",
+      "exportSha256": "5c488e7039b9567c6c6ce805027bd6baf9357cb5fcaed38b16a1870d95b3df63"
+    },
+    {
+      "path": "sources/objects/lock.svg",
+      "nodeId": "5614:963",
+      "sha256": "7b0640f599d190501dd8291e5f0341f7a66da396fd768973fffd300516f6bf2a",
+      "exportSha256": "2260e51f88c327a0f54daad350c63eb67d69b7fd69f0389e8457382a263813e0"
+    },
+    {
+      "path": "sources/objects/log-in-screen-1.svg",
+      "nodeId": "5614:976",
+      "sha256": "50e6d257b9110eb83846f908bfe5b93bf36030c535ba4ee321d695d971a55f59",
+      "exportSha256": "d27fe2894ace9b52a77c3982a8b2d986980671074a14ca71d2b53619dcdb480f"
+    },
+    {
+      "path": "sources/objects/log-in-screen-2.svg",
+      "nodeId": "5614:974",
+      "sha256": "8c90e9a3e9740a8f66fcd5f43f12f0f11b7a4bfc7cbabb6734e33ae2e4693d0c",
+      "exportSha256": "f8725dc1b4b31614ed3b78d556e0c2aef0e3cd71d16f4b6dfe1ab90753857945"
+    },
+    {
+      "path": "sources/objects/log-in-screen-3.svg",
+      "nodeId": "5614:975",
+      "sha256": "6d8d5722a4fec6e23693f3bb75445a4d6332ffec21d4de96afff888040a8146b",
+      "exportSha256": "78ad9d0f36f003bf23ba3ebc5c7c30d676d57038ab4057ae7c221dca3456efd9"
+    },
+    {
+      "path": "sources/objects/log-in-screen-4.svg",
+      "nodeId": "5614:977",
+      "sha256": "b86ec9dd91fa7760dcbba929f2a90b439f97c528b57ade57a36e3723ee2c9bcb",
+      "exportSha256": "90c0c00482587b64fb71fbd8c24d031774ab11c7de00922856271461f79e3a0f"
+    },
+    {
+      "path": "sources/objects/log-in-window.svg",
+      "nodeId": "5614:958",
+      "sha256": "bff5990ae84e8a03dded78a568e2ace2ed3e16830702511f998c2d3e200f7c52",
+      "exportSha256": "545e964f4cc6fcafbd0435d4a04bfe60ee73ab848b9f39c01559a0213ee47a75"
+    },
+    {
+      "path": "sources/objects/luggage.svg",
+      "nodeId": "5615:934",
+      "sha256": "9a02c1c67b2f3af8814fd4b4926f2c6413e1f79102a9b9f545dbdea284c7f93b",
+      "exportSha256": "9a47fc78c851e8e65ea2d394e10fcc18dbd589663768da760e5cae435e00e5f1"
+    },
+    {
+      "path": "sources/objects/man.svg",
+      "nodeId": "5671:943",
+      "sha256": "f3e838af18b693d9daf8196bf80a94bb3a7fe59719690996fd9f5f511e7cc9ed",
+      "exportSha256": "c9afe1a81e6aa7c7eb1fe72446d24f9d2da2565cb192f47bc32f87281f58a605"
+    },
+    {
+      "path": "sources/objects/man-5671-953.svg",
+      "nodeId": "5671:953",
+      "sha256": "24fcde24dbc2980adaefa1231ca200a29d7d8d2ced4626abe56628633b196bf3",
+      "exportSha256": "d796faa26bb844d1c544237236e0c2b3b8a3a6bb3f2343e34779df641b3075f9"
+    },
+    {
+      "path": "sources/objects/man-at-desk.svg",
+      "nodeId": "5671:951",
+      "sha256": "ed9179b24b1aa295aabef35a80c69fa2ee6cf46ba2975a5fbcac4e1f5b6e715c",
+      "exportSha256": "a33a48701e7ff9bbc09e21a6272d75d0fc87c08dbefe0e7494e717ff8b321f0b"
+    },
+    {
+      "path": "sources/objects/money-note.svg",
+      "nodeId": "5614:971",
+      "sha256": "6feb893188b1ebb93d714146c45544d62cc95adc33dd66e5b56fb750cb5b8042",
+      "exportSha256": "478504354f6cc0252a891bc4b6cf55f25d0237990ddf6d18fce304eef205b873"
+    },
+    {
+      "path": "sources/objects/money-note-2.svg",
+      "nodeId": "5615:935",
+      "sha256": "54bed4a64b952bfd98d4c46f5adf6e56259982037e828d8032cb9866c2c22300",
+      "exportSha256": "d6071ea1e04bd077d032355697fed6f6055e990ec04f6a3d292f6754a7066102"
+    },
+    {
+      "path": "sources/objects/money-rain.svg",
+      "nodeId": "5614:982",
+      "sha256": "4b527e4569531fae4d36cfda9098b9772bb3749991ee81ae7b6218fb238b01b2",
+      "exportSha256": "8a370613c6b677d7fadc37269d77da86133baacb0a9a850ee35bfc8e4f6680c3"
+    },
+    {
+      "path": "sources/objects/money-sack.svg",
+      "nodeId": "5614:951",
+      "sha256": "51bd095cc66292b6e146cce6425813c6da26a76fd1053f9ecf8bfca21e694782",
+      "exportSha256": "4d1fa805e8aad008bef8e60e67f88121ec9d3458ce4121616fabe58f8193524b"
+    },
+    {
+      "path": "sources/objects/money-sack-2.svg",
+      "nodeId": "5614:953",
+      "sha256": "89671e7a552cb8a567a4676e64cb8bf8b3fc001c4b0ea350d904699fe15147a6",
+      "exportSha256": "d02adbe70364ada6a39fad4e188737ec76b58f1da866aa2bbf36b561ac462d88"
+    },
+    {
+      "path": "sources/objects/money-sack-with-coins.svg",
+      "nodeId": "5614:952",
+      "sha256": "13b53d203b41dda3597890bf1b5243d59bf48eee631d77f5ca02f3f9b8a7142e",
+      "exportSha256": "abf2e368ef705a3d3daaf74effbe00db98ac1f5e2a5e4c7936d0eabcfdb4782a"
+    },
+    {
+      "path": "sources/objects/motorcycle.svg",
+      "nodeId": "5605:936",
+      "sha256": "1af60bd331efb9c9d042076c1c27ae73cd57862f31e748b5e152e8fd587a648a",
+      "exportSha256": "89d056b95d7cd40747e766004960d88222e9232cc2cc97791efc258cce1f3f1b"
+    },
+    {
+      "path": "sources/objects/netbank.svg",
+      "nodeId": "5614:973",
+      "sha256": "c24093bdac3fa76be03439c7afbced27e1aa85cdc78599763e0248367ed64e82",
+      "exportSha256": "3e4c8df0bd8482d6f1b7042a8949baf8f7b2a351d912229781771d1ef7986f97"
+    },
+    {
+      "path": "sources/objects/objects-furniture-chair.svg",
+      "nodeId": "5613:937",
+      "sha256": "a22e98e991e21079844c28ff57bf4cf9c4c55a6d2dfc759ed543fe2efec79995",
+      "exportSha256": "839851b45ad65a8ba55e57172e97b090aac3f68ee88f117590d8f3e8eaad666c"
+    },
+    {
+      "path": "sources/objects/objects-furniture-desk.svg",
+      "nodeId": "5614:936",
+      "sha256": "84c2bda51e2f45bb3630b5471696dcef2db9b3ed2b4a5b0f5daaf8635c141ab5",
+      "exportSha256": "a5b1a2dc622730b4e10f698af037fedd6a8983a575a1386b02fb9b325b960c5b"
+    },
+    {
+      "path": "sources/objects/objects-furniture-footrest.svg",
+      "nodeId": "5613:938",
+      "sha256": "09640270a2a588ef0f59ec2307f043d0d08edb722097dcf6787fcf04aa19f861",
+      "exportSha256": "d04ec76b35045a4a6a11bc6891c45ae90ef34c5b6380b0ae7ec29731b2310c0d"
+    },
+    {
+      "path": "sources/objects/objects-furniture-table.svg",
+      "nodeId": "5613:939",
+      "sha256": "69c474023205725e45c0217df8300c3c5d97425839ab5894db43ec771cc0165d",
+      "exportSha256": "727fcf245ccbe9e168539df0a73f7a355990ecb18c91fe44cbe2565bf303f7b0"
+    },
+    {
+      "path": "sources/objects/objects-household-paintbucket-01.svg",
+      "nodeId": "3515:814",
+      "sha256": "45e223ca58ee1a0865bc6ecad354f6709798781e8f81220c7d7abd682de9a32a",
+      "exportSha256": "a7ac30552d14a820a9591284d2a04347d589a68e2e15a5989ccf567f5c97176a"
+    },
+    {
+      "path": "sources/objects/objects-household-paintbucket-02.svg",
+      "nodeId": "3515:828",
+      "sha256": "2d09cc82a877d56864bcc3478d348620f86dc58283c5d74e9113fe6346b46120",
+      "exportSha256": "bd3a80bcf0a1b4973afde5af18b48ca3e0888a5987d704aef314882f94f424b9"
+    },
+    {
+      "path": "sources/objects/objects-household-paintroller-01.svg",
+      "nodeId": "3515:791",
+      "sha256": "863dec6055e4b386b0646a72967fe02f1f074b95532cb4bf9030a9f0ad17ce5f",
+      "exportSha256": "4fa269ed6a9e3fb8255aba1bd06abad8bf5b06af69c4dd7e1a15cfca8683b9f5"
+    },
+    {
+      "path": "sources/objects/objects-household-scissor-01.svg",
+      "nodeId": "3515:782",
+      "sha256": "96cee6af84a7c6bb456921a1dc233378702520b341a2da0be93b6cd4e4cd57f1",
+      "exportSha256": "18c9d633de25b4807dc04b0b373bd52c382f9d31da38e37c0656e0e7052c8ad3"
+    },
+    {
+      "path": "sources/objects/objects-other-cardboardbox-01.svg",
+      "nodeId": "3515:852",
+      "sha256": "a946bbe1c6b781f591f92e8187958e74a58aea39a408d57e3ebce313351b447f",
+      "exportSha256": "d52bb801120f2829e4dbd4999eb66680535d49a3e2dc9af75a21388137927991"
+    },
+    {
+      "path": "sources/objects/objects-other-cardboardbox-02.svg",
+      "nodeId": "5614:937",
+      "sha256": "162be4e631c59216224a68c57252320f2283f269c41ccc2085780c600fb5f55f",
+      "exportSha256": "c20d9131d967e8d7a57e29329ac2995521440daa2f8d5abcebff4faab40a7de1"
+    },
+    {
+      "path": "sources/objects/objects-other-cardboardbox-03.svg",
+      "nodeId": "5614:946",
+      "sha256": "f1196ea149127d5b00966ad7d21957c914a41eec997d9353759c6952b239a50b",
+      "exportSha256": "3de4db63de08a744fe881916402f1ea3db9a8685522ad214d6ee734ec9fe2fe5"
+    },
+    {
+      "path": "sources/objects/objects-other-cementbarrel-01.svg",
+      "nodeId": "3515:901",
+      "sha256": "40e81850a4b7e2df7d67e32e77bdda633982b2f341c60ba410eaf5b8907b2428",
+      "exportSha256": "99fa54a600f09c12a51829ae21fab8856bc4b36faa4802a01f42074aa5ce1057"
+    },
+    {
+      "path": "sources/objects/objects-other-piggybank-02.svg",
+      "nodeId": "3515:1087",
+      "sha256": "c984722fcf8260d3ad269f6b5f135f2eeb2acbf8286e7753ed12b7d26fd20168",
+      "exportSha256": "b9d0ff30933c6dc59873e0839dee66002a95d43b61f16bd873d2dd386f8cfcfb"
+    },
+    {
+      "path": "sources/objects/objects-other-rocket-01.svg",
+      "nodeId": "3515:800",
+      "sha256": "beb42b9c55a08f685e285f9600259b34048126e277e25812a529f8f506fbb997",
+      "exportSha256": "79000f921e337e2f491cf2e55e92846f24f201811187ec8e0d9b603d2d331fda"
+    },
+    {
+      "path": "sources/objects/objects-other-umbrella-01.svg",
+      "nodeId": "3515:963",
+      "sha256": "4b62b585ad8c1b714868cf9521153cd0c5316395dc3daac5682dbc2f556d89c5",
+      "exportSha256": "dd5b83fe4345c521fce9a7d9cb3c7bb4c8de56f50cea6035667fc05bc55da7dc"
+    },
+    {
+      "path": "sources/objects/objects-other-water-can.svg",
+      "nodeId": "3528:118",
+      "sha256": "1334a67eea0372bb01457d63664261baeb61d7ad7af24bede9453de574bcb5de",
+      "exportSha256": "54c2a893d3cc21d42e386378ea42aed4820bea36a1a6ef11657cb1af029944cd"
+    },
+    {
+      "path": "sources/objects/objects-outdoor-mailbox-01.svg",
+      "nodeId": "3515:837",
+      "sha256": "4eae2a80fcfb9c7b3ab39ffa6c4e3da358683f07d000e5235583d9f629677339",
+      "exportSha256": "dc0a8231bb270a0d4a3d64703a188d2dc67e4cef223c31d3e6654a379bc2a3f2"
+    },
+    {
+      "path": "sources/objects/objects-valuables-art.svg",
+      "nodeId": "5613:940",
+      "sha256": "32ab97358455e4cc819233d94e7dc739a45fe6ea9c9fe949943a7558b3b13e5b",
+      "exportSha256": "ded5136813b36083e2eb24816c62321771b58053ec59613bee0b567308adf21a"
+    },
+    {
+      "path": "sources/objects/objects-valuables-diamond.svg",
+      "nodeId": "5614:935",
+      "sha256": "cb36a2dcfaf045537aa2afa60ec72e0b1355b24df960836ad59798bf356615b1",
+      "exportSha256": "52681dbe71cc503daa269a63fdf4c79763dec34204e46ee5231b1d39a13300eb"
+    },
+    {
+      "path": "sources/objects/objects-valuables-jewelry.svg",
+      "nodeId": "5614:934",
+      "sha256": "8cb36819c68d9d876cf7c4596e779e9dd2b52ddf63511709dae4c7b3ffa6cdf7",
+      "exportSha256": "6b0b2b54ad4c3388a1a5157bb13f4b9dda5e9aad0096a3adb21d09db86cfa0c2"
+    },
+    {
+      "path": "sources/objects/paint-buckets.svg",
+      "nodeId": "5614:947",
+      "sha256": "3bdce9d83f15d713d7d693156a97351c1f26ba5e60f25377ee4f7dd70a6ed8c3",
+      "exportSha256": "2cea9a1614a34ef66a30d566008ff1b4dfd484d64c6a3098e7dd80ee1c8f395a"
+    },
+    {
+      "path": "sources/objects/paint-roller.svg",
+      "nodeId": "5614:983",
+      "sha256": "acb39c45054c70626e4d03fab013ec83d1e3b73fc2a8526c493c1f9e904f046f",
+      "exportSha256": "911a870236396ef4764efa3899dba4812d8e91e51ff4ab41122309bbd02f9df6"
+    },
+    {
+      "path": "sources/objects/paint-roller-with-paint.svg",
+      "nodeId": "5614:981",
+      "sha256": "8aad091c6d648e06d29e7d21ce0860e23e57733f5ec212385ae2a695a3ab2189",
+      "exportSha256": "00ae571715985bbe7bd206431691219b596a88e345a81fb35e49ba254475b944"
+    },
+    {
+      "path": "sources/objects/pie-chart.svg",
+      "nodeId": "5614:967",
+      "sha256": "3253c5994366229a1f0a8ab815d52af56f826b806cbe363629f022d600aee362",
+      "exportSha256": "cde9234b85b7c54b99a48a3b379834182b6fc4c3668a9c97486a88b7f7fcafed"
+    },
+    {
+      "path": "sources/objects/piggy-bank.svg",
+      "nodeId": "3515:865",
+      "sha256": "b8e83626c2f20ed8f3a2eec53347491cde3f254f1bf6714d3176b0c44d32a2b8",
+      "exportSha256": "2a8bd61950658ff885f76909a3aa5896d97693d5485eb4fbeae765a6aa5c45fb"
+    },
+    {
+      "path": "sources/objects/piggy-bank-2.svg",
+      "nodeId": "5614:961",
+      "sha256": "3b9d20f29e3eeea4149897ea06909bbff6aa5126e8b560af08f1596cef9f4802",
+      "exportSha256": "6b7c3ac760d58bf0560dd069daf99059afd48fe463c19a61bd6fbbde35dd115a"
+    },
+    {
+      "path": "sources/objects/piggy-bank-3.svg",
+      "nodeId": "5614:969",
+      "sha256": "a3418792643307f0314a46485fd6b5a9ff1573b2e4d1fdddd15aaefbed20ec9c",
+      "exportSha256": "75bce61e09b91b42fc02c6e3ad977c0194a65a6d54f7bb15030e989e68680d52"
+    },
+    {
+      "path": "sources/objects/piggy-bank-4.svg",
+      "nodeId": "5614:970",
+      "sha256": "545df0fdd7912568d22b33cbc2a5ddf6f149732640a6bb78c7d1fc586e3064d3",
+      "exportSha256": "ec186f5792d2b067359d1858e411aabc02e7a622d96ba328bef2763f1faea7de"
+    },
+    {
+      "path": "sources/objects/piggy-bank-5614-950.svg",
+      "nodeId": "5614:950",
+      "sha256": "a73033a18190dbe3086849ea220ab3c8127eb4066274564daefad5a540f748ee",
+      "exportSha256": "6e062d9d4a5ea234b0967aba8b009971d04f1d719db5bd1d985b4b627aba2937"
+    },
+    {
+      "path": "sources/objects/pile-of-coins.svg",
+      "nodeId": "5614:954",
+      "sha256": "b29f4ef37cefbc23f615411fcab4fe920b793994f665f76f74e15bfe39e8a642",
+      "exportSha256": "f28be445886c90fb8f1b7b9c8b45063d436efa7aa8c39fa2e36feb208b41c5e6"
+    },
+    {
+      "path": "sources/objects/pile-of-coins-2.svg",
+      "nodeId": "5614:955",
+      "sha256": "b7511bf44bff8c7d6862ba02dafe02b52e0b52c534ff9cd9c234c9391587ef26",
+      "exportSha256": "9b500399039855fe97ebe51daae407f2471682fc0ccec50479d27e385f3e26b4"
+    },
+    {
+      "path": "sources/objects/pile-of-coins-3.svg",
+      "nodeId": "5614:968",
+      "sha256": "4fd3c3d963ff665d5fe007cb52e88e511fe9575603fd8e44c27d53d3a33c8422",
+      "exportSha256": "e4ba147d9555379ca45bbb32369136a18845495563aff7851a77503d65ab9ce4"
+    },
+    {
+      "path": "sources/objects/price-tag.svg",
+      "nodeId": "5614:986",
+      "sha256": "b7b2008301ff8321058ad7d5bfda5e969c6cd8e540aa7562c2d6e2108998d8d6",
+      "exportSha256": "24ca5d832dbea812606e73e4c98a13990fd39d643e7a3f294cd22d3148846d19"
+    },
+    {
+      "path": "sources/objects/shield.svg",
+      "nodeId": "8470:1426",
+      "sha256": "115e6e105f7fa4acd42eae9d9e38c8811b912473a20fa672a557ff0e2f829676",
+      "exportSha256": "fd4b56dc6739dea6a62e449e82296680f9557170ff7cc467dfb20b24c8f9fd5a"
+    },
+    {
+      "path": "sources/objects/skyscraper.svg",
+      "nodeId": "5605:944",
+      "sha256": "9c084017760c02260e09b5bce2ab098b3901cda87ce086291e808d8dd59932d0",
+      "exportSha256": "bace6cf89b11cbd20104af64b49892e534609318c0e73218ff02bddd4fd4b000"
+    },
+    {
+      "path": "sources/objects/speech-bubble.svg",
+      "nodeId": "5614:979",
+      "sha256": "13b48b6fdc81c30f487477540438b7f38c75c87c829f32768761c02539a294ff",
+      "exportSha256": "f6a36a8dc1007b03bb5890830c4ab4eb62de59de72570f664985ffd2890a5a14"
+    },
+    {
+      "path": "sources/objects/statistics.svg",
+      "nodeId": "5614:964",
+      "sha256": "b60f607d1aa0ae63e454dbaa59735959c670cd7ddaea63173c6026ac3aad5ca0",
+      "exportSha256": "48505119eb1b79e179fb0f9ab501aabbea193a49379cc197990a1d7914876321"
+    },
+    {
+      "path": "sources/objects/statistics-2.svg",
+      "nodeId": "5614:966",
+      "sha256": "c7c10e86e9200dae976f2fe6621ee2d18e7085b30b7a2426eec55a1e52a6d6bf",
+      "exportSha256": "6ba318f8df66d11e9e56b10c9e5d7f9beb96b2f43ae9e921fc26dcd057998654"
+    },
+    {
+      "path": "sources/objects/tree-2.svg",
+      "nodeId": "5604:940",
+      "sha256": "d672bf302aa177038670765f5f9447fdd90fc39bbf376f5e115d0de49602b4cf",
+      "exportSha256": "740823f1417897017d73a9b4d538b379755c42efa52aff070e22c3e434a0d355"
+    },
+    {
+      "path": "sources/objects/tree-3.svg",
+      "nodeId": "5604:939",
+      "sha256": "4e0226807da5d0825a62c06cf3c175fbcb4163b04426a852dc92f1ea022dbe73",
+      "exportSha256": "248642b119ac6270db530d4a7754d5a36d05f0a2b3bf92c59bf12a6feeaae17a"
+    },
+    {
+      "path": "sources/objects/tree-5604-938.svg",
+      "nodeId": "5604:938",
+      "sha256": "37b0e09a3cfaab656ad4cbf4982eca605a2679f6b356d28dac70792386a25207",
+      "exportSha256": "f8afacfe84eace6e9b6ea94afd13dfcfed4d2fe788b3a3e2eb8955f827ab4811"
+    },
+    {
+      "path": "sources/objects/umbrella.svg",
+      "nodeId": "5614:948",
+      "sha256": "9f58e7058e8da30bd3976a0549f53eb78d5f1159328eb77371fd4274f595ac18",
+      "exportSha256": "dfa06562a9a15bbd4baa89e1dc0c70323baa3abe5b6284e90a1557e894a8c1d9"
+    },
+    {
+      "path": "sources/objects/water-can.svg",
+      "nodeId": "5605:955",
+      "sha256": "aab415191f281ea3240de8b92cd5f6c73e54471ea55b9b7aa25b206875ed1107",
+      "exportSha256": "564770722f27c7096f3cce7ca6d1d178dd9fddff66b614a706f7606e6c9ff3f7"
+    },
+    {
+      "path": "sources/objects/water-can-2.svg",
+      "nodeId": "5613:936",
+      "sha256": "221571db685b64342b570291c0b107877fdea992bb19e176ebfc154125eb2f60",
+      "exportSha256": "ba3306dae6efc3e52991dccfe21b87eaa598957a81c1b758e58b7279589412b7"
+    },
+    {
+      "path": "sources/objects/woman.svg",
+      "nodeId": "5671:937",
+      "sha256": "fa9d3425ef4d0faec792dab9c06bbf553ca0ae016b58adb6dffa9215b0cfdd05",
+      "exportSha256": "11ecc2dc48dfc0df528231385c3b1a786392ba5f980054b1457d970ff0d5bb17"
+    },
+    {
+      "path": "sources/objects/woman-2-5671-941.svg",
+      "nodeId": "5671:941",
+      "sha256": "2c5c4cc37961a7455dc78b4a7c116ca121e40f3dcc7bdff57e0047c05eed44c2",
+      "exportSha256": "c89c51733b53b5c46f69bb2eb4f5b69737e5278eac919e7addbd230bb2ddc770"
+    },
+    {
+      "path": "sources/objects/woman-3-5671-950.svg",
+      "nodeId": "5671:950",
+      "sha256": "6749a28206fb011517a20b8fd14be6d59a6cc519ebf90e2df6ebec38de0c7a2d",
+      "exportSha256": "4fcf2b52c3c6ae6f92f11b2aae59df4525fce9dbf785adf68b5489074467907b"
+    },
+    {
+      "path": "sources/objects/woman-shaking-hand.svg",
+      "nodeId": "5671:938",
+      "sha256": "56e2cf33c85dd19d8f5e598896b2ba0b2adb672c38929dcc1fc2b662f1ccd79d",
+      "exportSha256": "53f3a2cf1aefcf87cd7800ece47b82d1c40f33fd6807cf31690421a44596c64a"
+    },
+    {
+      "path": "sources/objects/woman-shaking-hand-2.svg",
+      "nodeId": "5671:940",
+      "sha256": "9e3991638da1a29e9b7de7c7b6a1034eeea33513c89ef0d88b48203b11577429",
+      "exportSha256": "597b9e653e8ceadfd80f188346fee7430fa35c442739cea2b1e55ef7d3ff6f09"
+    },
+    {
+      "path": "sources/objects/woman-with-broken-arm.svg",
+      "nodeId": "5618:934",
+      "sha256": "d654e00afb08eedc8447faed7ea2770f636cda997b1ce09f09c1b6c1ec491ed4",
+      "exportSha256": "543b5c97f9698678cd177aec09529894c7f81f87498da5a4d7cd61ce81c87f84"
+    },
+    {
+      "path": "sources/people/hand1.svg",
+      "nodeId": "8496:16341",
+      "sha256": "e6befe7699ecdeb2213c6ae424ae2c7fc6e64fb2bb3015cc111a24f6102329af",
+      "exportSha256": "0e6d0f8702975cb42064ba4905869e748a1b4d01379877ae3896a5d38bb4bd6f"
+    },
+    {
+      "path": "sources/people/hand10.svg",
+      "nodeId": "8496:16322",
+      "sha256": "0ca775a2b39cd05d1742fdd6fb6162cdce9d91a3c76bcbbd5ee2fa4405064126",
+      "exportSha256": "144fa7d51eee166393a806f60b979390bf625d33c01458ea9bd9bdee33dbd23d"
+    },
+    {
+      "path": "sources/people/hand11.svg",
+      "nodeId": "8496:16320",
+      "sha256": "9ad90701bec8792a62b172b64b74152e6b5c57936f87053381d4064cc0bf715a",
+      "exportSha256": "ec78ade41f30f67c59e441daa16fd7c68f8fdf359ed7deb4fed951ddd5cbb6a8"
+    },
+    {
+      "path": "sources/people/hand12.svg",
+      "nodeId": "8496:16308",
+      "sha256": "6034606dce9a8aba7bf3626e05183a9f1c628773c1a4ce3333de022efc3998d0",
+      "exportSha256": "a1fed2389d1dc2e35bfe5b89186b8e370c45b53c9761452ffdd512b14b6cee97"
+    },
+    {
+      "path": "sources/people/hand13.svg",
+      "nodeId": "8496:16310",
+      "sha256": "d06862bcf0385281a413ec8b41da6dbf85bebd97f1b39fd85fecd1bea7ea1f55",
+      "exportSha256": "9b44caf50fa1ab4058669bc01163679b93aad94aa5c3df49135a8981320d251d"
+    },
+    {
+      "path": "sources/people/hand14.svg",
+      "nodeId": "8496:16335",
+      "sha256": "3053b9483926d9d310482581e7cf10a5e4069c96d6325fca0a30fe78f6aef4a7",
+      "exportSha256": "ea9a40c38fa7bf3575ebed15f8f5163074aae3146cba84a485c9c2e9f2a6031c"
+    },
+    {
+      "path": "sources/people/hand15.svg",
+      "nodeId": "8496:16339",
+      "sha256": "9d7c4c67c190f5bac1ecbb3d2cc5513b70b4b2a2fba522a86be88ae1942bde65",
+      "exportSha256": "c0183e6fe18cc7b78df81770b61f2d47b83bbd0834e422d84c175e93f4fe0ebf"
+    },
+    {
+      "path": "sources/people/hand16.svg",
+      "nodeId": "8496:16330",
+      "sha256": "9dd3cc4e4a581b427356f7e1fc61fe556f54efc8146358ca2430ec9b97d610b7",
+      "exportSha256": "b2a40d4a75979ab6670693b3a0ae370aa199c8e175d7ee209eb9c0d6c5d68f70"
+    },
+    {
+      "path": "sources/people/hand17.svg",
+      "nodeId": "8496:16306",
+      "sha256": "6473e1b4b922a6400104a37b55234131dbd8c5368cacf3362dd6326d9e1fd521",
+      "exportSha256": "daf020f9dd29a72beb050ab5b33a00982075e3c24e5fa1242c7d70335f504f9e"
+    },
+    {
+      "path": "sources/people/hand18.svg",
+      "nodeId": "8496:16318",
+      "sha256": "837aafd59e22c4a5d616eed625cfe029bf073c5f123a9cdc7d5fa5fc9bf5c98a",
+      "exportSha256": "e58f7ade5439c430521be9013f87e73d19d5ec316ea5c2612131695722683d05"
+    },
+    {
+      "path": "sources/people/hand2.svg",
+      "nodeId": "8496:16349",
+      "sha256": "6238405a5754593fcde2d096feacf49b4881b4b3b14bc5a1cacd438bbb3e9a72",
+      "exportSha256": "55c7de030fa82a123dffaa4d60489e5a2d96aea8e81fd657fd59e368c39b68a4"
+    },
+    {
+      "path": "sources/people/hand3.svg",
+      "nodeId": "8496:16337",
+      "sha256": "a6d7f9fc7d00a58da39c2ca3675d5313325752a0bbb67ca156ed733c4fdee79c",
+      "exportSha256": "3c315a86163d43129a17b14702cabb44e6668e7fddf8b100a864c8f5e215b926"
+    },
+    {
+      "path": "sources/people/hand4.svg",
+      "nodeId": "8496:16314",
+      "sha256": "af4d85e034fe68f11af4f4d5f644015e70ae99382436fc883d0d7de0867a89e8",
+      "exportSha256": "0724f8c47f5186aa09749b23999b60965f4935c0a2a632f559e14c4363532177"
+    },
+    {
+      "path": "sources/people/hand5.svg",
+      "nodeId": "8496:16316",
+      "sha256": "a2d0c9a7ab09e744ce60b38fdd4ab056da2b0b7318d3848f7722aec254d1b463",
+      "exportSha256": "54f4115d50053225c450b6a7e44fc0dc1a7652e2108ef0d62ee7824b168fcbc6"
+    },
+    {
+      "path": "sources/people/hand6-8496-16312.svg",
+      "nodeId": "8496:16312",
+      "sha256": "262405b249eb765a1057a4b6055971f93329c1cf9dce68cab0d36938535a9dc3",
+      "exportSha256": "7d5b45c2336cfea57a12da6f810498582ba0b76f55fdbe15c94aa21386520cfa"
+    },
+    {
+      "path": "sources/people/hand7.svg",
+      "nodeId": "8496:16324",
+      "sha256": "878e33fd91b38723c385f20905f2e1fa3caf738b9f172a797c500abe9e673b52",
+      "exportSha256": "6885afb087e891bf5934f7b4e9e70cc985ee91ccd4821ba23275fbe5076b99ce"
+    },
+    {
+      "path": "sources/people/hand8.svg",
+      "nodeId": "8496:16328",
+      "sha256": "83ddd9b29bede44684355802b354bc00a3c545349a0a9b89dacea82fd0e8df97",
+      "exportSha256": "7499a33578cfcb9cb65ee4db1ca008ed3a0b836380c722947b78d2f3c16e82fe"
+    },
+    {
+      "path": "sources/people/hand9.svg",
+      "nodeId": "8496:16326",
+      "sha256": "7a3852728e7761f8f46722971a091011039b6c4f5d6b9939187f1e100c0bfae1",
+      "exportSha256": "6030035006de99f6e65a094cc0f289a077e87664face2a855309f59ec600f0d7"
+    },
+    {
+      "path": "sources/people/head-man-1-skin-color-dark-skin-color.svg",
+      "nodeId": "8496:15834",
+      "sha256": "72bc79105be4db7591387c526bfcf6dc34b5f5267cd02b35bdc886c816a86a6a",
+      "exportSha256": "9763060179b24d0a3a8aede17e2e2cf72a13b4c76f3f250f89b66f9c9e5421a5"
+    },
+    {
+      "path": "sources/people/head-man-1-skin-color-light-skin-color.svg",
+      "nodeId": "8496:15824",
+      "sha256": "46a6d265fc2b62e7a43143f5316b918380560c22e62854b7778253960c157ac1",
+      "exportSha256": "fca1a03c86bde9bc84f3e7c82a8bcce5a58b3d29b70a2ada8ea891e21cfa0cef"
+    },
+    {
+      "path": "sources/people/head-man-1-skin-color-medium-skin-color.svg",
+      "nodeId": "8496:15829",
+      "sha256": "f53b96829031625e4df92895f3356f2797b5a7ddb4f807b5b9fca7c479495556",
+      "exportSha256": "71ca1bbcdf8aeba4ffa96435dcd044e8ba41357681e260216a3908cc92bfe421"
+    },
+    {
+      "path": "sources/people/head-man-2-skin-color-dark-skin-color.svg",
+      "nodeId": "8496:15811",
+      "sha256": "91738264d2039d83d2498dcf3e1ed7839cf0e58be99705a9912d1b8e3dea0d24",
+      "exportSha256": "40bc50a8a729c48b798684b2ab5263feb5c05a961ec7e7539c954f6168f6f150"
+    },
+    {
+      "path": "sources/people/head-man-2-skin-color-light-skin-color.svg",
+      "nodeId": "8496:15799",
+      "sha256": "1de412c34c9c921d597c1bb35f25dc72238dcda316f8abf00e53bd1adf67642a",
+      "exportSha256": "a43902f919c9161198bd1b8b4b1d8db53c17f8b3027091c147221168db9a2726"
+    },
+    {
+      "path": "sources/people/head-man-2-skin-color-light-skin-color2.svg",
+      "nodeId": "8496:15817",
+      "sha256": "13108f689ff5a9485b43612328bd6eab4ca48240ee61e589d8b7b54d40965fee",
+      "exportSha256": "4b2865bd5c6ebffa9025844cffd8d8b897f360df110a014a6ad8882706425912"
+    },
+    {
+      "path": "sources/people/head-man-2-skin-color-medium-skin-color.svg",
+      "nodeId": "8496:15805",
+      "sha256": "c2e4d4909f5c4f8758980c9593088f42290a32d7f55af4c87ba56fc698845309",
+      "exportSha256": "4293f38051ffa6198f42f01cf0c6f70f3bc097b59738de790d29209b6b070938"
+    },
+    {
+      "path": "sources/people/head-man-3-skin-color-dark-skin-color.svg",
+      "nodeId": "8496:15848",
+      "sha256": "049fd9d56f9feed4b5dcf7f733d010d5200c5228b3cff2e226b9337739243468",
+      "exportSha256": "7defffb998dc2679dc72bd24526f234976fb6bea504f71f9a01ee3ce2283fa9e"
+    },
+    {
+      "path": "sources/people/head-man-3-skin-color-light-skin-color.svg",
+      "nodeId": "8496:15840",
+      "sha256": "35f95f0eb1c86caf89f03c348b3b70d78ff3f30156cfcf6b3a6c987e6a4ddaaa",
+      "exportSha256": "44b6e034850155d68f855fad507257d9f9980ce019d48559a23858e433563e0a"
+    },
+    {
+      "path": "sources/people/head-man-3-skin-color-medium-skin-color.svg",
+      "nodeId": "8496:15844",
+      "sha256": "c9845e9e134710e3c65d6202b35da1d60f51f3be350d9080e305dd9d94791257",
+      "exportSha256": "1ae15911480f9071b3bade5134c264fa2386400d54192e510c59704029d56989"
+    },
+    {
+      "path": "sources/people/head-man-4-skin-color-dark-skin-color.svg",
+      "nodeId": "8496:16099",
+      "sha256": "7fbe7ed5aa2c018c1525cee5ae3a782ece70471c23c2e68837b5056be227b087",
+      "exportSha256": "bf87ccfefde1cf9380029535a52acd67d13159f18d5de86a1e7dcce448867b61"
+    },
+    {
+      "path": "sources/people/head-man-4-skin-color-light-skin-color.svg",
+      "nodeId": "8496:16091",
+      "sha256": "1e84bc5a5c6520e2c413aa23b0a3d10d4841023eb08d44545948c00a7f2b187c",
+      "exportSha256": "6b13d0a5d80549880aa6a5096502e583227ffdd01644e69d34f8fef63a52e712"
+    },
+    {
+      "path": "sources/people/head-man-4-skin-color-medium-skin-color.svg",
+      "nodeId": "8496:16095",
+      "sha256": "3466649ee05f1874c474f4da274e6157093e6563b8b77ca426ee4ef59baad8e7",
+      "exportSha256": "46e5c6b735dfc5e4e2788cfb57237e1255622e683a22bf85350fbc2fa7ad6077"
+    },
+    {
+      "path": "sources/people/head-man-4-skin-color-medium-skin-color-2.svg",
+      "nodeId": "8496:16103",
+      "sha256": "24659f752e65066cb48802cedac1988b43bdde9a968b5fef2b1eed1ab4cafa55",
+      "exportSha256": "f0861d9df7c44c8362620f717bd72e83e8714c4275889340018ae09d1880345c"
+    },
+    {
+      "path": "sources/people/head-man-5-skin-color-dark-skin-color.svg",
+      "nodeId": "8496:15863",
+      "sha256": "3be93a9d373c12d592fb198847824323302621dff8e4eb755f6d547ca068356b",
+      "exportSha256": "0178f9705efefc1928223cf21cd811f4fe04069d8a7c08cc6c20a6ca3a45691c"
+    },
+    {
+      "path": "sources/people/head-man-5-skin-color-light-skin-color.svg",
+      "nodeId": "8496:15853",
+      "sha256": "99bc3f3045fa5a32613499149bb459dcc68c5d38bdc412c638e04a7fbf1de204",
+      "exportSha256": "50938ef6a9fb11509c7847c7f517793c3dc44511e00d9a69b859be473104de52"
+    },
+    {
+      "path": "sources/people/head-man-5-skin-color-medium-skin-color.svg",
+      "nodeId": "8496:15858",
+      "sha256": "a314b2548a317ea5a8d499c9682944b7d405b60a124894d55dc806735b850bfc",
+      "exportSha256": "2a7f7870ef64472526a11d88f335875d3dcaf6b9635e7fd82ed0451a1fa7012b"
+    },
+    {
+      "path": "sources/people/head-man-6-skin-color-dark-skin-color.svg",
+      "nodeId": "8496:16152",
+      "sha256": "a7921fc609222fc4b93dc27f39b3bbc1f8a3a12ff4ffbf235388cdfa6e0c6642",
+      "exportSha256": "17459ed4f44f697973c1559af8bb84554fe22179b8592ec43b5a29e7614ebc84"
+    },
+    {
+      "path": "sources/people/head-man-6-skin-color-light-skin-color.svg",
+      "nodeId": "8496:16144",
+      "sha256": "1e902c4f0ab0612f9be0975a189aab680efbce97810e5f17aef26a4b7ae3e3b0",
+      "exportSha256": "df45afad85fc0366891ac5a490340271b12c5ae56044a1afb8ca7f42fdf001b9"
+    },
+    {
+      "path": "sources/people/head-man-6-skin-color-medium-skin-color.svg",
+      "nodeId": "8496:16148",
+      "sha256": "a8b9f0decb2a43d55546a637d9399711780e677396bedbe5c569b884cc59e311",
+      "exportSha256": "be4c6ebefed8b10e7c2f0e4e8034ae42301834545ba844319cf053e1679b500c"
+    },
+    {
+      "path": "sources/people/head-woman-1-skin-color-dark-skin-color.svg",
+      "nodeId": "8496:15881",
+      "sha256": "b166169fd081d2ba87c065fa4f10ec2656ca34b2e5ab2a3367eef7f730254456",
+      "exportSha256": "aa3d0165f60ced0c0efc05663fea1bf1f973d51c5521369d9ea2bf2ad98967a8"
+    },
+    {
+      "path": "sources/people/head-woman-1-skin-color-light-skin-color.svg",
+      "nodeId": "8496:15869",
+      "sha256": "469e15a4a323314f465e01ad553e0af304434f8b9b9939b772f064c2a3beb9fe",
+      "exportSha256": "9287e8d819ce9ba5fa6b7a3238002d29e91b6f0795547ce5246d802ccd6f496c"
+    },
+    {
+      "path": "sources/people/head-woman-1-skin-color-medium-skin-color.svg",
+      "nodeId": "8496:15875",
+      "sha256": "aa011726231a228d2404b908db0c2a8ce005e3e909439bfff567ef8f1dd712cb",
+      "exportSha256": "34316fb1a3c675664272b03fdde9ba3d18626d70dd19b10cbb80077f45376f84"
+    },
+    {
+      "path": "sources/people/head-woman-10-skin-color-dark-skin-color.svg",
+      "nodeId": "8496:16039",
+      "sha256": "edb1f355825f084b4756c41bff9cd9ba4d4694470666bf0ad85168cd792d94d3",
+      "exportSha256": "e7a47a8ffa1a90e0a9cf0a5c48de55fda3757ebe65ce9c9e58a31471a5ef43c0"
+    },
+    {
+      "path": "sources/people/head-woman-10-skin-color-light-skin-color.svg",
+      "nodeId": "8496:16011",
+      "sha256": "fd285957fdf4e091b60c03ed45d377f6010f2196cf3f28230ea97388e5fb0961",
+      "exportSha256": "e853f36f38054165e1c65f7d9456ec8366552d131de127e60116e9505bdafecb"
+    },
+    {
+      "path": "sources/people/head-woman-10-skin-color-medium-skin-color.svg",
+      "nodeId": "8496:16025",
+      "sha256": "4a394b3de4583b59a386c8de42bb84f7271b909cb80f1ebe819974f31809402d",
+      "exportSha256": "9843ee681138d5aa4c5bd89ac43997c0438a1790d8c2cf5e48d552bc75705f85"
+    },
+    {
+      "path": "sources/people/head-woman-11-skin-color-dark-skin-color.svg",
+      "nodeId": "8496:15919",
+      "sha256": "661ee5b1df2ec230e99b74ce8b92e88f98b17ce07e735502349325ef7935fa80",
+      "exportSha256": "5459f795f571e6ad52c5b1e78194c618159d77cb91a61a79ce2909a51b4724c4"
+    },
+    {
+      "path": "sources/people/head-woman-11-skin-color-light-skin-color.svg",
+      "nodeId": "8496:15907",
+      "sha256": "606e270ce63564c7ad47bf906227297cf53bdd635cbd7304fda55eb20d7ae7f0",
+      "exportSha256": "c4d4f0abf7e91c7dbd59268b0d8763c3c0139903ab6591718ad043b8efaee405"
+    },
+    {
+      "path": "sources/people/head-woman-11-skin-color-medium-skin-color.svg",
+      "nodeId": "8496:15913",
+      "sha256": "7cfe181890abc08188c6504bfd513ba3424ad07dbb6363a25b240b3c27f4a27e",
+      "exportSha256": "0c596a49ec908e53cd911f12bd2ab1e3ea35c682bfbc1cc9bb6f2bf64f5c4708"
+    },
+    {
+      "path": "sources/people/head-woman-2-skin-color-dark-skin-color.svg",
+      "nodeId": "8496:15900",
+      "sha256": "ff9692e0998febb74ed340a9bdacab866dd81bf1e3365bbcaa3993e91d5f7190",
+      "exportSha256": "c318f766c0346488f05f87e1531a6cb20d88a0f10b8d8416fb5b840c4c1b0461"
+    },
+    {
+      "path": "sources/people/head-woman-2-skin-color-light-skin-color.svg",
+      "nodeId": "8496:15888",
+      "sha256": "f8c1bd9dbe6fe2e47918baaa2600623f909f62f5872237337e27763081b75fe7",
+      "exportSha256": "08323e77de8b1431778cabf4ea9391cd1daf7b716a1ff66c169782670550854b"
+    },
+    {
+      "path": "sources/people/head-woman-2-skin-color-medium-skin-color.svg",
+      "nodeId": "8496:15894",
+      "sha256": "ed35a9226d008aed23b7f54ce9fb774ce39942b51db990615767dc41cca2a18c",
+      "exportSha256": "69ebf5bd80e913f2c41fe05bc7d481f01b2982b03b155d4eb2b30ea981252b81"
+    },
+    {
+      "path": "sources/people/head-woman-3-skin-color-dark-skin-color.svg",
+      "nodeId": "8496:15964",
+      "sha256": "4666435d32011c85e52b8d5ba14361d55b1aa4e415073b10bb2598ab47e7f3d5",
+      "exportSha256": "d7c51dcb25872605a6a8fa50cb8536042ff336d4aa882968c335700fb97e05de"
+    },
+    {
+      "path": "sources/people/head-woman-3-skin-color-light-skin-color.svg",
+      "nodeId": "8496:15954",
+      "sha256": "8dbbf55e1101c896655ae7e053f2d99e8494d3fbb8fdeb2c53fff79212297c43",
+      "exportSha256": "a2b0524a13c97a3bc38b53d68ad3545f8d61dcebabd2761a5c90d325d5a678ca"
+    },
+    {
+      "path": "sources/people/head-woman-3-skin-color-medium-skin-color.svg",
+      "nodeId": "8496:15959",
+      "sha256": "f834a561dd48a6f8d2a100d1cee29e193dbddf11ea988d39d5e29e7d3f5dcc3b",
+      "exportSha256": "48da3dc1d01acd1ecd6ba70cdafecba537bb9aacb46529a6125ed8e1a65b7b2e"
+    },
+    {
+      "path": "sources/people/head-woman-4-skin-color-dark-skin-color.svg",
+      "nodeId": "8496:15982",
+      "sha256": "88cdb4dfb6b9d59d414175a627f37ad5d493a555384f3665cb85182c1888704c",
+      "exportSha256": "cc0d5aed88aca75628e6a01dc2444afeae5a71ac0c0cc14e6d7091e9fe8a2de3"
+    },
+    {
+      "path": "sources/people/head-woman-4-skin-color-light-skin-color.svg",
+      "nodeId": "8496:15970",
+      "sha256": "33f8aa6f8f1b366e8bf5984e6520deaa55b4c668b3119b49c403dcc693f8c5a5",
+      "exportSha256": "c4922ff45d69a84513aa99f58e384d50d163b5d2ee7389d0aab25329d0fa9aa0"
+    },
+    {
+      "path": "sources/people/head-woman-4-skin-color-medium-skin-color.svg",
+      "nodeId": "8496:15976",
+      "sha256": "68a4a13137f903513915128da458bd2bb4efc9c36269c63ecfc7a214bcb53271",
+      "exportSha256": "3ae9e5f63fada5b6a0e78180d8f0af01aaa1e1ce6b03b29cf86badab789c55eb"
+    },
+    {
+      "path": "sources/people/head-woman-6-skin-color-dark-skin-color.svg",
+      "nodeId": "8496:16122",
+      "sha256": "586103f4a733baed0df166d2012ce8f6e0bedeadcd9783e2937a36647a1a1b08",
+      "exportSha256": "eb7e0ddd1b4afaf70525db3bf961c0d89c2bde1e66652db2fd2faf3bd7567793"
+    },
+    {
+      "path": "sources/people/head-woman-6-skin-color-light-skin-color.svg",
+      "nodeId": "8496:16108",
+      "sha256": "1374ed548bd42b43bb0ccdc6af3a053f33bbad0f67c12f333affaa587a2dcd07",
+      "exportSha256": "16559fc145b28bc5fc43885b1448b55f60578dcbd5008fa0e8a5133e3894dcd0"
+    },
+    {
+      "path": "sources/people/head-woman-6-skin-color-light-skin-color2.svg",
+      "nodeId": "8496:16129",
+      "sha256": "a50471698e34f26d09289d98c96180a5a3ec7ce38883f87e989c1ae77a36dbbb",
+      "exportSha256": "b3b877762f89d4cd48744630bfc5db4114e3673d9e80c569151808f87671c9f9"
+    },
+    {
+      "path": "sources/people/head-woman-6-skin-color-medium-skin-color.svg",
+      "nodeId": "8496:16115",
+      "sha256": "c9776cec2109f4c5651b373849ada58808cf176695b35508f8d0f3dd987b7a6e",
+      "exportSha256": "383e4c74640ea1979b510e7cdbf0e89daa9dc7ae869cf7c0038d6fa761e37ce4"
+    },
+    {
+      "path": "sources/people/head-woman-7-skin-color-dark-skin-color.svg",
+      "nodeId": "8496:16003",
+      "sha256": "19abc448dd30e387fdcc4ca8ea124c96cd79237de2b9089afa03de28fff86f44",
+      "exportSha256": "73626b7fcfc92274ede21f1d16dfde7fc8bc038a0199aeae4e5a2de7e2db9dbd"
+    },
+    {
+      "path": "sources/people/head-woman-7-skin-color-light-skin-color.svg",
+      "nodeId": "8496:15989",
+      "sha256": "6a72a1b7c07ccc9abf3c9af423eecc0e9b40d63934e2541243647fc0e48d57bd",
+      "exportSha256": "d73876a2560378a9bc67e01cf2d6dbb36e3249455dbe85548c69fd4859cd0103"
+    },
+    {
+      "path": "sources/people/head-woman-7-skin-color-medium-skin-color.svg",
+      "nodeId": "8496:15996",
+      "sha256": "f3633ca7a4168d3120c2ffa14f75d76c819aaac10ab50fde5b8fee39ad1a4069",
+      "exportSha256": "f13ea33ca368e88ea1044fb68f80e76fa482127e241ee000656565c78a85cd4e"
+    },
+    {
+      "path": "sources/people/head-woman-8-skin-color-dark-skin-color.svg",
+      "nodeId": "8496:15944",
+      "sha256": "c9b2068ba8960bd724cb564e180a3e9b0a9bc7a11f5217639e464bdeb3b058ce",
+      "exportSha256": "091bf42cbb8a7ae6658c4846f3dcf70f59e96e120999934875ef28d2663ef2ab"
+    },
+    {
+      "path": "sources/people/head-woman-8-skin-color-light-skin-color.svg",
+      "nodeId": "8496:15926",
+      "sha256": "4a564fe206c3f50fd9773db792dec36c793d5327f89134985a7f8f6be31dc103",
+      "exportSha256": "761eb2ade67feeb2245c9e7501ea1d588a509d61a38ea66c839f62da7bbd1b7e"
+    },
+    {
+      "path": "sources/people/head-woman-8-skin-color-medium-skin-color.svg",
+      "nodeId": "8496:15935",
+      "sha256": "6a691396a09cc0fb0917a2fd54a54a6e703bd4f8346c8449bfd627075e83412a",
+      "exportSha256": "3b9bc1f7efcee3a243889081d3f50b14bec53d3cbe2d2d94521dc8efa680f3ac"
+    },
+    {
+      "path": "sources/people/head-woman-9-skin-color-dark-skin-color.svg",
+      "nodeId": "8496:16078",
+      "sha256": "abb4c3080a95b3196b8bd8459fd4f4d373619b55a401247e7f2edf2c7d9584ac",
+      "exportSha256": "97574e2c038c1b161a3fcb7d9d70ea19d9c117a3666548a2c0d6f96df6cf383f"
+    },
+    {
+      "path": "sources/people/head-woman-9-skin-color-light-skin-color.svg",
+      "nodeId": "8496:16054",
+      "sha256": "41c407fcbd0e10d0f3e6df9b767109212a6bbbe54522d695a4339f2d69703af8",
+      "exportSha256": "4a5c6e30c1b2c4e60f03817b169100a53cdf098b4f890b136c29ada9f0b9b691"
+    },
+    {
+      "path": "sources/people/head-woman-9-skin-color-medium-skin-color.svg",
+      "nodeId": "8496:16066",
+      "sha256": "95f4d26bd231127149d538f35fc8c2128ff0d50d9b5bd2ac927dddf4fbd8bbc6",
+      "exportSha256": "19abddb09d8eadf8fe302fb3f99bab0c787df0fd5c05b720cfeb196e6f700d0d"
+    },
+    {
+      "path": "sources/people/human-hands-pointing.svg",
+      "nodeId": "3622:261",
+      "sha256": "73218628c54013ec89a68a14635b8d6bb186cfe68c3f0289c8abb089da77c0b3",
+      "exportSha256": "c5d5d9c81c53d88e6ab43d72403de76484d0661fedacf92c6add3881e240edd0"
+    },
+    {
+      "path": "sources/people/sitting-business-man1-skin-color-dark-skin-color.svg",
+      "nodeId": "8496:15772",
+      "sha256": "07008f49113b97f0102f2cf4746273121a5513cc79cd83d7ab14e3d3eff42db6",
+      "exportSha256": "ef8350530241e30e65b7cd8fd0675a1891b4a72db25b4e72e9834e2562a79dd2"
+    },
+    {
+      "path": "sources/people/sitting-business-man1-skin-color-light-skin-color.svg",
+      "nodeId": "8496:15742",
+      "sha256": "2ef02feef46d6c788bb8c8997895ddc9cc3a04b422d5aa5be571d6b16d749d4f",
+      "exportSha256": "8b655350aae3684eabbe21bf98933face10fdd3b997cd036d7e282b1efa97b9e"
+    },
+    {
+      "path": "sources/people/sitting-business-man1-skin-color-medium-skin-color.svg",
+      "nodeId": "8496:15757",
+      "sha256": "edab12a00cdc22b7b13cad64f04db2f29633149ee1362880bcfe39c019f10fd3",
+      "exportSha256": "51f32ca8498a507ce9b8a3044fa09ed2e46ba3dcd6c35aa342b0946853c90d8b"
+    },
+    {
+      "path": "sources/people/sitting-business-woman1-skin-color-dark-skin-color.svg",
+      "nodeId": "8496:15597",
+      "sha256": "5b54e6fddd1a91c181501142100f683aa95d46559780b557ccb981094059a1e6",
+      "exportSha256": "914812d97b833bd985dffdac674bf115d6c09c927df597eae00667cdd5a5e76b"
+    },
+    {
+      "path": "sources/people/sitting-business-woman1-skin-color-light-skin-color.svg",
+      "nodeId": "8496:15309",
+      "sha256": "4e8005f6ffee6844ed102eee5318fd4fbf1502559032bbe3122c370169d0b007",
+      "exportSha256": "1159165fa2889e392d8f9d5f935be8fcb44af8d88380e34d822ddd4a07798e37"
+    },
+    {
+      "path": "sources/people/sitting-business-woman1-skin-color-medium-skin-color.svg",
+      "nodeId": "8496:15453",
+      "sha256": "8e674a10da1225bea773bb2d9924d988ae282045ea6523ed0d0da60dc1c6df12",
+      "exportSha256": "f84eec97fefdcc98065e02be4744b4e00e1aa1e94faebb7ef43ae3ab2ebe40eb"
+    },
+    {
+      "path": "sources/people/sitting-customer-woman1-skin-color-dark-skin-color.svg",
+      "nodeId": "8496:15119",
+      "sha256": "39b09b2bf708a1930eb6c63629e581f7d8a64dd6d1e3b74c539e6e00a4480db9",
+      "exportSha256": "9a5b15b4edaa7b7ce57333b71ed646ccee2448ebd2b0d6ca00067ee83d699873"
+    },
+    {
+      "path": "sources/people/sitting-customer-woman1-skin-color-light-skin-color.svg",
+      "nodeId": "8496:14861",
+      "sha256": "28f80e5082e3d2bb62c07aba6484236dabcb800eee98dede2cacb82b17ad2f0c",
+      "exportSha256": "de943e628e5ed77aec4ede3a631de20889b21c9e1145d6829f20aa295bfc5661"
+    },
+    {
+      "path": "sources/people/sitting-customer-woman1-skin-color-medium-skin-color.svg",
+      "nodeId": "8496:14990",
+      "sha256": "41c3f2dd13c354e706805d4c43bd2e612665b63297c3b372a4c5a51c44d9de91",
+      "exportSha256": "5bcee348a8967440ea12efe88d95534e82167acdb0002af89be32c02168885bd"
+    },
+    {
+      "path": "sources/people/sitting-customer-woman2-skin-color-dark-skin-color.svg",
+      "nodeId": "8496:15275",
+      "sha256": "ebd49f4682c8baed59068e814d7600990fab1556990a73c6704532879ce3a1c4",
+      "exportSha256": "2ff4857b0acb5d4b58a112d65adc6d99a2bb8f51eec9afde1887eadc4a102cee"
+    },
+    {
+      "path": "sources/people/sitting-customer-woman2-skin-color-light-skin-color.svg",
+      "nodeId": "8496:15249",
+      "sha256": "4f426db129817d50ba9a3a8b7fddb4258a63289da872a401dce48803558ff126",
+      "exportSha256": "a2ab19b59cfa4dfde5b627f380af41073bf2d42baa577a9b210ccfa0a2f74b5b"
+    },
+    {
+      "path": "sources/people/sitting-customer-woman2-skin-color-medium-skin-color.svg",
+      "nodeId": "8496:15262",
+      "sha256": "465ec2a6c4877ae5e057439e0f63026186453502fa5b16fd708e6f082beadff1",
+      "exportSha256": "cd4d21fe451fe6c0a7376269ae41599e4573316572b10416a5cdaba80de7b929"
+    },
+    {
+      "path": "sources/people/standing-business-group1.svg",
+      "nodeId": "8496:14547",
+      "sha256": "dec089a8f4d4e2a83d55db6e03a64b4d9d0274a329aff01a44d9c025f401e0c8",
+      "exportSha256": "8579b56aea1b7452be16b5b9b59e8a34d0841fb6c4b4f65d3152649c7903ef55"
+    },
+    {
+      "path": "sources/people/standing-business-man1-skin-color-dark-skin-color.svg",
+      "nodeId": "8496:13719",
+      "sha256": "3ca05d4aa9c5c60c55329a9c387fc20d09490ed4af9336121dda4269f2a318c6",
+      "exportSha256": "7917f9d39d7f99b7ea56c23144d81e2a8428fd8f2c8fac058407c58b44ef9f9a"
+    },
+    {
+      "path": "sources/people/standing-business-man1-skin-color-light-skin-color.svg",
+      "nodeId": "8496:13425",
+      "sha256": "16dc07566edbe7e31a01477c83e19df8f9e13582a27af040e2dc7eb022becfb8",
+      "exportSha256": "13eecf567b5b0a544646a7deefa586c23816232325270d6db76c305a68f4ebc2"
+    },
+    {
+      "path": "sources/people/standing-business-man1-skin-color-medium-skin-color.svg",
+      "nodeId": "8496:13572",
+      "sha256": "cd6b9b33eb299175eee87f8a3b5c4fc4cadd8860657438910e42dce8c018a19d",
+      "exportSha256": "26f7ff98c150bff6af3d7ed59b480482dd9b4bcfc72a5b898caed4b87ed54d5b"
+    },
+    {
+      "path": "sources/people/standing-business-man2-skin-color-dark-skin-color.svg",
+      "nodeId": "8496:13907",
+      "sha256": "1a1df60c5249b047b308b577f2dd24cb47530a21303c1c886237cdd1a620b87e",
+      "exportSha256": "dd4cb1820b40f00d826bf3f4c1da579d474d571dcedde2c1c9a14fd86f857f15"
+    },
+    {
+      "path": "sources/people/standing-business-man2-skin-color-light-skin-color.svg",
+      "nodeId": "8496:13867",
+      "sha256": "4f4d0a3e82c7a43e5e02851ad92a8dd20cb093c5b38efec5e46385032a3cec28",
+      "exportSha256": "c24c6ac80d97811257a393822d5df5ff662a136a6523df90cd0c1f5daffc035a"
+    },
+    {
+      "path": "sources/people/standing-business-man2-skin-color-medium-skin-color.svg",
+      "nodeId": "8496:13887",
+      "sha256": "7ad6e282b979800408c29a30a5997047cc4d51472672a26e103a1723ff949b96",
+      "exportSha256": "aa20939b1fad1cdda20f995a2c205310f69706843b9391b555c4b159c776f2e3"
+    },
+    {
+      "path": "sources/people/standing-business-man3-skin-color-dark-skin-color.svg",
+      "nodeId": "8496:13978",
+      "sha256": "abb6b74c3955c22b9bcaa8f2f0ae4ca03f78824e25ea45121e75ccbb1eff5cb5",
+      "exportSha256": "ab98465faf55a8edc9c6ecc80f81a0b33f6adbe4c1d52722da4ddc02be31cf52"
+    },
+    {
+      "path": "sources/people/standing-business-man3-skin-color-light-skin-color.svg",
+      "nodeId": "8496:13928",
+      "sha256": "0b8bfc650711dbb905735037fa4baea3d59d7a3696e8930e0c8ac759641b1fd9",
+      "exportSha256": "5791b2d10ced8a9e6413a8a2f3d19b96982ebca6984573fe77025e17955adb73"
+    },
+    {
+      "path": "sources/people/standing-business-man3-skin-color-medium-skin-color.svg",
+      "nodeId": "8496:13953",
+      "sha256": "1c8a4cb3386e99f30387b7756f38f4733030a0ee2972ba4cd498340b1c5c636c",
+      "exportSha256": "745efaa27340a9f58c6b32b6683d43987447e2da8443006a1c3051b3f4722741"
+    },
+    {
+      "path": "sources/people/standing-business-man4-skin-color-dark-skin-color.svg",
+      "nodeId": "8496:14030",
+      "sha256": "de9f9407421debd969606f265816612d2512acdaa30fff7bf5ce4ab4b925d29f",
+      "exportSha256": "f2106f2bceeb0a7651b6c8737d50f7a79c331cff48969b4e25b5f5b3a9c814be"
+    },
+    {
+      "path": "sources/people/standing-business-man4-skin-color-light-skin-color.svg",
+      "nodeId": "8496:14004",
+      "sha256": "3ebc4174ce38379049aff1a6dd4763ae873488ee71392b8df78c572f9112f0da",
+      "exportSha256": "91e79fe63a796373d999dd020b6c6934f372691c8e8a694eefe60371f3e22a6b"
+    },
+    {
+      "path": "sources/people/standing-business-man4-skin-color-medium-skin-color.svg",
+      "nodeId": "8496:14017",
+      "sha256": "8f0035f4fcf4808f7e4422e9f9e38a6defa83d2c7031478d061dac46f4eb7030",
+      "exportSha256": "ce8291b9b01ebb331c0bc1736cc6cfcc99073c1040f7504be15ed932f0c1c0f6"
+    },
+    {
+      "path": "sources/people/standing-business-man5-skin-color-dark-skin-color.svg",
+      "nodeId": "8496:14086",
+      "sha256": "718ea840e21497191b109d92788f7cd5508076cdc68f39066d434582a8ccc3f0",
+      "exportSha256": "ab1679bfc7ee07f8a8f37c69df9d9756a5b76d1075add0488b9da5ab140e9ada"
+    },
+    {
+      "path": "sources/people/standing-business-man5-skin-color-light-skin-color.svg",
+      "nodeId": "8496:14044",
+      "sha256": "ddebbad26dd813a3b2432a953f553829bf5e07c9ed8ddc9d858f2fae48bf1acb",
+      "exportSha256": "a911e0ef83695a1deee0ab048a370c61dbec09ea9693b8e8418bc1c51f1850c0"
+    },
+    {
+      "path": "sources/people/standing-business-man5-skin-color-medium-skin-color.svg",
+      "nodeId": "8496:14065",
+      "sha256": "b6d7b7cd7387e0f39200ed66e2311a854242b7fccff3fb813098c551dd5df4e3",
+      "exportSha256": "2a7d29c4229ee67815e3d3449f524872a02662de4c4fe848dd7969d69aa7df77"
+    },
+    {
+      "path": "sources/people/standing-business-man6-skin-color-dark-skin-color.svg",
+      "nodeId": "8496:14148",
+      "sha256": "f6dbdaa9d9560c43a04d2e823a737875def5354b4575dda353df327c593a152e",
+      "exportSha256": "22e6a830d39d7a37758c9b79f216ffc812b2843c9117adc817d9c5c9640cc379"
+    },
+    {
+      "path": "sources/people/standing-business-man6-skin-color-dark-skin-color-8496-14421.svg",
+      "nodeId": "8496:14421",
+      "sha256": "0c95a0a5b08719f31d32e932bbd19186d2336df5b6e124e25f033deda7b5fd2b",
+      "exportSha256": "9b0643732e42f59bc71e5205f67b8b446013af5829f3d62b9d19adf6487ccbe6"
+    },
+    {
+      "path": "sources/people/standing-business-man6-skin-color-light-skin-color.svg",
+      "nodeId": "8496:14108",
+      "sha256": "d46dbc7a0db56dec538196310cf250227557802205cd8d9039b8cbdf561180e3",
+      "exportSha256": "943ffd1df1f798fb36a6ff8ae69189345f201de868f7aed75080561ad8b46bd3"
+    },
+    {
+      "path": "sources/people/standing-business-man6-skin-color-light-skin-color-8496-14169.svg",
+      "nodeId": "8496:14169",
+      "sha256": "562871c5532286883be371b57bdcf6baaba33bcc2451081c19481071c775dc45",
+      "exportSha256": "e170ecc6ada7c2c4f4acb2813e3db8310a10e9c3a1f4d422f35242009021d4d4"
+    },
+    {
+      "path": "sources/people/standing-business-man6-skin-color-medium-skin-color.svg",
+      "nodeId": "8496:14128",
+      "sha256": "84c0daa6138f601b43498837e2c0e187fa401bca12acd735845aeaac28b95ccd",
+      "exportSha256": "217ca5fa0208d2cbfe852f432ea9d28b5765ff4390d56ebf3eaa078a9645937e"
+    },
+    {
+      "path": "sources/people/standing-business-man6-skin-color-medium-skin-color-8496-14295.svg",
+      "nodeId": "8496:14295",
+      "sha256": "6c8160742017fe9d5c2aec0626ad58175385732baccd9b34705f12270b75d87c",
+      "exportSha256": "dfdca40a51eb5f191415cfd54fca2d311e7b7a85bd03a9bf4a894deb9d084a08"
+    },
+    {
+      "path": "sources/people/standing-business-woman1-skin-color-dark-skin-color.svg",
+      "nodeId": "8496:12753",
+      "sha256": "d069517e271282a6bacf69c6589a9901e8c36709fe52f7574374f0e90f300eac",
+      "exportSha256": "24b0efd7b38952fa7276538f4b7eb366e5829a07625e253664a3972b497240ea"
+    },
+    {
+      "path": "sources/people/standing-business-woman1-skin-color-light-skin-color.svg",
+      "nodeId": "8496:12445",
+      "sha256": "a4af62a78fc906dc9f1ceb7c25a4be53909d1f04fbcb969688130c6a43bd321e",
+      "exportSha256": "e128f54056b6615ac6cce1be9501f472434f74b20031bd08c15387b2d8138267"
+    },
+    {
+      "path": "sources/people/standing-business-woman1-skin-color-medium-skin-color.svg",
+      "nodeId": "8496:12599",
+      "sha256": "416694b1a4340db37e7b1432609ce58e266c91adf431db6ae00d9a4ca922bbdc",
+      "exportSha256": "b757d7df7fd28bddaa2112a7804c81bde600347a6a82e70bf07f97a9f78e0240"
+    },
+    {
+      "path": "sources/people/standing-business-woman2-skin-color-dark-skin-color.svg",
+      "nodeId": "8496:12962",
+      "sha256": "e48e4ceb4a49d83099124f77f69a7f4c62152ae8b4313b970ab19de7a5480de1",
+      "exportSha256": "fe4d7db4991fec5f49d27ec6f3a5e4ec59ad15a101311cec4e5eb2209dedfd6d"
+    },
+    {
+      "path": "sources/people/standing-business-woman2-skin-color-light-skin-color.svg",
+      "nodeId": "8496:12908",
+      "sha256": "47afc29903efb646e11bf364ef461702a5b23de88ea28441db023d8ad4b0d38d",
+      "exportSha256": "f7e74ca2f56075a4662a42d5f490599dc79b5a9542050a72ace4ce31316ed668"
+    },
+    {
+      "path": "sources/people/standing-business-woman2-skin-color-medium-skin-color.svg",
+      "nodeId": "8496:12935",
+      "sha256": "176f8f9086dcb4b7ef98c3a89f460f69e348017333da95ce970e7475eec9aff2",
+      "exportSha256": "d948b6f27f8bdf4e9cfa5ed8447e43cc3c357bf1e3888b33bbe176dcfe869fbc"
+    },
+    {
+      "path": "sources/people/standing-business-woman3-skin-color-dark-skin-color.svg",
+      "nodeId": "8496:13044",
+      "sha256": "6e113e1df2e17d85e0bdb5ebbd43bda1bd7449788de3762f887d0257117d5152",
+      "exportSha256": "56faadf735ef7e33ae0dbe7a2645d653df998126e65e6256912fa850bb952e17"
+    },
+    {
+      "path": "sources/people/standing-business-woman3-skin-color-light-skin-color.svg",
+      "nodeId": "8496:12990",
+      "sha256": "4b3e367518529aed5a24870ebe19b9e0bb33cc08a6058fc1e0692d6da2a4879b",
+      "exportSha256": "5ea397460e8f89522e48b5443fa4913da5643235a39891f31277a531c36698cc"
+    },
+    {
+      "path": "sources/people/standing-business-woman3-skin-color-medium-skin-color.svg",
+      "nodeId": "8496:13017",
+      "sha256": "e0cfb1c94a290edd9a4c4552d11147e3c92ec10f11a71dfc48501cf03fb66ed6",
+      "exportSha256": "c31a38c050dba934083d8ef0b5b7c0cb2d21b78f859300ed173464c987340b38"
+    },
+    {
+      "path": "sources/people/standing-business-woman4-skin-color-dark-skin-color.svg",
+      "nodeId": "8496:13122",
+      "sha256": "c6aef28ddb269119c485162327edcd36bc56dc2272092fda5ca6cc4a7dadcacb",
+      "exportSha256": "8e7dcf47f1f37d59fbd15d0b494d7eb22b759b9b803d910b05ef2b62b3ec344f"
+    },
+    {
+      "path": "sources/people/standing-business-woman4-skin-color-light-skin-color.svg",
+      "nodeId": "8496:13072",
+      "sha256": "0980641ad4d49ecc2ed4ac42d04a105a71d5dbb0af2e3094482d3370d67f6544",
+      "exportSha256": "acb208359a65022045cc3b92880d189dc22ec8417a7b96279f628813bce2d3b7"
+    },
+    {
+      "path": "sources/people/standing-business-woman4-skin-color-medium-skin-color.svg",
+      "nodeId": "8496:13097",
+      "sha256": "947552d40582841b75af80815fb1c19d6848148cf7f53b432206bb489cb902d8",
+      "exportSha256": "b2b344faf96c55412e0a2b893a3d44a0b1d6c7a812d8fdfc0c4671d17084bf05"
+    },
+    {
+      "path": "sources/people/standing-business-woman5-skin-color-dark-skin-color.svg",
+      "nodeId": "8496:13200",
+      "sha256": "45d0a559c50949336e4fdf948521173a170370ad43f12360c75a13711b4d3b50",
+      "exportSha256": "90005545cb1b58fff1b27663b434c106aa2021fc93f1e248be03e91ac8c078d5"
+    },
+    {
+      "path": "sources/people/standing-business-woman5-skin-color-light-skin-color.svg",
+      "nodeId": "8496:13148",
+      "sha256": "50441d168e020b56f4eb0f5be99c08e51b3733016fb249597de8a070741d768c",
+      "exportSha256": "8747a8404460e0cc700eb440e7528835b878488913e796b2cbf97a511493b29f"
+    },
+    {
+      "path": "sources/people/standing-business-woman5-skin-color-medium-skin-color.svg",
+      "nodeId": "8496:13174",
+      "sha256": "2a0693678a02279e505ae92c1c7cd980c0cef1ec6e18e1f8ca5bd0c0328e0268",
+      "exportSha256": "2a998279754343f9c7b8b0bf12f17e14a03a7f04c2c09fe50d6a3e56e95cbef6"
+    },
+    {
+      "path": "sources/people/standing-business-woman6-skin-color-dark-skin-color.svg",
+      "nodeId": "8496:13311",
+      "sha256": "97a0d695efe4212ad5ddab4ae476515a0bde6329a9961516d2952b6f9a4ab231",
+      "exportSha256": "45004e78fe27687f8804b8aa205b646783dcf7fc290449c6e16a9be463afc9e3"
+    },
+    {
+      "path": "sources/people/standing-business-woman6-skin-color-dark-skin-color-8496-13400.svg",
+      "nodeId": "8496:13400",
+      "sha256": "9cd0c939692b985b6b19a1929355fb54f7765d7b922f6d25fc444f0e73cc47ff",
+      "exportSha256": "77ce56be98decd3b584e60b2387624b4ddd5331ae395beaaecb28b01f9820521"
+    },
+    {
+      "path": "sources/people/standing-business-woman6-skin-color-light-skin-color.svg",
+      "nodeId": "8496:13227",
+      "sha256": "913d6154f19ff1046577eb92329f76ca2c0bcc21dbd9aa1b849c9178c1a7a790",
+      "exportSha256": "622ad3fb2185fc73796809290dc16860ad2cf2e9e755f7d093f3b13352a38bda"
+    },
+    {
+      "path": "sources/people/standing-business-woman6-skin-color-light-skin-color-8496-13354.svg",
+      "nodeId": "8496:13354",
+      "sha256": "a41a73d59be06ac2134c7357980360448e30af82bf748b4143e2b8c8af79b1c1",
+      "exportSha256": "d7beba6d265361d93ed9569de3795f0a3c5ad4e8939171d4806b6933d2265d6f"
+    },
+    {
+      "path": "sources/people/standing-business-woman6-skin-color-medium-skin-color.svg",
+      "nodeId": "8496:13269",
+      "sha256": "6d7c1bf3f130ca0e7865ffccbc8fdaf971b93655c0d7c7dd3d343e18d25ef50e",
+      "exportSha256": "ba742f71efba64ba546a1180dc025241e6ae2707c1beefbb2a98bd82f642e10a"
+    },
+    {
+      "path": "sources/people/standing-business-woman6-skin-color-medium-skin-color-8496-13377.svg",
+      "nodeId": "8496:13377",
+      "sha256": "16faa10653b3f30169ffb450ee68ae4c4d62f081094b898d0a5ecbe1fdcb63f4",
+      "exportSha256": "9e47c8245f7602408a48bf5f7acfbfa667d801049c2b5699c6b4704d02f60097"
+    },
+    {
+      "path": "sources/people/standing-customer-man1-skin-color-dark-skin-color.svg",
+      "nodeId": "8496:11015",
+      "sha256": "9028aefe7a12b513576d89597298b8dc5f792ee2c0723f800f2d9ad76a649833",
+      "exportSha256": "309b1350a383183f4c158f98c0e68fac4db141a369e84561a93fbdfce20ea447"
+    },
+    {
+      "path": "sources/people/standing-customer-man1-skin-color-light-skin-color.svg",
+      "nodeId": "8496:10765",
+      "sha256": "6967dd30e939dc89965a6cd8d64f60685abbbb4e9828838684cc1d7f9c386d4c",
+      "exportSha256": "69c5d20f5ff646bab8cfc9135a56f19463d634b1a709dd6adb7b0a4030cc0ee5"
+    },
+    {
+      "path": "sources/people/standing-customer-man1-skin-color-medium-skin-color.svg",
+      "nodeId": "8496:10890",
+      "sha256": "7425e405eca27e139a040ba492bbccf228b70f08ad018c98ad2b15db8cbfcb1e",
+      "exportSha256": "23a1b8d804a6b554a72a4ec90a84aebf657dc9293661c3112e118be1892d9427"
+    },
+    {
+      "path": "sources/people/standing-customer-man2-skin-color-dark-skin-color.svg",
+      "nodeId": "8496:11389",
+      "sha256": "34f0bfb59e778be3a7d0d01aee1f0830a0e00dc6f64337ae6a0a01813abad95e",
+      "exportSha256": "03b8fff912f1d2c50a348e547a1c9adcdea8f016b445522b58b53edb6b9c23f7"
+    },
+    {
+      "path": "sources/people/standing-customer-man2-skin-color-light-skin-color.svg",
+      "nodeId": "8496:11141",
+      "sha256": "04023ec3eb343c8aa3b164adee031a2d60a5f7c7d8e1a5faaa85e1869073e0a4",
+      "exportSha256": "5a45e2ff5d44fe47d7061cc63ab30f53275ef44a4276e39e58ef00a73569a062"
+    },
+    {
+      "path": "sources/people/standing-customer-man2-skin-color-medium-skin-color.svg",
+      "nodeId": "8496:11265",
+      "sha256": "62518fecd7ab8142afd0dc88c0fe2c1ec6cdec50347287f75943680c4a9491ec",
+      "exportSha256": "4d93f7fed1134df793df0eea2a68d3a7f525c149a7cfbbd845e72da4270cd271"
+    },
+    {
+      "path": "sources/people/standing-customer-man3-skin-color-dark-skin-color.svg",
+      "nodeId": "8496:11558",
+      "sha256": "849ebbc64f3591e8222bbe643160d8c4e85e21170ca871933b1c403ad97e1b31",
+      "exportSha256": "30b004b86ecf3ee7933cf1c03f6459661fe74eb27f21e1576fce4a6d8a21ea57"
+    },
+    {
+      "path": "sources/people/standing-customer-man3-skin-color-light-skin-color.svg",
+      "nodeId": "8496:11514",
+      "sha256": "91d7de5f84653e326e3cea08464b052c9cf1e212d9487867dbdcb1c02ce05be2",
+      "exportSha256": "ad3878361ecdd2174d308a0610dccb03fde33a6275d2a8dfbc7277736b44427c"
+    },
+    {
+      "path": "sources/people/standing-customer-man3-skin-color-medium-skin-color.svg",
+      "nodeId": "8496:11536",
+      "sha256": "ac08be43d5eeb528e3c9f67023cbefa5a7785bf366946c06ce7bcb9559bfac52",
+      "exportSha256": "3ee94c9cf454d19948753c3d25914b47e6e63914c01409076d0385c89ce0c3eb"
+    },
+    {
+      "path": "sources/people/standing-customer-man4-skin-color-dark-skin-color.svg",
+      "nodeId": "8496:11601",
+      "sha256": "342f2173de99c2e8ff5b6905af65587b5b14fe1610acd0fcd0e89e17d0b6a640",
+      "exportSha256": "37e5cf5adfe8fd48d1dbf8209b75caa41595db3b3a54a80745fbe533f304dd3c"
+    },
+    {
+      "path": "sources/people/standing-customer-man4-skin-color-light-skin-color.svg",
+      "nodeId": "8496:11581",
+      "sha256": "ae572fc533e1a7fbfeb0168b7bb75d0d2e0cec25d7730040b1ab53d32ddb1c9f",
+      "exportSha256": "6eeb99dbb6ce86a5f0b78f3e9fe9368622982eca3c2be14a6d1883a1c8385ef2"
+    },
+    {
+      "path": "sources/people/standing-customer-man4-skin-color-medium-skin-color.svg",
+      "nodeId": "8496:11591",
+      "sha256": "f8c2e71c01f258f08eb1d0a600964c35c283601325c7967a1b594754013647d0",
+      "exportSha256": "50d22c09dba7fab75149ff52cc875ca98f969c393cf3e6166717684d2cfee796"
+    },
+    {
+      "path": "sources/people/standing-customer-man5-skin-color-dark-skin-color.svg",
+      "nodeId": "8496:11652",
+      "sha256": "4ebb3975ac4e9af52b54b63c50ecef7bb83ce9ebff5be6d08ed5b1ab232581c2",
+      "exportSha256": "ef878dbf09755470bfffb468061a01e808bff5b0bc94b6c4e3e7eb5270710e85"
+    },
+    {
+      "path": "sources/people/standing-customer-man5-skin-color-light-skin-color.svg",
+      "nodeId": "8496:11612",
+      "sha256": "0a16c13a6a5de074064686340784704adeb9e35804a14e9fadb2731df08d8ebb",
+      "exportSha256": "a10efeb8544694f35c686faeb21df20e4d18b0e31a2dc661599092b9cc7d22c0"
+    },
+    {
+      "path": "sources/people/standing-customer-man5-skin-color-medium-skin-color.svg",
+      "nodeId": "8496:11632",
+      "sha256": "a8f86e32dd1ce153c85d173b1dc984e31ef0a772cb1d04759b113e909be7e8e4",
+      "exportSha256": "51c4cc5532858a02b006f286b9a581b05072d75cc1c2ada40114b75e6e0bc01f"
+    },
+    {
+      "path": "sources/people/standing-customer-man6-skin-color-dark-skin-color.svg",
+      "nodeId": "8496:11723",
+      "sha256": "823e0a4fd4f63798a8281d03da30c7fa0aff95de479aa63f0e654adf1503cd64",
+      "exportSha256": "303c45c5d6a5a8759b79abd78e05ccfc72d3675d98331ff79023eac8ecb04ca9"
+    },
+    {
+      "path": "sources/people/standing-customer-man6-skin-color-light-skin-color.svg",
+      "nodeId": "8496:11673",
+      "sha256": "567a9330dd42864af8abdc9e9a251199758a8aec014ea31a8d96b1e9a52633fa",
+      "exportSha256": "73c0bc68d8eef3cf245c862b256fa2c4a3c98d47e17c098671fe9e67e39e72ac"
+    },
+    {
+      "path": "sources/people/standing-customer-man6-skin-color-medium-skin-color.svg",
+      "nodeId": "8496:11698",
+      "sha256": "4ff0b0ca31d3e1a820eb4954c87762c9ad4ca4697b72352d8985d696d7605492",
+      "exportSha256": "7cb100f399b40b3f83ed49af27e3eaf36e821802c5cf1535f46fba0bd47d305d"
+    },
+    {
+      "path": "sources/people/standing-customer-woman1-skin-color-dark-skin-color.svg",
+      "nodeId": "8496:12400",
+      "sha256": "13ff2b327c77c2cfeb07ef28247cf515b7f6cf64944a0db4e4cd74dcd9ab2018",
+      "exportSha256": "a89226aee89843d3c54b57f9509d41258c39471a9b49f9cdaa731cd56e9d5925"
+    },
+    {
+      "path": "sources/people/standing-customer-woman1-skin-color-light-skin-color.svg",
+      "nodeId": "8496:12362",
+      "sha256": "7313744364780c8b648aee83a4a04dbf51e56497b0e000de55ff2f0cbe5c87f7",
+      "exportSha256": "905bde407cda4aed5b49c02c7076294b1f0d69095ec7ac2ad8bd324b7709264e"
+    },
+    {
+      "path": "sources/people/standing-customer-woman1-skin-color-medium-skin-color.svg",
+      "nodeId": "8496:12381",
+      "sha256": "668cdba15f9c76feca950daa85b845d3696ee59f400722ebbd5ec44a3bb4c313",
+      "exportSha256": "dacbe00686632cdc8580dd1d0720bd4e32399ce246f867ce9aa1029b49074d8d"
+    },
+    {
+      "path": "sources/people/standing-customer-woman2-skin-color-dark-skin-color.svg",
+      "nodeId": "8496:11800",
+      "sha256": "5ad998d447b8a81edc07d3f6e28f28d7532ae9cf5ce56027eb39b98540c15d65",
+      "exportSha256": "34fb41e310f72039652aaaeb68f0fa4cd499623bd0e34739668bf6fab7a4eb0c"
+    },
+    {
+      "path": "sources/people/standing-customer-woman2-skin-color-light-skin-color.svg",
+      "nodeId": "8496:11752",
+      "sha256": "463e22a4cfdd39e8679af1b9116d8fc3b92be309b83d8d0cad0ea06d4674a541",
+      "exportSha256": "85c8717b3a367ab1d57737536795387fb3b181f4f541bf7e8ae684928f5410e0"
+    },
+    {
+      "path": "sources/people/standing-customer-woman2-skin-color-medium-skin-color.svg",
+      "nodeId": "8496:11776",
+      "sha256": "b8ff3a0856fdfe5e708f9666b3844cccd731a3357943e9f4888c09ff215ee36b",
+      "exportSha256": "fd40623be752ac2ed20fc56e6e2e26f479e8ff02dbb2ffc99ce27b8cd29afeaf"
+    },
+    {
+      "path": "sources/people/standing-customer-woman3-skin-color-dark-skin-color.svg",
+      "nodeId": "8496:11861",
+      "sha256": "27be9898a2378b3342d6a7f7710d8765d34151425dd1c0a2c5ea619533ef2063",
+      "exportSha256": "408ed1fa2dc295640eedcc5a70940ac6969611245c17f040f8d1ce4e2a131f94"
+    },
+    {
+      "path": "sources/people/standing-customer-woman3-skin-color-light-skin-color.svg",
+      "nodeId": "8496:11831",
+      "sha256": "6cc9e610c28b24c478db4c238356848437c437b22e93a1c3363e1047eaf7ae27",
+      "exportSha256": "f7568a33b4de7ca12323ac97be2b2b7248fbd747503ff6466171bd202e8e2109"
+    },
+    {
+      "path": "sources/people/standing-customer-woman3-skin-color-medium-skin-color.svg",
+      "nodeId": "8496:11846",
+      "sha256": "3e20313e651bc1039ef49aa8cd110217df8180d92ed685a12c2e2ff89b107549",
+      "exportSha256": "f85b4ee153e58c4a5964d371d27d187908e902c63a709e386b8ee8568f1b635a"
+    },
+    {
+      "path": "sources/people/standing-customer-woman4-skin-color-dark-skin-color.svg",
+      "nodeId": "8496:12129",
+      "sha256": "958a31546676ce78c584eba5ba2e27111467e9ee274c7370a56278518380fcb1",
+      "exportSha256": "9505d03bcba54702f930609c965c845cdac92dc0068ee6ea442a03a6a9ed7b7b"
+    },
+    {
+      "path": "sources/people/standing-customer-woman4-skin-color-light-skin-color.svg",
+      "nodeId": "8496:11877",
+      "sha256": "819e1fed1e8500e2fc913ee446ee173b56c719f8558c8c5b110bdcdaeb88fd78",
+      "exportSha256": "3d49db21df484c69a0428543750211d18001b3e5a8f01eba93f6032a557f9d82"
+    },
+    {
+      "path": "sources/people/standing-customer-woman4-skin-color-medium-skin-color.svg",
+      "nodeId": "8496:12003",
+      "sha256": "d1096d8e51f8b9c46de4dee623bbbd62eb2f28232af89ece29cc06799943d689",
+      "exportSha256": "3b215cd212fa7a574d483fbfc85f9f6d8f7d14cd7fac28985e80889e806e737f"
+    },
+    {
+      "path": "sources/people/standing-customer-woman5-skin-color-dark-skin-color.svg",
+      "nodeId": "8496:12291",
+      "sha256": "4e48b8060f59b41d45b38dac6f9f2d3a9560d3fc2790e9e1cb0901caa5344b14",
+      "exportSha256": "af76ca25a430170f4006524899c276d77186e02da2216348dcf135df44b9032d"
+    },
+    {
+      "path": "sources/people/standing-customer-woman5-skin-color-light-skin-color.svg",
+      "nodeId": "8496:12261",
+      "sha256": "d07baeb450be084964af748c143d4403d761ec53b84e1ca38fc6e531d64d0be5",
+      "exportSha256": "7b2e6b23ce5a4dc41ad8289a152c2f00f96b7b44b9b8c88e60ddd1a1a918a81a"
+    },
+    {
+      "path": "sources/people/standing-customer-woman5-skin-color-medium-skin-color.svg",
+      "nodeId": "8496:12276",
+      "sha256": "eff2a509e9fa32b8d735352d5a7be2a2370e9b95d84edf634b58b5f33496083c",
+      "exportSha256": "ae7564cf0ef259e1b83e6e16424b2633047e6a195489327694b16cd2287de076"
+    },
+    {
+      "path": "sources/people/standing-customer-woman6-skin-color-dark-skin-color.svg",
+      "nodeId": "8496:12343",
+      "sha256": "7739afc279b75e878ec390839fe730e9f94cd5c2e822301147c260414fb7b40f",
+      "exportSha256": "58a14414869ae9fd81aea9f45051b047547a3819db78d262647c8cffd8b754b8"
+    },
+    {
+      "path": "sources/people/standing-customer-woman6-skin-color-light-skin-color.svg",
+      "nodeId": "8496:12307",
+      "sha256": "5bc198a246197b6f31aea5ba0afd0e4146a70d75a79fe43625e1c974c2466c22",
+      "exportSha256": "148bcce5d999908419e268a3fbf67098d368eb8453cfed3166c1f37064b5515c"
+    },
+    {
+      "path": "sources/people/standing-customer-woman6-skin-color-medium-skin-color.svg",
+      "nodeId": "8496:12325",
+      "sha256": "3bb3a79dffcef0f70cdafe994d6e6f5ed12d2ebc022df87b4129e7ad746b9fd5",
+      "exportSha256": "f3879320cf6aade2a9945ed850c7ae3bfee407e5552a375a74855338a6b01cc9"
+    },
+    {
+      "path": "sources/people/walking-business-man1-skin-color-dark-skin-color.svg",
+      "nodeId": "8496:14649",
+      "sha256": "0e3280b83196939da28749971f0fddcb0da63f792b9548ad05003d3348a73582",
+      "exportSha256": "a394350e27f408face59da56c147120f22e9645c5410066e80c0955c9e2e4af6"
+    },
+    {
+      "path": "sources/people/walking-business-man1-skin-color-light-skin-color.svg",
+      "nodeId": "8496:14615",
+      "sha256": "59dd6b57f4236ed55774c38fda4f9bda1a2a8a2d34cb9b892d4776a506d1edd8",
+      "exportSha256": "b2e3036f3885f6ffaf5d66c033fef8531e9f72993b50861f00b949331f045428"
+    },
+    {
+      "path": "sources/people/walking-business-man1-skin-color-medium-skin-color.svg",
+      "nodeId": "8496:14632",
+      "sha256": "82a1d63391b6a88e062bc6453830e285c17aa631384301fccc6091bc32bd9405",
+      "exportSha256": "98ece418447c3fca2f798c8aecd8c97beffa49b0174e0f83d8a0b9436e33e57c"
+    },
+    {
+      "path": "sources/people/walking-business-woman1-skin-color-dark-skin-color.svg",
+      "nodeId": "8496:14612",
+      "sha256": "7c0ac04571edccce0dd5e2e5cea9df5c6ab0bfda0ad7aa7f5ea133052325a25a",
+      "exportSha256": "dbdb624813a9a3fb90900582910cb04b885b8e67f91cc7a54409df9d2160edf0"
+    },
+    {
+      "path": "sources/people/walking-business-woman1-skin-color-light-skin-color.svg",
+      "nodeId": "8496:14608",
+      "sha256": "a18675d82a98b83239e95692a29ad3811d909ad8da1335bfffacc7a929c05189",
+      "exportSha256": "556bb558c5fce52539ad1325da7550974841437befd37bccf05f754797f53350"
+    },
+    {
+      "path": "sources/people/walking-business-woman1-skin-color-medium-skin-color.svg",
+      "nodeId": "8496:14610",
+      "sha256": "9da60c60a523540379444ca7f8c97dc5baa14529e3b9265ed7f9be0acd71c83a",
+      "exportSha256": "056f49dcf5c862372f416e09d3144564da0b1bf6f65b99539f1fb704d3bcd0e7"
+    },
+    {
+      "path": "sources/people/walking-customer-man1-skin-color-dark-skin-color.svg",
+      "nodeId": "8496:10702",
+      "sha256": "b59c6a069c60969b19e2d05c2d2fffd2782f4ced7c8dc15ecbfc4fb09dcd15b9",
+      "exportSha256": "f2b7ee7aa38ab471fb5be0d73ac3b1bff0d6f22c651692d95e904fd3b286d0d2"
+    },
+    {
+      "path": "sources/people/walking-customer-man1-skin-color-light-skin-color.svg",
+      "nodeId": "8496:10636",
+      "sha256": "ffbbdd42e77feb89cb70fa64650164116eb51c6c377a6138fad41f45749e383c",
+      "exportSha256": "d8a52d5d04c4a622869f3a53cf0334b6845f5cd7d70278f93175a81fd0c2be27"
+    },
+    {
+      "path": "sources/people/walking-customer-man1-skin-color-medium-skin-color.svg",
+      "nodeId": "8496:10669",
+      "sha256": "6872abbe060e47005eddb2ef7db8f93346f3f16a712d5b6a2e1511a79d128158",
+      "exportSha256": "6d77891bb949c4b13ed4b08633d100f5ddafc978bacfd5b711c8ffa898c96dd8"
+    },
+    {
+      "path": "sources/people/walking-customer-woman1-skin-color-dark-skin-color.svg",
+      "nodeId": "8496:10577",
+      "sha256": "771d465e28bf726ca7903a0b9b1fa5ef0962935f6b36c0e0818a1623d4a3dc7f",
+      "exportSha256": "95c27aed2c3ed865cc9ad343ed29a9402d83685b2f57414f9b6510b1ffac288a"
+    },
+    {
+      "path": "sources/people/walking-customer-woman1-skin-color-light-skin-color.svg",
+      "nodeId": "8496:10553",
+      "sha256": "a0db0fae873b3353e86355c7298a363e9df4cbafaebac4c72899ff10e3371d29",
+      "exportSha256": "5a64138f74a84fca99f7f615ae2f31c9fba4b3b89253a8eb0797e2f6f55225a7"
+    },
+    {
+      "path": "sources/people/walking-customer-woman1-skin-color-medium-skin-color.svg",
+      "nodeId": "8496:10565",
+      "sha256": "46d919079635698cc11b73537b058a074b1d7fb558eb9c3d7ea7e3e6dd2a8e8f",
+      "exportSha256": "5ebc02fd7f373879ec216bf8da1e81e43f68ef3922d80dac8ebb0c14bd76a126"
+    },
+    {
+      "path": "sources/people/walking-customer-woman2-skin-color-dark-skin-color.svg",
+      "nodeId": "8496:10622",
+      "sha256": "b6b46322f8c63f7875eea3094124df2984bde2a2f7b6feac1c79415455c20503",
+      "exportSha256": "8135031286d451434e76e2f5279ea317503c025e7c6782ab5698671db5dafd19"
+    },
+    {
+      "path": "sources/people/walking-customer-woman2-skin-color-light-skin-color.svg",
+      "nodeId": "8496:10596",
+      "sha256": "b643c8fc348ae96e19a2e3db5124ac99ca8ed0d8c9e5d6468917b6b8b49200be",
+      "exportSha256": "86bd618faa7fa5c7ff36345f9ed3177e707204a2292ab8c5ccaaaad7a250d62b"
+    },
+    {
+      "path": "sources/people/walking-customer-woman2-skin-color-medium-skin-color.svg",
+      "nodeId": "8496:10609",
+      "sha256": "79b3395bda20fcee87f588341a74f0ae96dd5c9fdefc50a82283974f322587e9",
+      "exportSha256": "c964bcbc4bd05a095ae210143670f8a69c94dee226f910da10cb290ff7f7ef98"
+    },
+    {
+      "path": "sources/scenes/account.svg",
+      "nodeId": "4704:60",
+      "sha256": "dee50604c7c7ec1b78e87e41538b3808ad5477327c1e7b440cb04d46b7e3564e",
+      "exportSha256": "ccbfc790cd5e9ff8c79a2aeda6f286d624efd7370508be8dd97ca8c7edaf650b"
+    },
+    {
+      "path": "sources/scenes/advisor-contact.svg",
+      "nodeId": "15774:2983",
+      "sha256": "22e0b56598bb2109ba27eee67c7ce5ab11cffcf726f0014f5825c37288f78186",
+      "exportSha256": "6c42220e44393c75196185de7b76996ec984aef5cc1793f6e0688a85a1b3e7b8"
+    },
+    {
+      "path": "sources/scenes/agreement.svg",
+      "nodeId": "5671:939",
+      "sha256": "a26425f92309b337872453a139e0aca64afec0b8840c77bb2abdb0792e6039b3",
+      "exportSha256": "32bb5edab0cc675861e08b90e1314267a675e7be5696a89b78c97595f6b9cbaa"
+    },
+    {
+      "path": "sources/scenes/apllication-recieved.svg",
+      "nodeId": "15217:2447",
+      "sha256": "36aae1e3e9f9a906e39770023ab4883f2ab9cf6eefe0ce1f07a6a3b5f08e8404",
+      "exportSha256": "ac1292eeb042beae84552a7b87134b355bc4d5f615c58ab68a6352bf6b9aa688"
+    },
+    {
+      "path": "sources/scenes/app-security.svg",
+      "nodeId": "4701:458",
+      "sha256": "5b51b2f260d447be51cd75302ac89c374350a57f34d9c3f16c04e8b782dd452c",
+      "exportSha256": "fab174fa7b7252b58c641ade683c0c2a7287673e1a6f77caed85c44b20620fa0"
+    },
+    {
+      "path": "sources/scenes/applications-comfirmed-celebratory-situation.svg",
+      "nodeId": "15218:4928",
+      "sha256": "381e2037d0a497b7b669574ff48184d26ec6e21d57286b35bf2239657ac4e2b6",
+      "exportSha256": "25babead082e25cf4c08ef1bed28b1baeb9db6ff37378ca0df2331dfe0fcc798"
+    },
+    {
+      "path": "sources/scenes/apps-and-uis.svg",
+      "nodeId": "3505:4085",
+      "sha256": "f26382177e152a334378f95966986f6bd5faa26db8074aa7e8f34523cc07584b",
+      "exportSha256": "cf53719421c02e954e933197a2595ab8bb230a40d8e3edb23dcc6ca7977f6715"
+    },
+    {
+      "path": "sources/scenes/astronaut-1.svg",
+      "nodeId": "4677:1050",
+      "sha256": "562ae27c5ccb3170d422ab615df7831feaf367f430b5528d6eec5f26b29f14ca",
+      "exportSha256": "721e6bd0139382a34138096f33deb60277e3d705683a0b72b15ab4998f2cb80f"
+    },
+    {
+      "path": "sources/scenes/astronaut-2.svg",
+      "nodeId": "4677:1048",
+      "sha256": "246889564b86cb982114a890424625ab646eb422f21efba881204f919d600dce",
+      "exportSha256": "aad3896674c05022a1fef574cc0a803992a7b7aa8857687dcb1a648e20f72329"
+    },
+    {
+      "path": "sources/scenes/balance.svg",
+      "nodeId": "3739:9",
+      "sha256": "0f06a5af722bb79fe4119e29685bdab5c1846a2ca6be489988e18d239610de87",
+      "exportSha256": "aabe786ab53968a081067979d00fb0eb1314d1022617d8b6cedf134fe58c203c"
+    },
+    {
+      "path": "sources/scenes/bank-id.svg",
+      "nodeId": "5762:0",
+      "sha256": "95d9e03dce95d85c28b859fea4462bfb7c59f7e444acd5772cc4994cf63aa5d2",
+      "exportSha256": "bec624556ff33fc87dcfd0d5743d25bb4afdbaaa3fdeec0195dc1a2a630eed8c"
+    },
+    {
+      "path": "sources/scenes/birthday.svg",
+      "nodeId": "4941:1784",
+      "sha256": "960db2a7e4d1c23fa568d6a123cee8f67eb213d0225b2f45daca42e86a3116bb",
+      "exportSha256": "b5a1a3219c7cca29255d6cdb0dce295a9cf6953fd0eaed8210940fd62ba3cd39"
+    },
+    {
+      "path": "sources/scenes/boat.svg",
+      "nodeId": "5829:81",
+      "sha256": "121a103e6c97dc1fb4bd028e36e5119fe20d02708109651f03d02b713c19c62c",
+      "exportSha256": "c4ce47271b6ac1c92015926e3ebcc015956931494400b0f6be38802d00f112fa"
+    },
+    {
+      "path": "sources/scenes/bsu-saving.svg",
+      "nodeId": "15227:4941",
+      "sha256": "be5575a591653b41ca6e0cba1b75775c6acce0a51f72b77cd71be40e65090e6d",
+      "exportSha256": "af513bd9c86881d2d21999a608bef05f934af87e170d147ce091ec697a9a805d"
+    },
+    {
+      "path": "sources/scenes/building-a-house-frame.svg",
+      "nodeId": "15227:4943",
+      "sha256": "aab656635ac85a0d278e103a45f3519d22baadfcba9aadff3290ba540b25786c",
+      "exportSha256": "4934dbe33e82d857a4e5ec81fbf7b9e8066cafb11c90b3315a5a43e18b04bb44"
+    },
+    {
+      "path": "sources/scenes/calculator.svg",
+      "nodeId": "5027:59",
+      "sha256": "b29efacff6f5edc7dd2c1010152dd42a7fb0f2e658eadad47ec3ce54daf59ea1",
+      "exportSha256": "f8d1de80b6f9cbe1aa6b1964e29a316e89446a4829842d11762494a8ea19ee8c"
+    },
+    {
+      "path": "sources/scenes/calendar.svg",
+      "nodeId": "4965:1000",
+      "sha256": "caf25b516214429fde76c4d2f8a38afbd57104c86c5181ab7b38d173d6099e8e",
+      "exportSha256": "d792f50287522679a3d986e31df9e70d299897f3880cb5d8a6570faac7dd2f3f"
+    },
+    {
+      "path": "sources/scenes/calendar-4965-961.svg",
+      "nodeId": "4965:961",
+      "sha256": "719aecb26588424a36c9037e7cf173abe8dff2d9837e40048b8c365292de13f0",
+      "exportSha256": "2d807a238a6986ac335bb89c4cc37891222163e994afa1fd526aeec5a23696b5"
+    },
+    {
+      "path": "sources/scenes/calendar-small.svg",
+      "nodeId": "5558:54",
+      "sha256": "d087a4003dd6cfa5413aac1f18617a9842a4d7bd4f8343ad93cd95bcb87362e7",
+      "exportSha256": "819143174fddbe4279ef336af7e571e45bccd765290685196803c634c50b09bf"
+    },
+    {
+      "path": "sources/scenes/car-2.svg",
+      "nodeId": "15227:4942",
+      "sha256": "5aa16cdca4dd6cb997125a6efb47f0d807807fd1df607a01f30c66d005b1be1e",
+      "exportSha256": "d31337a42d6c42729e8d8265dd0606c16df1fe66ccefafc9eeed315daa27ead8"
+    },
+    {
+      "path": "sources/scenes/car-3832-265.svg",
+      "nodeId": "3832:265",
+      "sha256": "e6d6feaf1cb8bf5eae1151d4117fd24d029c28e1bbd24a326e3ab861b88e5e38",
+      "exportSha256": "79044f01cdb0e6fe58bab940b910e96647a67aedf77eff07d913a707506fb3c1"
+    },
+    {
+      "path": "sources/scenes/car-insurance.svg",
+      "nodeId": "8718:5363",
+      "sha256": "f15ddf8b7415188d201d656b392802d1c5df7b1658d418f673b091d5ab57f78a",
+      "exportSha256": "20f363607eadd223907e74c6526dc3bd1bf433a8ba0226e2ae46f33f607f898f"
+    },
+    {
+      "path": "sources/scenes/car-loan.svg",
+      "nodeId": "4375:24",
+      "sha256": "f85fcf28e6a2834851ee4a5f7d082c98bb947f85e90341440e1b2059152f8877",
+      "exportSha256": "9e7811265feb335abf48e291e6c87791d65736fa11d83b0df18943926082b23f"
+    },
+    {
+      "path": "sources/scenes/car-value.svg",
+      "nodeId": "3918:261",
+      "sha256": "7468a5238b55617494527666686563d1c4bf0037b85d852cdd2f222adcd72b24",
+      "exportSha256": "6781675e07f66bf609033d33ee47b00d5ceb49d5980557690e5eac335cbf804a"
+    },
+    {
+      "path": "sources/scenes/card.svg",
+      "nodeId": "5907:184",
+      "sha256": "d2f999a3ff659f04bcb6f84a2f4846fda7c3bd1d9aabd08bfdd9202da902021f",
+      "exportSha256": "2f8d0f2fd83408e0ee5887a6b267ef50c936a8d60ff0811066a2b7571382c562"
+    },
+    {
+      "path": "sources/scenes/cb-login.svg",
+      "nodeId": "4775:192",
+      "sha256": "036e87b8fd10d6e9db47be957b148a04633c65705ad1c420f15f09d61d27ba04",
+      "exportSha256": "ccf52929d852866169cdda9817c24cf716ebe2a63a5c18400cbf7fb7700b6bb5"
+    },
+    {
+      "path": "sources/scenes/cb-login-11035-2289.svg",
+      "nodeId": "11035:2289",
+      "sha256": "9aed43de703f2337e80c04c25a3838fffb2397adee2f12a6e840a9b50dd87261",
+      "exportSha256": "df259a742b1778cad079239c43568bfee99c5b3f07219336e30c827f30279193"
+    },
+    {
+      "path": "sources/scenes/cb-nettbank.svg",
+      "nodeId": "15227:4945",
+      "sha256": "5c3c1ef2c91db84ca0d02f9b6c7cf3d1d9688268193963b36e26f14e81ec8c77",
+      "exportSha256": "faccd142219cb500e11c495d0271a906b889ace492e83fa30094beac77317a01"
+    },
+    {
+      "path": "sources/scenes/celebrate.svg",
+      "nodeId": "8427:1422",
+      "sha256": "c161dc23bcd64c86ba833f21921a530f3d10eb0a9da42b741264179106d55945",
+      "exportSha256": "5561dbd633f53e72a3b0932498839755428c76834be106a3c9890a7eac2ad8c5"
+    },
+    {
+      "path": "sources/scenes/child-insurance.svg",
+      "nodeId": "10777:5382",
+      "sha256": "41181dea7c91b2400a2ee1edbf690bd43c608d5fe70b9a7c95610096b72f87be",
+      "exportSha256": "8d42b68156bb142b6dc2856a15548454ebdc122df0219d088a5d7af68700e286"
+    },
+    {
+      "path": "sources/scenes/cityscape.svg",
+      "nodeId": "5634:3",
+      "sha256": "4ca2e478518622023fa4d928fba470ae7339bc35da72e20d65a7f1c7e7d5a428",
+      "exportSha256": "d6b20a42d8f7ac61d601a7afd53d2cbbfde8aa04c9f021bf803feb76838e7f81"
+    },
+    {
+      "path": "sources/scenes/click-to-pay-29-8-25-1.svg",
+      "nodeId": "17647:2645",
+      "sha256": "4a638f5fbcdd54a47d8cfe6541bc625fdcec4714b4c3d129224ab7641b6c4718",
+      "exportSha256": "e161500a354ff918b6ed80d2af8412c772d72c84258881e57f92886ffb62a374"
+    },
+    {
+      "path": "sources/scenes/clouds-1.svg",
+      "nodeId": "3505:6697",
+      "sha256": "a314b19f32c9452981b633ebe5e8fb90f3059b08818fedb8833d52444751cb6f",
+      "exportSha256": "a436feb6edc2bfaa9ca8c5bbe1d10ca2651b9bc668549621801edb39961b8318"
+    },
+    {
+      "path": "sources/scenes/clouds-2.svg",
+      "nodeId": "3505:6732",
+      "sha256": "07758653dd709ea44400a2cbae89a197b25c4b09d0d6883c227f5d0536278e40",
+      "exportSha256": "26de677fdf2d67719b16c413a8dcb0dade733229b6708fab737cf7c8c070cccf"
+    },
+    {
+      "path": "sources/scenes/cogwheel.svg",
+      "nodeId": "18424:2675",
+      "sha256": "41d696b07475e7f85259108b669531248e2014671eba5b6b5f443ce7772e439f",
+      "exportSha256": "e9406429029ea7353da88a1e91473703327963201cf74641931023bb836c9a9c"
+    },
+    {
+      "path": "sources/scenes/connected-world.svg",
+      "nodeId": "3505:6766",
+      "sha256": "f268fc0812df4b8d371a173c7a6cc341da18bf9a498077aa24f25a5a28f23bfb",
+      "exportSha256": "7ec80fec59e3a3d2fa83bfd70767a321c75bc531396727add0ac4546cf5a9c7d"
+    },
+    {
+      "path": "sources/scenes/construction-people.svg",
+      "nodeId": "3739:15",
+      "sha256": "d81e583285d09a0e055ec58e76d9d85a1af2939ceb7b8a30399a6342bbc12756",
+      "exportSha256": "ca26229827c1a2c67739430ab8129020709ae20e92f57f832f009aa23dc7b3cb"
+    },
+    {
+      "path": "sources/scenes/construction-workers.svg",
+      "nodeId": "3739:13",
+      "sha256": "8f697748bb11ee02f8ddda4a467493bde4194af5e798e317fdc132e675f1f903",
+      "exportSha256": "4e3acebe043d014b748e38f0154391814ace964cdeea6834c6512b416a82dd7a"
+    },
+    {
+      "path": "sources/scenes/consumer-loan.svg",
+      "nodeId": "3505:650",
+      "sha256": "c45855b11799067355988521943328ae470857cbda6b8a9f6f2cd9e4b6d3c350",
+      "exportSha256": "0f7dac70b6092c401c76cf2835a0f345df95af71d4cc3ed6ee8afb7f57f7f380"
+    },
+    {
+      "path": "sources/scenes/consumer-loan-3505-716.svg",
+      "nodeId": "3505:716",
+      "sha256": "1da07902cdcfd17bed2126baab33f40fa715974a532cd159115f50dc0d608d99",
+      "exportSha256": "1396a82326d38ffabe3c528612087b39d1018f1183c5da09b6258f8157652d64"
+    },
+    {
+      "path": "sources/scenes/contents-insurance.svg",
+      "nodeId": "11009:2247",
+      "sha256": "863a3abe5c4690a24a6aa3d0c2ef91ec257f8444ae80a782ddad75cfbc4cdf2c",
+      "exportSha256": "295e3e677167b61d45ae4e60ed630ffd5da95ea4f2aac361222d5a1ed728696f"
+    },
+    {
+      "path": "sources/scenes/credit-cards.svg",
+      "nodeId": "4375:36",
+      "sha256": "002f335ee51cff8bf3e7b066b247111073451668d076fdaddaef6593ad3b1243",
+      "exportSha256": "5741af58306d74bb6172073243dcc3c6eaacf69b18f60ed8455c31fcd023e330"
+    },
+    {
+      "path": "sources/scenes/credit-cards-5907-0.svg",
+      "nodeId": "5907:0",
+      "sha256": "d50f16c715551729b24e809c88e9f3e24306648d79f370dd31a939fcdbd59cc9",
+      "exportSha256": "12d9574bceb045a625d82cf798bd90f4e2dfc8ef9d1a5c0488c180ec5ef494a1"
+    },
+    {
+      "path": "sources/scenes/crew.svg",
+      "nodeId": "3758:21",
+      "sha256": "f7bd746d11384aec0d7e17a9aadec686087eb8ca041a66bb6f240e6461ff9697",
+      "exportSha256": "0917040f1e8d7a87f87d0e90ac68eb83a66ec850c730bade54d3a9feb37d6be8"
+    },
+    {
+      "path": "sources/scenes/crystal-ball.svg",
+      "nodeId": "4375:10",
+      "sha256": "0e76f5175ce18b4144794fed6b6173e6cc8f52e7e91e58862f8932f56bc0b006",
+      "exportSha256": "577efdfdf19844250ec35bb5dc5a0d4efb93890a25fd6ceee09c9597d4a14aa6"
+    },
+    {
+      "path": "sources/scenes/crystal-ball-3505-2450.svg",
+      "nodeId": "3505:2450",
+      "sha256": "1298c360bfde3fea2e91244282ec58f0f21c3686c48b4da4b78685a198ac12f9",
+      "exportSha256": "e9585d0dd1dd6f58cf855003f69f6535957f730e7d8ae622235354d011473642"
+    },
+    {
+      "path": "sources/scenes/crystal-ball-crop.svg",
+      "nodeId": "4375:9",
+      "sha256": "911e945bdf34238e42deb6bc68f4aafaedd1cdc2711e8c7e3b4a9d05a2675253",
+      "exportSha256": "0c52d54cb79f7d82f77bf89fe83362593be7c279de523bbee5b253ad526926fe"
+    },
+    {
+      "path": "sources/scenes/currency.svg",
+      "nodeId": "3739:12",
+      "sha256": "186cf04713df93468f48edb0345542fa90237d247815f0e2e4d56dec90363e82",
+      "exportSha256": "515e2d42f506eeef5428fd8c405cbfed0f88bf3f0c9d4a4bd8bf5f85aff9656a"
+    },
+    {
+      "path": "sources/scenes/customers.svg",
+      "nodeId": "8496:9901",
+      "sha256": "d612532fca2dd36218958e96669d7f3395aa15309912d26f6b22d906ef61774d",
+      "exportSha256": "bebee2a5cf5616e1f20d0574cfdbb18a3bde787307d183110a341b72e8783c3c"
+    },
+    {
+      "path": "sources/scenes/customers-8496-20573.svg",
+      "nodeId": "8496:20573",
+      "sha256": "6af02dcf600e6b8de03de06fad6dc20ca6b3887e3f5800aac1183c0e0fc53552",
+      "exportSha256": "84731f60f3d69c7ea7c15ab444e7521a0a4186a19be3e15e3f9d5b0ea0635784"
+    },
+    {
+      "path": "sources/scenes/customiza.svg",
+      "nodeId": "4375:27",
+      "sha256": "e2de446500ba7b14ab12e3632c98a47bcffe9941a870a1025dc7c8db3e49b90b",
+      "exportSha256": "78d90d258d208ae5436c1d57f84e413cd3ef1ab3707a24c4565d4e6a34e17337"
+    },
+    {
+      "path": "sources/scenes/cutting-cost.svg",
+      "nodeId": "4965:1228",
+      "sha256": "d0e3c31e9de8f51d3e48cc38c51c84c927f33733a4e8a1fcdbbfdb5720db7ec1",
+      "exportSha256": "8d8c40f25298e08ec7141cf0404654c7f15b7daab7a626e2c88b72763e19af1d"
+    },
+    {
+      "path": "sources/scenes/dark-piggy-bank-with-missing-money.svg",
+      "nodeId": "15227:4936",
+      "sha256": "c6926576f54e3fb8ac7cd544daa03c93ae021aa3c33eb0af9cc379e86ac7243c",
+      "exportSha256": "1ca4b935eb69c224aa398a0965b8c12f465a63801ef4f0876f4a113db4469f2a"
+    },
+    {
+      "path": "sources/scenes/desk.svg",
+      "nodeId": "4375:23",
+      "sha256": "42ca0271f0f19b2c88fd057dbc899762d5ccdf587479a650edc7034bd1037eee",
+      "exportSha256": "01280d0a12c6f0fb1a65e71e1a1771a29dd1407ce324bd878b099938c2f460e6"
+    },
+    {
+      "path": "sources/scenes/desktop-account.svg",
+      "nodeId": "15227:4944",
+      "sha256": "f85bcf11887da18ce6ccacd7a1c9c1989c272b6a977592cc226445f59804f587",
+      "exportSha256": "e0d3a156d2382b75ec155e8f54b3516482637b7e11b8aa7d93efcfe64d571b79"
+    },
+    {
+      "path": "sources/scenes/desktop-check.svg",
+      "nodeId": "18547:2510",
+      "sha256": "84dc930dc91108e7ef6ad23815f114329c9f7f23406e84bac5f209de10cdebff",
+      "exportSha256": "f52511906ab724db2e9cbf32055fb518461770fa1dfcfd2594841f1a0e66576c"
+    },
+    {
+      "path": "sources/scenes/developer.svg",
+      "nodeId": "3928:0",
+      "sha256": "2082ca2188e59014e9b0202f2324713cdb385dd2e30827a262d90b6c47ba7ff4",
+      "exportSha256": "870c07446030c080965daf9566ed75add54e36ae20c15940c314c94de8abd43c"
+    },
+    {
+      "path": "sources/scenes/dnb-filial.svg",
+      "nodeId": "11014:2256",
+      "sha256": "fac96e08729127eb8482fdf4937797b03b6ef7eb1dcd416931e25010f961671d",
+      "exportSha256": "dc22e1a0ece05645b439a10a814bb6eea6b65b52d9c6abc8d16cb1015a94a3e1"
+    },
+    {
+      "path": "sources/scenes/dnb-illustrasjoner-utvlag.svg",
+      "nodeId": "5379:0",
+      "sha256": "622bece768da2e2815f0d89b442b0be0b00ad67755b4813958363a48c80e2121",
+      "exportSha256": "ad1c2c08000508c8ac42087f46eea25555ff4223a1c846f7a01cbb691d3584c3"
+    },
+    {
+      "path": "sources/scenes/dnb-illustrasjoner-utvlagme3-51.svg",
+      "nodeId": "3505:3117",
+      "sha256": "1d528f22a7ea3c759646f1ede6348e52f7eb6c0328b1c5dffac938d398941cf9",
+      "exportSha256": "2b074a9e51225b7311a8bfa63842f6deb567abaa13f2e395bfaf776ad45fd853"
+    },
+    {
+      "path": "sources/scenes/dnb-illustrasjoner-utvlagme3-52.svg",
+      "nodeId": "3505:3151",
+      "sha256": "2932f541a450450be2c47a9f0c7c9c3a30f140131f060db8c81754fb56433927",
+      "exportSha256": "f887968f7f52319607f145f382a816aa51a516077992d159498cec13473ba128"
+    },
+    {
+      "path": "sources/scenes/dnb-illustrasjoner-utvlagme3-77.svg",
+      "nodeId": "3505:5000",
+      "sha256": "8d4ac3a8dfc3a80544e82dc6fceb238a9fbc8dca36d82bfc8e68196243736f0c",
+      "exportSha256": "60361175d047f1d963faa9bfa280c38c2560079f43f27eebf9d180b6a64dd917"
+    },
+    {
+      "path": "sources/scenes/dnb-space.svg",
+      "nodeId": "3538:70",
+      "sha256": "83c8cd24f568b77846162e5758c08bf23ae4effa7cb23a07b3a166c071417756",
+      "exportSha256": "b8dc9766aa5d5ab2d12fea08847461effbc3983116175cde148f594d2a5be2f8"
+    },
+    {
+      "path": "sources/scenes/documents.svg",
+      "nodeId": "4375:39",
+      "sha256": "8e842a422cc8288c4648b981efe7703e2a2dcb5041a84f55390dd25c39ea8d03",
+      "exportSha256": "d635d3b458397e053779c21a351cf71845e6b61e9545c501ade8316dff5ae8be"
+    },
+    {
+      "path": "sources/scenes/face-id-android.svg",
+      "nodeId": "5004:0",
+      "sha256": "3efcfcd931f7fef7c3c563c5a439e35a37a41242289de1822c3576f3d4f842e2",
+      "exportSha256": "91979ecbac035077e1f2da26685b0daf2e009c5e47165d7abd17b55090690294"
+    },
+    {
+      "path": "sources/scenes/face-id-ios.svg",
+      "nodeId": "4941:2766",
+      "sha256": "06c5e0466a631a72dff24c88b372225cff0f4b6013d7843194fdd0eb46f3a88e",
+      "exportSha256": "923e67ffbfe1d09b6bef3a85128f3563aaee0c38272bfb5cddd3afd2a00ad2dc"
+    },
+    {
+      "path": "sources/scenes/failed.svg",
+      "nodeId": "15194:2348",
+      "sha256": "85bb98e00b721636330f34eb4330c57849aba3b6175026a67a835b00e6e1c514",
+      "exportSha256": "3d282774cf43631b7fd26f792065f1d715e7e5942463a78dec31d161ec1ec6c7"
+    },
+    {
+      "path": "sources/scenes/family.svg",
+      "nodeId": "5629:1116",
+      "sha256": "0f278fb2af525b0fb6d921d6eb234403d8b7907996533f5f43590d9e8239c643",
+      "exportSha256": "721dadaa0a3a7e92ea78c8ed89859ec67cacf6bcce09755aba2b8f7494d1e9c0"
+    },
+    {
+      "path": "sources/scenes/father-and-son.svg",
+      "nodeId": "17735:2904",
+      "sha256": "06d8c89afb8ee02d19acfdec1d40621d08de07d6f43f6f0fabc1490e9a9467ba",
+      "exportSha256": "9b51855271a1b45eb92ec3129c42567c88a3687c3f5934c988854fb1e771e48f"
+    },
+    {
+      "path": "sources/scenes/first-aid-kit.svg",
+      "nodeId": "5344:86",
+      "sha256": "4a5e394c5abedcb26706e7d83f7ce01c5d9016d60880eb1782023aea33b4192b",
+      "exportSha256": "07481a817decfa5b34e3a17fa82034622cebbde6072f4d699fc55e976e406a32"
+    },
+    {
+      "path": "sources/scenes/fly.svg",
+      "nodeId": "8802:5203",
+      "sha256": "4f7b88c347b7d981f48a2b645a460c83d71fa81bd5b306138cd0a41e9daa0a78",
+      "exportSha256": "056810b0f5f37bbe387e59a45ccb1bfef90b26e10f41f0efe18061ba36bc0959"
+    },
+    {
+      "path": "sources/scenes/football-and-flag.svg",
+      "nodeId": "18654:2848",
+      "sha256": "83897cdd0085262ae361afc23b73ccb0d8eb961ecd8345bf4e939ef2f6d03638",
+      "exportSha256": "12a8fa4144701636908a0bac6810162a480186a9675cff192ddbfae2cc02125c"
+    },
+    {
+      "path": "sources/scenes/football-player-with-flag.svg",
+      "nodeId": "18654:2574",
+      "sha256": "01ecc5bdf64342b8b95f7b128a37b50af76380cca873236dff3c6480cdcf1a85",
+      "exportSha256": "769d3826af8c446e7426a38bc247bd86cdecd58a1aa9533c51c3697b39f31096"
+    },
+    {
+      "path": "sources/scenes/footballplayer-with-flag.svg",
+      "nodeId": "18873:3390",
+      "sha256": "b87f7761fe2f03af9c2fd71d768b248daf3fa69d4df5db516da052eb63cad946",
+      "exportSha256": "ae8452dfd2a704b66c05aac0633dc9c893f9fe78d2ba30b352ed236d4b9995c1"
+    },
+    {
+      "path": "sources/scenes/for-sale.svg",
+      "nodeId": "3918:259",
+      "sha256": "ff188c1bec5917558bc7206b01b351b21564b92a0ff7803f67604b3cf65c8fd2",
+      "exportSha256": "f3c2b9b29ad9c21789489aab1432796f663e558ba3d095d9f6456dd61a6d5e39"
+    },
+    {
+      "path": "sources/scenes/freezing.svg",
+      "nodeId": "4375:89",
+      "sha256": "139bc1b696119ae27ae680015bb396b058427ff9301c2ea56f369155c7e300b1",
+      "exportSha256": "f593b4ad77cb20c67408064842e4eaac446300e648fc8386ef981a02bba4ffb5"
+    },
+    {
+      "path": "sources/scenes/funds.svg",
+      "nodeId": "4938:791",
+      "sha256": "4fd3ae4b5f2ee8b280d4e268e3556a3430c178f631e08547d1090b339f00d164",
+      "exportSha256": "700fd2f57d59ad9d08684e3dae730549d5d2b41107073052e06446db205cebbb"
+    },
+    {
+      "path": "sources/scenes/globe.svg",
+      "nodeId": "3832:263",
+      "sha256": "7d548b5488fab1e769c144238191679df863e078c1fc20bd4e73d51b84421d97",
+      "exportSha256": "80e4ab735d8e44f67bcac966fe6a94b90925ba8e241c8551ee450aa5eb046aba"
+    },
+    {
+      "path": "sources/scenes/graph-for-stocks.svg",
+      "nodeId": "15227:4940",
+      "sha256": "589ace661d849de38b05ef674d16c52ed9dccc74ecd8538c08395ff275b0cb8c",
+      "exportSha256": "f7571e0a46439fc3120f0973a05ec4d4f73074165b0976a0302a799706393b82"
+    },
+    {
+      "path": "sources/scenes/groups.svg",
+      "nodeId": "3505:3588",
+      "sha256": "25ddc886585621ad39faf333835634a1504f7b6861df1035f5f90857e1e9d8a7",
+      "exportSha256": "34ecef2587327b79b65eefe4a8538becab103a8dcbc71991ef06be3f3d02043c"
+    },
+    {
+      "path": "sources/scenes/growing-money.svg",
+      "nodeId": "5634:2",
+      "sha256": "d7a86620ef898875440e353c9b11f9a5dcd946f930cbfef8de5ac1cf156f8296",
+      "exportSha256": "1fcb31d5466e4c00cbbebcd148d9ab46c75fb1de64a8eb42bcc1bd3350174737"
+    },
+    {
+      "path": "sources/scenes/haaland-vm26.svg",
+      "nodeId": "18907:2592",
+      "sha256": "29e76df3da63418b01be156517c3754345ab42459ff23d8cc66838dcb3fc07b1",
+      "exportSha256": "381c3d90b93ea3223edf4f4904433847792f07fd1d012acdd8775d4b8564897e"
+    },
+    {
+      "path": "sources/scenes/hand-with-gestures.svg",
+      "nodeId": "4677:1030",
+      "sha256": "c047745a55ecc3cd66860ba4d66813d5dd66fbd440158c3c4a4a25a7f9fc7495",
+      "exportSha256": "c65e7328afc885c707268043acaf424edaa65495e6a792a11b0b3348db214b3e"
+    },
+    {
+      "path": "sources/scenes/hand-with-phone.svg",
+      "nodeId": "4611:1",
+      "sha256": "53173d91cd4af1ba95218d9d0838c31659990c75bddb5e33ef464c5fc51b6c60",
+      "exportSha256": "de5b19ac29c4ce2bcab31b8479caf688836f1a4aab2497dbb7842d2664d5e4ba"
+    },
+    {
+      "path": "sources/scenes/high-five-2.svg",
+      "nodeId": "15219:4932",
+      "sha256": "f0d5210f08a069eccafa4552a148c60ae32a63a7365cb60a2fa65b1056b4ca13",
+      "exportSha256": "3c244d49ac7d86836173999a849aed77266b1c9af0b9d3709ea15b67bc18744d"
+    },
+    {
+      "path": "sources/scenes/hourglass.svg",
+      "nodeId": "3918:262",
+      "sha256": "4848536bf8e16475dd792b040fe59e206d8da56b8d9a76117d48756f0b9a6058",
+      "exportSha256": "96de1190aa86c9a8dc2031859f99e9e88ec934827d6b15e03e0a87e4a3ff8b9c"
+    },
+    {
+      "path": "sources/scenes/human-1.svg",
+      "nodeId": "8496:19792",
+      "sha256": "87142cb5b1939b3b5a05ee25ffb4e0ff3c8652b9323fcbbd176722267a390081",
+      "exportSha256": "eae73c149b010db78039e5381b622fa4596165452eeff207554a21ce12fc32a5"
+    },
+    {
+      "path": "sources/scenes/human-2.svg",
+      "nodeId": "8496:19793",
+      "sha256": "a302ca81ea9ea021db482807cc9abb15f34525a4925ed95b1b76002d0893b65d",
+      "exportSha256": "aacd93af46f16957ceb99a0df5e99437898ee44c5711bc52a478437c0c3e5db9"
+    },
+    {
+      "path": "sources/scenes/humans-sitting.svg",
+      "nodeId": "8496:23118",
+      "sha256": "40bd693b80d326d6568cd6cfe03a2ac14dc32b3a08d88da30d8146fd599f5b31",
+      "exportSha256": "cdc608eba0ee01ebff1db8230fedd9208b6fd3ef2e4c8ebe09988622a45a0c6d"
+    },
+    {
+      "path": "sources/scenes/humans-walking.svg",
+      "nodeId": "8496:22996",
+      "sha256": "afb94ffa8d05e0dbb7bd457380b01c15bbb539eb5f206b9412d1d339fab6b210",
+      "exportSha256": "62e227746ae718805255ff08a6dababeeb664cb85aa1bb99f95a469c768575ed"
+    },
+    {
+      "path": "sources/scenes/illustration-construction-woman.svg",
+      "nodeId": "3739:14",
+      "sha256": "196c73141f6b69cc5eb2c1fb8449c136aa48acd2b30273902e436eb96b41ef04",
+      "exportSha256": "2a556de563a6b3a1e4a8c687ba7be2d804c515553c40a4e9ed0a8ebbd5fac545"
+    },
+    {
+      "path": "sources/scenes/inbox.svg",
+      "nodeId": "11757:2595",
+      "sha256": "bedd87810a2e9e8a03164b2ba8f73cc1cd519e5a864aac63282a9247d52d633e",
+      "exportSha256": "77720c5e842d9d04cf2ba396b1c3502cccee689c44adfdc59346c2a9a7cc0c6e"
+    },
+    {
+      "path": "sources/scenes/insurance-house.svg",
+      "nodeId": "5605:941",
+      "sha256": "0052f55922fa5b1c5a7749b87acd1602356ce710a5ca6ef7d9324eb3cf69c905",
+      "exportSha256": "162a40b1606cb13f44d1844080596d94bc4ad337047e8a67b915752c682cac95"
+    },
+    {
+      "path": "sources/scenes/international-payments.svg",
+      "nodeId": "10238:5438",
+      "sha256": "ad6839187507560c6cd2173d9515337cd81ac8bea12a3ed8b41031a42fff57d3",
+      "exportSha256": "2bfb2e06242c4b90ce8bebf8dad15ec76cfd52486af1f20a01b204c551191879"
+    },
+    {
+      "path": "sources/scenes/invoice-scan.svg",
+      "nodeId": "4375:7",
+      "sha256": "8ff9b21a29c405168a33847dbe5d2eafb6d9b9ba9365ced1be49fe38071b7a95",
+      "exportSha256": "1629582bec817132ffc80fb1e33b03c84217bb397f5c5c6af4d6efa42c858864"
+    },
+    {
+      "path": "sources/scenes/invoice-scan-3505-1385.svg",
+      "nodeId": "3505:1385",
+      "sha256": "97a908d29b9c32ab42736a3d9c60f815c1458dbf1d856081c25d4c92c4822618",
+      "exportSha256": "816357bd0df6c5273b26d914952fc09ae8ebe2c15e0d48773e650b71e782d061"
+    },
+    {
+      "path": "sources/scenes/invoice-scan-dark.svg",
+      "nodeId": "4375:8",
+      "sha256": "5022f5911ad0a6ee70e265537f52d5a980d4c0fe336da4914abc528ff72028be",
+      "exportSha256": "36b498602b50ec2336c97aec02842ca02088ceeadf99698505d1587d6802e3fa"
+    },
+    {
+      "path": "sources/scenes/kickboxing.svg",
+      "nodeId": "3739:7",
+      "sha256": "85e05b771bd0468e3d41abd969197c5c6b6666b75b3bfb2625595e467bc3c902",
+      "exportSha256": "1617128412900a6eff7ec808f7572078ef3280de38d0e75514bfe7f8673337ac"
+    },
+    {
+      "path": "sources/scenes/kickboxing-3505-3797.svg",
+      "nodeId": "3505:3797",
+      "sha256": "48e70171113f66a4738e859677f3c9a4215900bf685928f2db3c2f3b96642740",
+      "exportSha256": "98ccd5b82cb81021cde75c57f6d5127bda635c7c016b242f1250fb21c6991ada"
+    },
+    {
+      "path": "sources/scenes/layer-1.svg",
+      "nodeId": "17134:2978",
+      "sha256": "e561de2867294faa42a5bffe7a351a59306f2a41d03b48853293c2fa121bbf86",
+      "exportSha256": "cf1479180faaf7e81b22786e8a55f220de7ebfad23a700beb50028e8a1e3c736"
+    },
+    {
+      "path": "sources/scenes/lightbulb.svg",
+      "nodeId": "6108:0",
+      "sha256": "0a4755972f0a8371748928956174d927602822e81f78ed7cb1b68af548100d3c",
+      "exportSha256": "d60bc5ae370eec733de5a0e7a27a21ec57ed491801af482cb8b84ae0be82c75e"
+    },
+    {
+      "path": "sources/scenes/log-out-1.svg",
+      "nodeId": "4938:831",
+      "sha256": "371d1f28ab1eafc4fd1d17f839d5359b2f188d2ab7f9f17d2375b37c0434d323",
+      "exportSha256": "6c65864f272b75517837207236c3cc5be95641f63aace4bb636cb5c59c221425"
+    },
+    {
+      "path": "sources/scenes/log-out-2.svg",
+      "nodeId": "4938:828",
+      "sha256": "7ca722deeb3355959d6f85100f09fa4c48ec4a2577a5c5330acd062ee74602c6",
+      "exportSha256": "badb1660e80c9533230a7e61babb1833f3ceb07bc4f4c952f660c2f1a2f70584"
+    },
+    {
+      "path": "sources/scenes/login-birthday.svg",
+      "nodeId": "4941:2016",
+      "sha256": "7e65bc6dabc9bffa1ee24cf5b8149d24034fab3c9d1f21d1b81fb2ad8a345d29",
+      "exportSha256": "73f4937ade0d2c04949aecfcf1ef0e52200755ad1125932e8e4d84c755745856"
+    },
+    {
+      "path": "sources/scenes/login-birthday-dark.svg",
+      "nodeId": "4941:2015",
+      "sha256": "6c9853024e4133efe1635ab05a60a73d2b37ad29c90cbe8785c8366c18f402c2",
+      "exportSha256": "4f04f8f10f77a3746d4d32253cf45e34350f0a90d4075b91fd555502ef4d19e8"
+    },
+    {
+      "path": "sources/scenes/login-faceid-android.svg",
+      "nodeId": "5004:148",
+      "sha256": "306eb258986271060eab680e0e0881a1b92e43c2df9ed9cad93a4bf17744ca89",
+      "exportSha256": "8141d15a580c0b91833fc8947eb49bab1d0f1aab3c8c9046089b61ab8b2bfbdc"
+    },
+    {
+      "path": "sources/scenes/login-faceid-dark-android.svg",
+      "nodeId": "5004:138",
+      "sha256": "d5c131518c0b5ce14997af78ec9715f9302389f8e2757d9d1ae45502fdb081fa",
+      "exportSha256": "029bdf175c89a91d793e0c2b80d0fd0328f86d0c390021fd23024ad9d25854cf"
+    },
+    {
+      "path": "sources/scenes/login-faceid-dark-ios.svg",
+      "nodeId": "4941:3056",
+      "sha256": "bc99e431f4a62278c0e584762f8b4fd04962fb586112f5dd29dfdd81bfa3ebf5",
+      "exportSha256": "727c3bf5d8083de12dab2aebb854e1fb897ac029ef6685c703c2f01d1e2f99de"
+    },
+    {
+      "path": "sources/scenes/login-faceid-ios.svg",
+      "nodeId": "4941:3090",
+      "sha256": "6b6b303651368259a6edada9bf11445eff370121a8b93a0fef2a97eca4fef9e2",
+      "exportSha256": "543ecd7db584edc98c7becf1f553017f6755ca6a2467d721e2ca95ee1d52617f"
+    },
+    {
+      "path": "sources/scenes/login-mobilenumber.svg",
+      "nodeId": "4941:2947",
+      "sha256": "1f870d44d463f3ff88ed18e61ae7b5eeb6f4fb39da733ab49757163d043463a1",
+      "exportSha256": "edf2b5b5296bfbeb909fbf74b190a2310e973e62699cd6df90309515a58ce63f"
+    },
+    {
+      "path": "sources/scenes/login-mobilenumber-dark.svg",
+      "nodeId": "4941:2946",
+      "sha256": "d3e16a857b148dc05d4d25c1e414354218237ca2d47060d30eb9b1140a63d45e",
+      "exportSha256": "168572d3abb2d7a35e087222ed1a0e4023b3d35daaf927e72cd98357eb2ecd00"
+    },
+    {
+      "path": "sources/scenes/login-pin.svg",
+      "nodeId": "4941:2765",
+      "sha256": "f1fddf9fc473a71e2340fd7e50e270c453466681e2db4d3fe8db1bd85b9e519a",
+      "exportSha256": "58eda9911b3f45c8a768ff6ebb40644f425027632ead795a20bbac89a8e0e276"
+    },
+    {
+      "path": "sources/scenes/login-pin-dark.svg",
+      "nodeId": "4941:2764",
+      "sha256": "a0548649d258fe2594b8f422f2a78e5098993c993d46caa36131bd2f73d711ac",
+      "exportSha256": "80b144dcdd36311fc324731728ded556990767c698b91cf183957c7fad08df77"
+    },
+    {
+      "path": "sources/scenes/login-ssn.svg",
+      "nodeId": "4941:2508",
+      "sha256": "c84d24173f906bd2b2132626b716d7c4ea2c645bead4d2bf11f085fcd3e8167e",
+      "exportSha256": "3e4bb24898eacbd29dd90cf49e5ee29351bc1e83dc07652cdf167836452c8598"
+    },
+    {
+      "path": "sources/scenes/login-ssn-dark.svg",
+      "nodeId": "4941:2507",
+      "sha256": "89d94251e4aa1abfca43839b5faebbd8e0e208cc83991cb8f138f4a18c42532e",
+      "exportSha256": "f497ffc0f8ae2235f16e5dd712384685a8fe8dfc05981676d0be8ebdc3988e03"
+    },
+    {
+      "path": "sources/scenes/login-touchid.svg",
+      "nodeId": "4941:3055",
+      "sha256": "be29f58ba5930abde4c98b1ee9d0eafda439881e4bcd06fd625de04bf44e8058",
+      "exportSha256": "0677c38bd62d85ef70229d272807672441a152a7f7c9c13e7c9da5e8430e732a"
+    },
+    {
+      "path": "sources/scenes/login-touchid-dark.svg",
+      "nodeId": "4941:3054",
+      "sha256": "63b1c04a151cd68aab44dbe727be42905f7ee276d803115f60f5ba4a32d705a3",
+      "exportSha256": "853afededce93af96752eedfb83fe9d42b80d63710bc8087046b811ecb000551"
+    },
+    {
+      "path": "sources/scenes/login-trust-device.svg",
+      "nodeId": "4941:2446",
+      "sha256": "a30fdf00d0ee9a4ccde761d1224c66cbd04b890a296f8a404c6b7fb269b041be",
+      "exportSha256": "be01035be05801576b6c22ba5f08854832bea5c325b0c5b04363d558e0ad8cb1"
+    },
+    {
+      "path": "sources/scenes/login-trust-device-dark.svg",
+      "nodeId": "4941:2448",
+      "sha256": "f0bc07effa26a43aa1dfc655b01fcb53a9e25c55148f83186875eec444b03f9c",
+      "exportSha256": "5b87635499291606e9978d46a935c5ff1629453040f3b127616918e678864226"
+    },
+    {
+      "path": "sources/scenes/logout.svg",
+      "nodeId": "4938:728",
+      "sha256": "d38237b178e49e46d7f0298ac10c8587b39d77608137cff376918808b2c24534",
+      "exportSha256": "fe061c1f840675bae3129982f305b300a014208c3b3b37ba15d0d7f7c55740a1"
+    },
+    {
+      "path": "sources/scenes/lost-connection.svg",
+      "nodeId": "4375:0",
+      "sha256": "027aa3b1a3e1b6ab964081895db6b7915280ea536ab9fc116a410c24a9b54aba",
+      "exportSha256": "84d735b047e17bdc356ad115a45b785e35c78b6cc188ea1b3e3f6d4f25cc9a86"
+    },
+    {
+      "path": "sources/scenes/lost-connection-3514-1.svg",
+      "nodeId": "3514:1",
+      "sha256": "5f6432cc3621aa19ebc458372e78734d41042d6f09ba0023b71d08221d236978",
+      "exportSha256": "04663d0fe30a03bd228bd1880c952bacf707020487826c626dbb2c05abf44dff"
+    },
+    {
+      "path": "sources/scenes/lost-connection-crop.svg",
+      "nodeId": "4375:1",
+      "sha256": "dc0c7767c497c9900e4dbefc607bd4057abea5497de167743221575c5d0b78e7",
+      "exportSha256": "ff4ba9e3631204491bccf08a4298e7893254e0ba0f63749dd59cfe531d1edcfa"
+    },
+    {
+      "path": "sources/scenes/lost-connection-wire.svg",
+      "nodeId": "4375:2",
+      "sha256": "43900b422d6090dc2875ce5be213b76c448fbe5068edf004bc3eb0cfcdb9a23e",
+      "exportSha256": "5f5a3325d3b7cd139ea01d13b76763f35f36241e8c1cd9219d06bea6425e507a"
+    },
+    {
+      "path": "sources/scenes/mailbox.svg",
+      "nodeId": "4375:26",
+      "sha256": "c41f50a969720ab3b76cb2078a0f91cbbf591134992ace5823b3ca5d5ad4332b",
+      "exportSha256": "911cbfdb4bb7e4e10229c5dec71be58ca4333ba58b8e0cca4f6d4f87d792c2b8"
+    },
+    {
+      "path": "sources/scenes/man-1.svg",
+      "nodeId": "8496:10538",
+      "sha256": "94ff5fbf2f4c7cd25cfd03a6c5d4bbc6a9e732ce98bba70395e52fbc4bd0c99c",
+      "exportSha256": "4be96e5b6958e64b901aef0c9d8f13f98657007c2e9c9dd32f112d69269a8ce3"
+    },
+    {
+      "path": "sources/scenes/man-2.svg",
+      "nodeId": "8496:10540",
+      "sha256": "1e66a5eb8c1c0bbc56ab0d325f82bebf4ce9b1ebd14e1e6f05b499c652ade2a6",
+      "exportSha256": "b7ebe0147f98925df495f5f6e832f96c169a24ff8b864f9814445c6747a8d8e0"
+    },
+    {
+      "path": "sources/scenes/man-3.svg",
+      "nodeId": "8496:10542",
+      "sha256": "187971cf999ce97cffbfbbd2c2eb59cab2b05931bb93e9a17627a2b4ad6f8ea5",
+      "exportSha256": "6d5920c4c2e7741d71b4c8ce16d0f01785a4a285471887c1a6d088c74a8b55ee"
+    },
+    {
+      "path": "sources/scenes/man-3505-2150.svg",
+      "nodeId": "3505:2150",
+      "sha256": "d4757ff78b80cdc0e3640eac058d5dffb547e7468b936e6eee5e30e14ce4d818",
+      "exportSha256": "51475aab3bac9270cd4e2cdc1ffb33aee6b9c8164084704994ab88eb185d8c0a"
+    },
+    {
+      "path": "sources/scenes/man-4.svg",
+      "nodeId": "8496:10543",
+      "sha256": "a14877f725b1a28f19bd1b7068a2e11c08c92829101d8d3a2a9e2a79cc9d0525",
+      "exportSha256": "b10e86106a204b84824d4194e1f0dbff8c6d17418198d6d32a848f906635d621"
+    },
+    {
+      "path": "sources/scenes/man-5.svg",
+      "nodeId": "8496:19790",
+      "sha256": "595c93c51437ed6b0d17208ea5b68d9efe8a250f6e212fea0436960b2a091c79",
+      "exportSha256": "fd82b6673c8cfed21f3ec31a11be25d70a3b2c71585d0f9bd5ce9e74f6c32443"
+    },
+    {
+      "path": "sources/scenes/man-6.svg",
+      "nodeId": "8501:26343",
+      "sha256": "bb18fc423bceace9ab06febcf6bd5191f54f507492dd7177fea100fec542050f",
+      "exportSha256": "9d85879d0e32c9aa6b22423b618259253f6f31bf3dc30dd2cc2681353076e5d2"
+    },
+    {
+      "path": "sources/scenes/man-crossed-arms.svg",
+      "nodeId": "3758:20",
+      "sha256": "545c801c4dfedbb25350dd940003cdfa8010084ab3e162061d3c8f71699174d1",
+      "exportSha256": "ec9fdb1a93a267a9019b9711a2dd775026fd03e23e355e5f807fba2ed57f8fea"
+    },
+    {
+      "path": "sources/scenes/man-open-arms.svg",
+      "nodeId": "3758:19",
+      "sha256": "065aa51b5d355d3792821663f849f1cd71478d3f79eeed481e72a2f1a64c34ee",
+      "exportSha256": "1d1bc7f4ab189b84c86603a7e1e6411e70d2eafe73e10b6bef271b4c6c54bc4a"
+    },
+    {
+      "path": "sources/scenes/man-raised-arm.svg",
+      "nodeId": "3758:18",
+      "sha256": "c46f9b4e5af89221f965dd8a2d03d6fc6140c76d55a8c49762312e0ef1cb3071",
+      "exportSha256": "24041f098420a05fda97b7d697d11894861d6bf44ee3009e6b9465a508b52e5a"
+    },
+    {
+      "path": "sources/scenes/man-sarching.svg",
+      "nodeId": "3505:1672",
+      "sha256": "81586e4253e38d93032e7b7b72b6164a0968935e067c738581982d3df1a0d973",
+      "exportSha256": "9c47aad4b6e4ecf63a1abc84ddcf14a18da318f15a8b7ef4a3db98ab1f1b0b1b"
+    },
+    {
+      "path": "sources/scenes/man-searching.svg",
+      "nodeId": "4375:3",
+      "sha256": "69a22e1a25e25302090141f09bbca8d114877e92b5947dd37b666eb7eec0fb17",
+      "exportSha256": "29eff702fe05a9d3120a3587dc9124651222163ec3e50a4331634e7e1d80a810"
+    },
+    {
+      "path": "sources/scenes/man-searching-dark.svg",
+      "nodeId": "4375:5",
+      "sha256": "c9f920cd895a65c29f792a7b9fa934e0339ace3700f762b587d5f6caaf21a912",
+      "exportSha256": "c4aa098494c4888fee42785251133b511cea62ecf38d63c2841918a4a4e8574e"
+    },
+    {
+      "path": "sources/scenes/man-searching-light.svg",
+      "nodeId": "4375:4",
+      "sha256": "49dba231d79b20d7d22921bb55d75785ececc67a6fd637c984650e16c4b86eb2",
+      "exportSha256": "6f884ca2647b37e56a4ec6f407b15d0f5b791761188f371d1887e35800abe6fd"
+    },
+    {
+      "path": "sources/scenes/man-sitting-1.svg",
+      "nodeId": "8501:26725",
+      "sha256": "84114c107fb969f0cfd92e62b98394e8f315d2395f00e46d9e7a1aefdb3725f1",
+      "exportSha256": "2f6026da6b70918b4df3f6c7e15f3d0df833afd9ba0981aa9090b23f6e575363"
+    },
+    {
+      "path": "sources/scenes/man-sitting-3.svg",
+      "nodeId": "8501:26724",
+      "sha256": "144bfdb50836b497b92a9f807f73270e38fc40982adf66acfd387bbf2dfd9838",
+      "exportSha256": "4e01d5f3b40e475747b2fbd096eed777964ed689ea287ef31216a32011416088"
+    },
+    {
+      "path": "sources/scenes/man-stocks-and-savings.svg",
+      "nodeId": "15227:4938",
+      "sha256": "8871141770963e7d8b0989c6e75d6d978555fe9c6c98682c9ee7ca8e35a0eece",
+      "exportSha256": "713a20a8ed93674bfc0a9a7ec1d55b924f4f6a19b54b8183310b83db0b8c3557"
+    },
+    {
+      "path": "sources/scenes/man-walking-1.svg",
+      "nodeId": "8496:22858",
+      "sha256": "0bf1f7c08ea195075092cbe20556e7a3f1fdbdced13f0b3f5a5c2b2731fdaab5",
+      "exportSha256": "2ded3648a5da60f734da36d06d0eb748af72b3d97ce51545185788d082e76ae5"
+    },
+    {
+      "path": "sources/scenes/man-walking-2.svg",
+      "nodeId": "8501:24453",
+      "sha256": "ca696fdd707eee03944f057d8ec67a8b4540f6cc09d9413a9c0ac26bd4d30bdb",
+      "exportSha256": "311c83cac77ad3ae078442748a442c61d70b307593cea39ea1b8122bc35d2647"
+    },
+    {
+      "path": "sources/scenes/man-walking-3.svg",
+      "nodeId": "8501:24456",
+      "sha256": "9ebc7ec4187616f65b2484ab06caa42204033628e27ec0e7c6b34832638e927f",
+      "exportSha256": "add3a550bb0714fb7159d7ec2c9718c35b890984e4be7948450da9dab6f10c04"
+    },
+    {
+      "path": "sources/scenes/mobilbank.svg",
+      "nodeId": "5900:0",
+      "sha256": "4dbd289b6ef300395cf600ec06b4c5ed5cedd2379a963a096e995cc0ac9250e0",
+      "exportSha256": "079aa9998a56f59ac35af6d66b3825a28962604a47fba778b200970e2e363642"
+    },
+    {
+      "path": "sources/scenes/mobilbank-redesign.svg",
+      "nodeId": "11757:2433",
+      "sha256": "9d5d8e7f3df53f787d61a5b97b61c3125ee125ebd29af75def1377399573cc89",
+      "exportSha256": "b84c5a429ddc8a45943bdc5e4a4c97686abb7d84cc50910aa9fa62fd924afa76"
+    },
+    {
+      "path": "sources/scenes/mobile-bank.svg",
+      "nodeId": "4701:164",
+      "sha256": "38e328a55d6b125a31bbfe75e93081957001ef35d36b428d056452049d8cb238",
+      "exportSha256": "69fe27bf60b75628b6b30d7b4ae4bfeb34e017a943fbca6ae3e4372bac84af1c"
+    },
+    {
+      "path": "sources/scenes/mobile-number.svg",
+      "nodeId": "4941:2017",
+      "sha256": "ccbca37b689c895749885f9d5b2d8027b467ad91245a6981ac3e853e8d554e0b",
+      "exportSha256": "06e04bff41fe6d935a1c9527f159341ec96fd2da85707f68e8a72d01df436929"
+    },
+    {
+      "path": "sources/scenes/mom-child.svg",
+      "nodeId": "3739:16",
+      "sha256": "55b0eaae0b954723092791c3db300b1af13ae993d51e76be5e5ef39cda427236",
+      "exportSha256": "395773da55e5000bacfa90b7fe70bac55adea073c5586e4e601cc36506aedd9f"
+    },
+    {
+      "path": "sources/scenes/money-left.svg",
+      "nodeId": "3505:2993",
+      "sha256": "61c81ae0f83850b7c3d5d527148036f55b2eeae89881e1a2e234f65ec71ad7c7",
+      "exportSha256": "c7d7ad2df00f4b997d1d0ec1f567831e13dd416190b6f63efc7d8348d66ba50f"
+    },
+    {
+      "path": "sources/scenes/money-over-time.svg",
+      "nodeId": "15227:4935",
+      "sha256": "9799e613c7548bcd64e350e78982b7c8c6c20044ffcec60618b93baefd0c50dc",
+      "exportSha256": "19965211ab32b8c01c6c06978e8cfffbb1993a2b1bf7cc35a58391fd6a5fcb34"
+    },
+    {
+      "path": "sources/scenes/monfetti.svg",
+      "nodeId": "4375:38",
+      "sha256": "699d5f693c1b843d86162baf0bf0dde81628cf3b4c1c1cef509a4494f6ef68a2",
+      "exportSha256": "e1b566b12d4b3f2c30df162e80f6c571444415f8ab85f3e75c17ca3bd4780356"
+    },
+    {
+      "path": "sources/scenes/mortgage.svg",
+      "nodeId": "4375:86",
+      "sha256": "e9e118b6fdbf882bb9412a198a6333b6678df696caa03edf99526f2e41005c4a",
+      "exportSha256": "1d747e46d4517542022c2c1cf8e144cf3aa90c9bd42eccb41a6ed1e1eb77ead5"
+    },
+    {
+      "path": "sources/scenes/mortgage-11017-3445.svg",
+      "nodeId": "11017:3445",
+      "sha256": "1858676e776279040e9ea4d9456d4c444d2496c5f2223ad68d182ba8472353cb",
+      "exportSha256": "69f040d8cf62a531c6859925a4a34167bde0dc312605fbee11f6bf2b132efc2b"
+    },
+    {
+      "path": "sources/scenes/nettbank.svg",
+      "nodeId": "15227:4948",
+      "sha256": "add7f9dbfdd0052d2fda1d49d7dfb03eba134fe8213d4e1a823dc24b9d82a13a",
+      "exportSha256": "ab3d2aa94826ff0e8f6d9efb89590c2b2e43bc78a3943b79258fd71952185d28"
+    },
+    {
+      "path": "sources/scenes/no-acess-ingen-tilgang-hund.svg",
+      "nodeId": "15808:2443",
+      "sha256": "f69921effc32573bec478b1273ace7d2f458fd63386e4b42c49debaf9aef7742",
+      "exportSha256": "3cbffb9107300d86a1ef09a17133db967bec0659831112438c826fd83b3f87e0"
+    },
+    {
+      "path": "sources/scenes/no-transactions.svg",
+      "nodeId": "4375:34",
+      "sha256": "2f4184733151803b7cb72d13689256b02f2ff673ae1bfb231e3bc74a4b04b8f9",
+      "exportSha256": "b9c834b2a482987b35bdb952c468c0699325e8bf688eab42abd6a180c1957650"
+    },
+    {
+      "path": "sources/scenes/office.svg",
+      "nodeId": "4677:1053",
+      "sha256": "9482d67d01bfa55a132e2209f6c87e1d868804dcb71747eba171a826658c5768",
+      "exportSha256": "1132e22fd17c30ca494fb2705b53f8622585acd9aa82c5ff7fde4957f873b119"
+    },
+    {
+      "path": "sources/scenes/office-woman.svg",
+      "nodeId": "3739:19",
+      "sha256": "0d87f86b3b3d0fe3b5ff8fb8bd82ec19d370adcfbaa93d9d13c7304411a3a547",
+      "exportSha256": "a657bde1319ccdbedc889b752977aa065757d3e2c8c990b8da1eaca1a2a88c0a"
+    },
+    {
+      "path": "sources/scenes/onboarding-side-1.svg",
+      "nodeId": "17134:2444",
+      "sha256": "062dfa7173adffbd1286f3986d7e6a8bf7d9d5020e7047263021c6cd9b7061a8",
+      "exportSha256": "e4bb14203bd6a0e730cdad497caaa3fb7f30f518b0b24b49279dca30ee077f2b"
+    },
+    {
+      "path": "sources/scenes/onboarding-side-2.svg",
+      "nodeId": "17134:2697",
+      "sha256": "6f3fd48015d57ea9d19c39702cdd338063e6da5281f0e1827ca0f97824d18aa3",
+      "exportSha256": "ee2ff626f10152a3d72a98a0e767536cbf218fffd5f0f31e18269dae00a26618"
+    },
+    {
+      "path": "sources/scenes/onboarding-side-3.svg",
+      "nodeId": "17134:2859",
+      "sha256": "5c4b73dbb40ce3a89b2b9f00ae320d7cbd3dbf96bf35638a3fc63b913ff02b5a",
+      "exportSha256": "5d74e5237ffc7c657f2e43775185c9082a00778ffe53f617f7c13c216d362bdb"
+    },
+    {
+      "path": "sources/scenes/onboarding-side-5.svg",
+      "nodeId": "17322:2443",
+      "sha256": "96db15544b6dab9b864957f2303ed212117afdd0c96de093ea81b188c8817549",
+      "exportSha256": "16c44abca65755d25356279aa9518ddcb0ddc22d89f0086509a7e459da74b5ac"
+    },
+    {
+      "path": "sources/scenes/overview.svg",
+      "nodeId": "3739:8",
+      "sha256": "15f897bf637019f9cff3f12bf8670a78e39b7fe5657b1159f9b40dd563c900eb",
+      "exportSha256": "1a33b4bc571fc5569e29111ff3c725674a1b1baf8fd65a002cecd1dc4f1e6ea3"
+    },
+    {
+      "path": "sources/scenes/papirfly2.svg",
+      "nodeId": "18975:2535",
+      "sha256": "4ed1bcbbb251eb94840820338e1ecc295d853517610084802d053ef7895c7e7b",
+      "exportSha256": "a03ca87bf34f8d920c0c340626c9e8d30f946242d092a36fdb4d9db3cee73226"
+    },
+    {
+      "path": "sources/scenes/payment.svg",
+      "nodeId": "10777:5326",
+      "sha256": "3ba120ea32309a0e890a0b11d02700e70f4fd611951c12b7b4c1ffd44a9c476a",
+      "exportSha256": "2e64c30d6646e650cda8f904f97529baebc2701740ad6320470c96b9d3f86d2b"
+    },
+    {
+      "path": "sources/scenes/payments-and-transactions-desktop.svg",
+      "nodeId": "15227:4946",
+      "sha256": "9dd54449e91302cc4691752401cfc5f0401ef0f1cc30606c34c95a301e0938f2",
+      "exportSha256": "88c7c9f14d04aba9fcd6ba9b2e3a73030c024e8608589efcf9ed083dadb169f8"
+    },
+    {
+      "path": "sources/scenes/payments-and-transactions-desktop-2.svg",
+      "nodeId": "15227:4947",
+      "sha256": "0bd8d357150b26f67406f7c2d7a86f4fd662da8966eed12b460ce2444d25157f",
+      "exportSha256": "361943bda331dc39daa4380bc232cb2a4fd5e336dccfcc1fba169c404e8f55d5"
+    },
+    {
+      "path": "sources/scenes/penger-til-overs.svg",
+      "nodeId": "18800:3035",
+      "sha256": "a5399ee00ab5d475372c2a2317f65689119ab92b9a5b041f5fb3f2d0c3bea427",
+      "exportSha256": "ff04c746dcb4cee4323ac1af31b1f7182aaeaad0688eb027fe81ddbe3b32a8f1"
+    },
+    {
+      "path": "sources/scenes/pension-profile.svg",
+      "nodeId": "11018:4361",
+      "sha256": "ef39a2887e701a99304a8f06c94b79c751aa54c27eef528ec535b04148be2fea",
+      "exportSha256": "2ef8655ed3d8514a43f10d6d2039fbfc6c9071a1dcd19fc56ffcd4e3f1aa1eb6"
+    },
+    {
+      "path": "sources/scenes/people.svg",
+      "nodeId": "3810:3",
+      "sha256": "daba22c1738cd3eca9c88711728ac135c5deaa26f5918420a90284cdb916cb2d",
+      "exportSha256": "1c1a0207300d62a88964ab2c8de1cb8695637de439f9fa1e9da91252ad3ffaeb"
+    },
+    {
+      "path": "sources/scenes/people-balloons.svg",
+      "nodeId": "5629:1726",
+      "sha256": "c30b0ef4e07195cab5d54ee269c0bdd8ef56aba6ca17ac425e35f3d7b5a38c70",
+      "exportSha256": "f1d96edb44bc7037facb7eefacd533354eeb385d02aee64db827fc06db3d3b85"
+    },
+    {
+      "path": "sources/scenes/personnel-insurance-personal-forsikring-coorprate-banking.svg",
+      "nodeId": "11009:2651",
+      "sha256": "e894a54a859f431cf2d8aede93bd1bb4d0a4310e131f7977fa1158c588b49e09",
+      "exportSha256": "95d5140a1d2f44d707c2d6e206f39941c5b85ef273de89b61d8c769e463f2cd7"
+    },
+    {
+      "path": "sources/scenes/piggybank.svg",
+      "nodeId": "3769:0",
+      "sha256": "0348fae1714c02510f2608a7db471a14b0e2ee9de8cbdcac5fe092c2e4f9fd26",
+      "exportSha256": "dc6f816231131fc008288ae66c0af711b926af44a3ed7c025924863f9d782eeb"
+    },
+    {
+      "path": "sources/scenes/pin.svg",
+      "nodeId": "4941:2509",
+      "sha256": "fb6b14b889f6a562712a858f8353dc40bede0dabb629b4dd16e16c25c6cab3ca",
+      "exportSha256": "bc7e03d1bb4bba7c999d4b411b550bddd6482a9ee6af8fb19e54dc27bbf0bc7c"
+    },
+    {
+      "path": "sources/scenes/receipts.svg",
+      "nodeId": "4938:839",
+      "sha256": "a3e5bf44ef571b751b36b17644c805325ff4c0354a74b34fea41c6d87fda4565",
+      "exportSha256": "23c68a2009f283128a4123ab33c641e8220d8fe5ed28da71d0af012c314a4a59"
+    },
+    {
+      "path": "sources/scenes/receipts-background-mode-dark.svg",
+      "nodeId": "5104:193",
+      "sha256": "d831df8ab983599f0f709e112b764fc6730ab75669def90ee5a1560775f3a053",
+      "exportSha256": "70cf4337e39cee4f01e288906ed5b3725bbe438c5a9319184362d5c372f8d569"
+    },
+    {
+      "path": "sources/scenes/receipts-background-mode-light.svg",
+      "nodeId": "4941:734",
+      "sha256": "368455767457a93f73b4bc6ae7b97eb4b4d9f3bdc18a66383acc1faf30cce373",
+      "exportSha256": "182f086745971b77a89ec70009496b6b7954eb736724e1741951ff683d083231"
+    },
+    {
+      "path": "sources/scenes/retired-couple.svg",
+      "nodeId": "8711:5317",
+      "sha256": "7f0d7b4a738157a2dfab67b3b1e535303d1527cb566aaae9f5c0100905c15f90",
+      "exportSha256": "8c36b32ff3de8d12988466b81395f97aa43bc210346c12b436647a1fc0d7f259"
+    },
+    {
+      "path": "sources/scenes/retten-til-innsyn.svg",
+      "nodeId": "16617:4942",
+      "sha256": "65c5dae8afd1b8b85100910fbcd7f4d0381c6472f463d5652d4d8a5da7ebb517",
+      "exportSha256": "0ee1b665d5bb7b9b1b263dd9a6d0c55b124395d8e4647d0e986da882791aa37f"
+    },
+    {
+      "path": "sources/scenes/retten-til-sletting.svg",
+      "nodeId": "16617:5012",
+      "sha256": "c86755d1d0e78745a601772101941b8c2b3600bc315c7df81053fc058593817b",
+      "exportSha256": "0cb19192a0479b90e9de108f30f50230cc949c3668e77fccd0f7e21b719b3b11"
+    },
+    {
+      "path": "sources/scenes/risk-level-dark-risk-level-high-mode-dark.svg",
+      "nodeId": "8641:5388",
+      "sha256": "d188410eacc4a5bfeac6647c871fecea811601e8f186501ae058ff7ce50c42f7",
+      "exportSha256": "a27a0e09a10fc42dcc20c710a8e7dc2bb08868970a81e72a0447c0402ce63fec"
+    },
+    {
+      "path": "sources/scenes/risk-level-dark-risk-level-low-mode-light.svg",
+      "nodeId": "8641:5370",
+      "sha256": "c8885e8ef6287d66ae86127f5558b1900fcf593f064c0d8ce18663d11b17d26a",
+      "exportSha256": "63d7a3e5ba66a6356d555fc6ce2681ff6263c1b1992292541169f19cd51243e9"
+    },
+    {
+      "path": "sources/scenes/risk-level-dark-risk-level-medium-mode-dark.svg",
+      "nodeId": "8641:5379",
+      "sha256": "4ed11099c5874e4557826b864c18365ae2a56bae036e4f940c3cba146fdc111f",
+      "exportSha256": "0535fc4ca70629fe9ad19207f1a730029f848fd63a43b2bfc3c7e08a8b976306"
+    },
+    {
+      "path": "sources/scenes/risk-level-dark-risk-level-very-high-mode-dark.svg",
+      "nodeId": "8641:5397",
+      "sha256": "7a704004f669a255d32e118486656e98b8a51408ac949b5dd8a9c1bc9a25dbde",
+      "exportSha256": "4c68a021747896774d6156a6a2260fcc761acdbcb6c4d7f138e3f08985fb7a9b"
+    },
+    {
+      "path": "sources/scenes/risk-level-dark-risk-level-very-low-mode-light.svg",
+      "nodeId": "8641:5361",
+      "sha256": "baa92413cee394fa109767c924499af4b32116b804443a43872fb2c93adf83cf",
+      "exportSha256": "14afdea9e7e15640d3fe13f87a1ecb49aae4df213e067bcb99f0d40599d2ba35"
+    },
+    {
+      "path": "sources/scenes/risk-level-light-risk-level-high-mode-light.svg",
+      "nodeId": "8641:5332",
+      "sha256": "9c741ef33fbeb6ad12c91fa2a498dc85e9c505bb8f0a0c306cd412151d0f5498",
+      "exportSha256": "c7bfd06bf7034bfb2c4dcaf49382fa6fd31dfce40ea30de35fb3f56c672283f4"
+    },
+    {
+      "path": "sources/scenes/risk-level-light-risk-level-low-mode-light.svg",
+      "nodeId": "8641:5314",
+      "sha256": "5283e461b2df1bc26eabd618d824062d4c265d82a1f0a9163487bd9c44dc3a47",
+      "exportSha256": "77fa2b24b8a9140185d6266dd005620df3ef855909136e9e2f26e0858ffa117d"
+    },
+    {
+      "path": "sources/scenes/risk-level-light-risk-level-medium-mode-light.svg",
+      "nodeId": "8641:5323",
+      "sha256": "8b8bb5fba54620b7b387b282987964ff843fa491d450413c4aa11efacb6f335a",
+      "exportSha256": "f3689f0c762a3814ca00b789e1aa2d6bcfc1d0d1fabe1ba10fe86d32150cc01f"
+    },
+    {
+      "path": "sources/scenes/risk-level-light-risk-level-very-high-mode-light.svg",
+      "nodeId": "8641:5341",
+      "sha256": "f8cbcce90b05071782bd57bf8e567aab2b2578a0f56326b61f3a3f9ad58810b7",
+      "exportSha256": "25256155cdc988486e00f9249f743cae8756665443f82aa2d5fc0e5c71977a22"
+    },
+    {
+      "path": "sources/scenes/risk-level-light-risk-level-very-low-mode-light.svg",
+      "nodeId": "8641:5230",
+      "sha256": "b48b58d6ffebac44d7e6db9b2706b1bd3b0aa03fcd81896272f5deefbc611f3e",
+      "exportSha256": "1d5f222d86ed12b667d9058ff1621d77f1d42b4d254ffcb57a3dbde8ea925caa"
+    },
+    {
+      "path": "sources/scenes/risk-profiles.svg",
+      "nodeId": "8641:5164",
+      "sha256": "8e7b852079ebbbc32061702e08701fc40ecf39bfd220dc8b13af24d9341f9486",
+      "exportSha256": "c378c2a4ba1b6c5c603f3407b02cec5cb49e4a06fa073cbcab4c38c2bfb6e243"
+    },
+    {
+      "path": "sources/scenes/rocket-launch.svg",
+      "nodeId": "4375:33",
+      "sha256": "2a6e3cb70b4d7c3ac2ddad56a22943c95a2642b5774dfaed55007862c523a86e",
+      "exportSha256": "8685de09c297f720d05561ad7ae9844dad9abd3a363728eef311fe9ec06c5e98"
+    },
+    {
+      "path": "sources/scenes/safe-to-spend.svg",
+      "nodeId": "4701:460",
+      "sha256": "425212fe56b99b0a140a302817d45f8a8797f9dbd9dcb6203ce41795cdd1aee4",
+      "exportSha256": "ccb8c13b5b2be72770bb77aa34c5499d36ac9c7e3a8a03982a04d125f7dcd648"
+    },
+    {
+      "path": "sources/scenes/saving-thief.svg",
+      "nodeId": "18657:2526",
+      "sha256": "5e7d1c06abf1140bcddd3d8f69433991cf5a38b034f54b25d18d01e14aa2098e",
+      "exportSha256": "34d4350d6afc82a5d0239c06f17e91ad6de599c0658c6379f30dba41a5444ac6"
+    },
+    {
+      "path": "sources/scenes/savings.svg",
+      "nodeId": "4375:37",
+      "sha256": "d7d2971cab8e51bce0f49662d3399e759a32fcf1787b692373611e47b5ca1fce",
+      "exportSha256": "e4889f30f0efc368434de86a5cd60d9a11080e4b37a2328e54046941a9ad2608"
+    },
+    {
+      "path": "sources/scenes/savings-goal.svg",
+      "nodeId": "5379:279",
+      "sha256": "3c9c4072ba9cc535c90f16fc0ff8acef4924e0b81e67c9a8b4e0614a81091111",
+      "exportSha256": "d01ada3f0806109bd07d3082a0bdbe8fc604699c91ff2d46acf07e55f1fe2122"
+    },
+    {
+      "path": "sources/scenes/shaking-hands-corprate-style.svg",
+      "nodeId": "15227:4933",
+      "sha256": "67513b0a9ab257d38d6d98393d9c995c8f4a4a70464a7f883b71c99bfb8f7be1",
+      "exportSha256": "d28939d3a3f6772ad9bedbc73c99b637acc40cff352df4f490f7db3a7ac008b3"
+    },
+    {
+      "path": "sources/scenes/shopping.svg",
+      "nodeId": "8757:5164",
+      "sha256": "22aa1e0a17197ca6af4542504959e80775b5f97aa4797eb8b0d8301b16a085cf",
+      "exportSha256": "bf6c237ee3476232680e5cb848d2dba7e753cc573efb6600007132d06920343a"
+    },
+    {
+      "path": "sources/scenes/shopping-10037-5225.svg",
+      "nodeId": "10037:5225",
+      "sha256": "d3a873562919a7628597cc1aa01ee589c5e8165d4de7bbc4e6107414aebee1e4",
+      "exportSha256": "add6aef650a4965e73d3446f163448d0e5a978e5a645b99cd8d16b70cab04985"
+    },
+    {
+      "path": "sources/scenes/shopping-background-dark.svg",
+      "nodeId": "9496:5259",
+      "sha256": "2e9f31490659fe13f756ad31ea11f3d6ebf8ec0f4ac396ef37d3ecc7f384b68d",
+      "exportSha256": "becbb852834c821595b5caf0e5904ad171f60bdc3147fafdb8a0da22ab6573d6"
+    },
+    {
+      "path": "sources/scenes/shopping-background-light.svg",
+      "nodeId": "9507:5302",
+      "sha256": "efc5f3d04415440bae43518a37ce7557f3fce9d5e09b03fe7aa12aa753e6e06b",
+      "exportSha256": "3e06ec739801e91574240806f41590a755167c429057d1f481ebf217af4ba8a2"
+    },
+    {
+      "path": "sources/scenes/shopping-theme-darkmode.svg",
+      "nodeId": "10037:5388",
+      "sha256": "8c6fa1ae8085fa4ab46047b4bd69616a7adf2d343dfe1264e711d30496b9445e",
+      "exportSha256": "dfd6d0a468d6490ca2b4e0c5eb26f1388b7965d87da60ab4ac5eacb987753ae8"
+    },
+    {
+      "path": "sources/scenes/shopping-theme-lightmode.svg",
+      "nodeId": "10037:5386",
+      "sha256": "a8a48c3d4215bc88b521d73b721abbf87a84025aa04a6ed8e47a18f16330a636",
+      "exportSha256": "a2c534237a334d83ac93b3de318836d9a5c49d9d952c63113d880ac4f88dbfc7"
+    },
+    {
+      "path": "sources/scenes/sparing.svg",
+      "nodeId": "13789:5323",
+      "sha256": "e27c82d6fb420489297d19d5c719f53965274e718ccb7fcabb401b8cfd8f480f",
+      "exportSha256": "c023f744ec1fe839128ea5ccaba49a1e647c9364482446f9c67a139e7cd4c681"
+    },
+    {
+      "path": "sources/scenes/ssn.svg",
+      "nodeId": "4941:2267",
+      "sha256": "42f5cf0833aff7b275126ee1c17adfe4c34c8ce8e2dfcbee92f9fdbc60e8840d",
+      "exportSha256": "4e59f8767dd552e7f2ea15cfa3ed07d965bd6501ce17a44df05e7e341f909f72"
+    },
+    {
+      "path": "sources/scenes/stocks.svg",
+      "nodeId": "4938:793",
+      "sha256": "5dccc0099dd3a396077229269c012e8780c81e823365e7aa456c45078960ad31",
+      "exportSha256": "9ccacc78d9d87319fe1cf0895793a9533c1da5d18e26aedbda1de97500576d83"
+    },
+    {
+      "path": "sources/scenes/stocks-3505-6450.svg",
+      "nodeId": "3505:6450",
+      "sha256": "10905785ab56d33266f5ff5719bf49e2dd05b9869dc94f7794773446365383ad",
+      "exportSha256": "c2613148d2f4a4bf93a730c86eb16fa03171cac0856fb2c388f384be03bdc8ea"
+    },
+    {
+      "path": "sources/scenes/stocks-and-funds-man-sitting-in-front-of-graphs.svg",
+      "nodeId": "15227:4939",
+      "sha256": "2011be9694649da940129c519a3723b6deb241d94454665b769e14aa1c8e61da",
+      "exportSha256": "1579e05d43ed5121bebfea5844c7171b7220a2cad20229f98371b70a2aa30d3a"
+    },
+    {
+      "path": "sources/scenes/subscriptions.svg",
+      "nodeId": "4938:891",
+      "sha256": "df136b87811c73fa7b617822cbf662fc1d9f54c1abd8d7afe5cbdb5ba72fd3db",
+      "exportSha256": "f7481f06268692bb17761436462e8ce27a97bc0ba042931b1683011269663cee"
+    },
+    {
+      "path": "sources/scenes/subscriptions-dark-mode-false.svg",
+      "nodeId": "4941:733",
+      "sha256": "1573a49286589d71e338cf14abc2b797f6346863f97002506a06a769dd736bbf",
+      "exportSha256": "eef52cecae8147e2548be93b1b9216afdf561c5cadd989e902e406283ae2dd98"
+    },
+    {
+      "path": "sources/scenes/subscriptions-dark-mode-true.svg",
+      "nodeId": "5104:144",
+      "sha256": "a8b18b996a9d5d599303bfc7e099a8ff6fe54654c0589735b82eee5d11763817",
+      "exportSha256": "baecc7f6182a5c66b349cf26555456159c97a1f3dee26f3f6cd5d2b935e81a1f"
+    },
+    {
+      "path": "sources/scenes/surprise.svg",
+      "nodeId": "4375:25",
+      "sha256": "8b4564f0f00202e44cdd8152c7d861169572ac303664b80f4b49a72730dd937e",
+      "exportSha256": "b63c3ddc275c86d3903aa601e78aa30b294862a638cf85b0a5a06a7a693e8c53"
+    },
+    {
+      "path": "sources/scenes/talk-to-dnb.svg",
+      "nodeId": "15497:2631",
+      "sha256": "09fb8c49552f3aed286136ff003f8bcea1f680da3c4f65970022f14eaff01bba",
+      "exportSha256": "a47becde926c7d8150b374bf3a4ec7cb52c4c6b32565479618110b1ac0c25030"
+    },
+    {
+      "path": "sources/scenes/technical-issue.svg",
+      "nodeId": "15217:2426",
+      "sha256": "59f2bc330e06addc8bde996646e84d58d033ee3f682b40021988ca0c6bd02cd7",
+      "exportSha256": "5a26398b9b406cef6eb6d2198146094b8f30a0e4f8c6ce142f6a8dee500cbbef"
+    },
+    {
+      "path": "sources/scenes/tennis.svg",
+      "nodeId": "3739:6",
+      "sha256": "759ca940f096e9649dbea483272bc5800c02cff5078a4fd130f67abf5e1466ea",
+      "exportSha256": "8b15a749f3f2cd842ce6ed3c5ace7d584f359553ca91338d4cd3d4e6fd136698"
+    },
+    {
+      "path": "sources/scenes/tickets.svg",
+      "nodeId": "4375:28",
+      "sha256": "948afaf95cbd1ad61bf535fb28651cf2b97483d13c571a15620b91db87f34517",
+      "exportSha256": "d4d4e1e44278fbb317c1ceaaf026e45934f511e5badc45846722223b75284d4b"
+    },
+    {
+      "path": "sources/scenes/touch-id.svg",
+      "nodeId": "4941:2948",
+      "sha256": "fb5ee727e75224918a6b5caa7a92799133322528ae96956b81bed0f265df7556",
+      "exportSha256": "7d86ef36fcbff2166a3a412d0fffaa3ba61ea5080bb429a75591b86b977f5658"
+    },
+    {
+      "path": "sources/scenes/travel-insurance.svg",
+      "nodeId": "8718:5165",
+      "sha256": "a850a43804d66df8ac53d8a761af2ddf39637ffc9ff64cdf1eb115886f1e2941",
+      "exportSha256": "d4dc2b6b819bf9167180090e2a8319a4850121ad6f59b4206536094588546387"
+    },
+    {
+      "path": "sources/scenes/trust-device.svg",
+      "nodeId": "4941:877",
+      "sha256": "3de2ef037a6fdca7603165e161264abfcca237561d9879bf98929ef9d869b40a",
+      "exportSha256": "0c82fc45d4a304c643295706a725b0d4dd70be77d514982fc5f3261eeb399307"
+    },
+    {
+      "path": "sources/scenes/visually-impaired.svg",
+      "nodeId": "8927:5429",
+      "sha256": "c1cb30cd4a009b071c69fd379fae1d285430a429814dec554a30e44e76fe8fdd",
+      "exportSha256": "1db3956f9689b50c7533f03c7b1ff42129501580626dd420178bfd7402114790"
+    },
+    {
+      "path": "sources/scenes/watering-money.svg",
+      "nodeId": "15227:4937",
+      "sha256": "34c0c4c3641a680b9894cd20440fb422d29cdf0bb498dab506307ec1aea3bbe5",
+      "exportSha256": "3dc39a0b3d114d129b46b5bfb61f3cb2ef0a597da74f272a96a6aaf7bd261c6c"
+    },
+    {
+      "path": "sources/scenes/weightlifter-man.svg",
+      "nodeId": "8501:23436",
+      "sha256": "0734b30cb998649ef97d067a5e40be7d39e353fc245eb057c2adde04995d2b92",
+      "exportSha256": "d5daf471ffb6356cdafa635cedf85aefa30759bba67e8a7598dc25f3719be59d"
+    },
+    {
+      "path": "sources/scenes/weightlifter-man-1.svg",
+      "nodeId": "3739:3",
+      "sha256": "2c965bee9a5c176c1611ccd109f1dcc9a8d59118c3cebe489af3c70685fb6606",
+      "exportSha256": "01c2e3a010a4e8ce5df86f5af6945f9dc1e4e06bf8622c1d974e1f96599a6692"
+    },
+    {
+      "path": "sources/scenes/weightlifter-man-2.svg",
+      "nodeId": "3739:4",
+      "sha256": "3e6aacfe983bd46549eeb9388a7e317f396c06bfe5d3e39f3260a02b4020a4dd",
+      "exportSha256": "c88770f20ba1a6b0688e2d1a33c6435ad9c51f3f4019cf8881f2be21d3d04937"
+    },
+    {
+      "path": "sources/scenes/weightlifter-man-3.svg",
+      "nodeId": "3739:5",
+      "sha256": "e535972ea67db168897acfbcead7f9671f093071ecb4760fd880a8e68de2be78",
+      "exportSha256": "461213a2836a87090fa7f0cff6e1943fb9ab5b553b2e1649aa2e5289f76dceed"
+    },
+    {
+      "path": "sources/scenes/weightlifter-woman.svg",
+      "nodeId": "3505:7134",
+      "sha256": "37954b625472fafe0becd08499a06a239bb2833c55ffd68789ad029cae848f76",
+      "exportSha256": "0a129b8a276701de39faf3b170d0a617ad350b06549d1f91836db29fb9c1e4eb"
+    },
+    {
+      "path": "sources/scenes/weightlifter-woman-1.svg",
+      "nodeId": "3739:0",
+      "sha256": "6dcf5d2e799473ea6450e046a0f833b9b65f4baeeeef2298de6b97f086884592",
+      "exportSha256": "318dc7e1f8923516e3b024c55ac59ea3d321abc0e2e6b9a8c30d0296d3d0b665"
+    },
+    {
+      "path": "sources/scenes/weightlifter-woman-2.svg",
+      "nodeId": "3739:1",
+      "sha256": "d207c9d9f4beba98b58c4e09575adbd14fe8e237d5bc0d0a671f219addc6cd0a",
+      "exportSha256": "9b419778bc35bfad1539e1a91526398f16d88828e75d36e7b6f10d6640bace54"
+    },
+    {
+      "path": "sources/scenes/weightlifter-woman-3.svg",
+      "nodeId": "3739:2",
+      "sha256": "a83c80e7b1487c9d60b2a35d8eee5c5d24c5ff209c50b02d4e3f0c0ffe0cab2c",
+      "exportSha256": "84dc17909b184d67bc97fd2a4e07b5049cb5ff6831f376a7e287767ab405bef2"
+    },
+    {
+      "path": "sources/scenes/woman-1.svg",
+      "nodeId": "3739:18",
+      "sha256": "051143bda88b2c44987f435cc209112b2d5c7918f3e80884d11366bafdfd1689",
+      "exportSha256": "1cc7823893e5062bfb4e3abb485ed858e18c319e86f136a1f9ce9891da654b1d"
+    },
+    {
+      "path": "sources/scenes/woman-1-8496-10537.svg",
+      "nodeId": "8496:10537",
+      "sha256": "c7e950e9fd8dbbdd10ec7245d4be56fb83307a5adc791cf181886151453171e9",
+      "exportSha256": "209a6a1f27969297fd08a60239b26a31a14765fd87e99c978a483fe42e61640a"
+    },
+    {
+      "path": "sources/scenes/woman-10.svg",
+      "nodeId": "8501:24316",
+      "sha256": "45af6e113faab7c3e3d0c1bc174cba96e2bb921a58142e8b6a4b3787ab2ab0a8",
+      "exportSha256": "cc9f6d48b386ac0c3cd316cd3fb4baceaf7ddd359bf916a771d59cbd4eaddf97"
+    },
+    {
+      "path": "sources/scenes/woman-2.svg",
+      "nodeId": "4241:91",
+      "sha256": "d5f44a58bdda33d894b8dbadfca0f39d417d34f95abff50247928520f5a7ce83",
+      "exportSha256": "2093fb7ecca7bded8ae72d1ad23208fc664895f62f183d68171e06b538bc18df"
+    },
+    {
+      "path": "sources/scenes/woman-2-8496-10539.svg",
+      "nodeId": "8496:10539",
+      "sha256": "c7bbb819b403a58b129c51a24c78dd7b004810bf85c6d839f3f7f9987ee7a729",
+      "exportSha256": "6e0a433df60ac942c276c947d3803787e48cd92e44eb1b2e9697a3b96544e229"
+    },
+    {
+      "path": "sources/scenes/woman-3.svg",
+      "nodeId": "8496:10541",
+      "sha256": "532301eaeb6b8bd35e636ea8b8b2aa0100bea5af5c3ed53ba9b11ed2336806c1",
+      "exportSha256": "cb62e3ae72ae9f784717ec7c1023a0946bab0ae8ca5b3ee300647a55a4bef471"
+    },
+    {
+      "path": "sources/scenes/woman-3505-2575.svg",
+      "nodeId": "3505:2575",
+      "sha256": "1e3ed5ffe262215c9247b48d4884449968a697c6033aaa7fa0012710b12063c3",
+      "exportSha256": "ab4ebbd5c16bcd1cc907ddb25029ebec8808b53a230c7573ec9303dfed959e73"
+    },
+    {
+      "path": "sources/scenes/woman-3505-6423.svg",
+      "nodeId": "3505:6423",
+      "sha256": "1fa5ef66e5a0563a50e3ab8b069f29ba40284d53a1bd68015a89f7220d50defb",
+      "exportSha256": "1511e9a7ff6490204b5f11b2b7e6891a3fd3360598c4f7e3ae6ca2f50223d23b"
+    },
+    {
+      "path": "sources/scenes/woman-4.svg",
+      "nodeId": "8496:19789",
+      "sha256": "b95d3a33e881f0f0343a9134f18cbca3b3db269ff7c48e5c6a814a8823537384",
+      "exportSha256": "afbdffc89f6e676301cc9a09a6a2ca154fa465514df1d3c993a937164285eb70"
+    },
+    {
+      "path": "sources/scenes/woman-5.svg",
+      "nodeId": "8496:19791",
+      "sha256": "59115e43a334fb53f47a6e72fac7688acd0c3bdfe35117023bb125bf500b2c07",
+      "exportSha256": "63a53a4dc8628b1a8207980b8417eeef4ee6583618d12620092ae7f94d819df5"
+    },
+    {
+      "path": "sources/scenes/woman-6.svg",
+      "nodeId": "8501:26377",
+      "sha256": "72244f64aca4a3f3d16b5350ff3d697ec7eae6f78146f64ac4561e2807ff2224",
+      "exportSha256": "09307e1bf11513bf78800ba0d7895bebf1b1535f40a762d82bc2869a75e5fe58"
+    },
+    {
+      "path": "sources/scenes/woman-8501-26733.svg",
+      "nodeId": "8501:26733",
+      "sha256": "4ff7cf43f814324b1317230ea08c089436209e2c873b6440e0271d531ed25ef9",
+      "exportSha256": "95c9452171c5a85d1ffac370a47fd7a287b32346b37fcfb7f3ea0b4d33ec3950"
+    },
+    {
+      "path": "sources/scenes/woman-presenting.svg",
+      "nodeId": "15227:4951",
+      "sha256": "7df7f0582a826cdf58e3a3ba4550fa7de53546b79214adfcda65819f991f2b76",
+      "exportSha256": "f9eb0dcdc6fc82908700f29986fc4d83cc51367125ec8c0ba5b943ece1aed408"
+    },
+    {
+      "path": "sources/scenes/woman-searching.svg",
+      "nodeId": "4375:11",
+      "sha256": "615430598363b2a96c1c072ade718cf5680c2ee606b68eb5ac14e009c4c680cc",
+      "exportSha256": "2fb906d0122277e95a46b8216c788a9dbaefcb1b8fe263081ce089528cac19e3"
+    },
+    {
+      "path": "sources/scenes/woman-searching-3505-1797.svg",
+      "nodeId": "3505:1797",
+      "sha256": "ef1f45c7e60f8406784b180bf8745b8c09a6327b76fc3b61eed65c1ee2adf839",
+      "exportSha256": "6253a3b8620a92c9603e5603642dea112cbc9a4a1a2828e3e15f717dec1fc4af"
+    },
+    {
+      "path": "sources/scenes/woman-searching-dark.svg",
+      "nodeId": "4375:13",
+      "sha256": "7c560d635357a0a23221a8e184467ed4c964c53a6fbfd158e8e0df5b196c263e",
+      "exportSha256": "18377e2bd206e4a110cd22abd0686095ef1dd16c6f6eb4305ffadc984f812a20"
+    },
+    {
+      "path": "sources/scenes/woman-searching-light.svg",
+      "nodeId": "4375:12",
+      "sha256": "3c77277dc90342f232d08263adc8ac52445b304501f8bfdc4ac5f374f993123b",
+      "exportSha256": "2d3d15d2c7e7a49b1c9108f63349c123be7c00e4133046ca1117c9f0c326b58b"
+    },
+    {
+      "path": "sources/scenes/woman-sitting-2.svg",
+      "nodeId": "8501:26722",
+      "sha256": "713c8585a2195fc541bf720658a6e958cb2112fe420a82d959dc6466a0d9a1d2",
+      "exportSha256": "e0c40b3a0962a231b5a764c2f2c321ab467895d04b19c38ebe0de86e57d8dabf"
+    },
+    {
+      "path": "sources/scenes/woman-sitting-4.svg",
+      "nodeId": "8501:26723",
+      "sha256": "197bcc77d0027b1527e39e398a0deaa80422964e5c9d4da80a2643405df72c53",
+      "exportSha256": "51503cb78ad05569561ff85cb4dad7cfd5774e0958d0e9f47495aea92851da1b"
+    },
+    {
+      "path": "sources/scenes/woman-sitting-5.svg",
+      "nodeId": "8711:5164",
+      "sha256": "dd89023689b1c3e8e17954bb5aa3bb26eb77564af56eb5212a0bb3596b23bd67",
+      "exportSha256": "8a8ee106b8a1b105e98a7b80b72a5f15ae12096d3aa3888843456873a571a2d8"
+    },
+    {
+      "path": "sources/scenes/woman-sitting-5-property-1-dark-mode.svg",
+      "nodeId": "8441:1422",
+      "sha256": "8a2e8d2b84e1f436364aef059d4c084415c1ec012d9759610009635a2eae4961",
+      "exportSha256": "60738501c0bf9272b4abcf8a41c397c412a02819f611d3df7af40fdb9a9053cd"
+    },
+    {
+      "path": "sources/scenes/woman-sitting-5-property-1-light-mode.svg",
+      "nodeId": "3526:0",
+      "sha256": "e29989b3732db7cc04d30ddb276c9dc89346bc6bf9e75465ce5be97aa8940593",
+      "exportSha256": "a65634a64e405dedc821e8d14a34d4c083e259e1374db0f633361235ec14f675"
+    },
+    {
+      "path": "sources/scenes/woman-sitting-6-dark-mode.svg",
+      "nodeId": "8501:27086",
+      "sha256": "2f62ee2be4f3cc231c707a2cc30fa83cc00b59f7e50135f43c6b711d4633ba2b",
+      "exportSha256": "b5b2f89393afca3cfc2d27c5dcee3f95dae82787904b82207c3fe6d356cd2f09"
+    },
+    {
+      "path": "sources/scenes/woman-walking-1.svg",
+      "nodeId": "8496:22058",
+      "sha256": "570f1f3d13be9028d28548852550d530cb72fa2e50cd36cc8b166993d3a60577",
+      "exportSha256": "351e1dceffd342269438c059a0f9b8ad7901684736e7bd5900fc1cbcf9073f57"
+    },
+    {
+      "path": "sources/scenes/woman-walking-2.svg",
+      "nodeId": "8501:24454",
+      "sha256": "c0a7027690041d3bc13b3dc92a2d0011778e9bf7d2c665b950bdab57b765f605",
+      "exportSha256": "987df394646d37359f123945ddc6960a7a5e334113a36b24ec84fb9a904ece84"
+    },
+    {
+      "path": "sources/scenes/woman-walking-3.svg",
+      "nodeId": "8501:24455",
+      "sha256": "fc8fa5064fbf6950bf9b26afbb74a6ef3e0f592ca3a09f6cf78c320437563c97",
+      "exportSha256": "67041a882e99f371f78fb6127446a2221f751d962bb85d8ae6bbed3dd76c4b04"
+    },
+    {
+      "path": "sources/scenes/woman-walking-4.svg",
+      "nodeId": "8501:24457",
+      "sha256": "3063bd2e7d2c56dab81592887e8444408e64b97dabb316e8b2936cd9778359b1",
+      "exportSha256": "691f8e42356927f963d5e24ae2137e9dd4e1fcd6f2e444c6346b720026c6a17d"
+    },
+    {
+      "path": "sources/scenes/woman-watering-her-savings.svg",
+      "nodeId": "15227:4934",
+      "sha256": "548d503188815d2ef0bf893f800cc5737a6e2a5b8bea579c94eec6578f859605",
+      "exportSha256": "a181dae35c2ba702cc076c2a9f43992293e4ed12e29cbb758925b64484ad638b"
+    },
+    {
+      "path": "sources/scenes/women.svg",
+      "nodeId": "3739:17",
+      "sha256": "89d576aad8f34366c659abf89da1dc681f0433620d39d5048346b8d11b0845b0",
+      "exportSha256": "534926b6395861d1ffe83f3ba6618293c350585fea9f775ad2e6bb6cb9c0a7d8"
+    },
+    {
+      "path": "sources/scenes/workers.svg",
+      "nodeId": "3758:22",
+      "sha256": "ebc83697009124ce5cd97945e2a4fcd122fa91e58cb55b73b2914ce077268959",
+      "exportSha256": "a14be46f2d26d64041321dc9a39aa67e2d9924a9310586f707ce9f68e53f7f56"
+    },
+    {
+      "path": "sources/transport/car.svg",
+      "nodeId": "5605:935",
+      "sha256": "427163ad4da3e3a86717ca9d89bf1126b13265ffc74fda3a65bc8f16e491ae85",
+      "exportSha256": "fe44b6458c60d063c73c610b20b17fb12e4576769095a4ad784aadf282f371a2"
+    },
+    {
+      "path": "sources/transport/transport-bikes-bike-01.svg",
+      "nodeId": "3515:389",
+      "sha256": "786043c7b3a9dcae7bd8e0b5391a490d2f12cc95ac62e44b9346bd69946bca32",
+      "exportSha256": "18bc144e12f1c65e96d5cc771eff183631f6296893bf3b805896f3e7ec796c41"
+    },
+    {
+      "path": "sources/transport/transport-cars-pickup-01.svg",
+      "nodeId": "3515:511",
+      "sha256": "39d6dfbbcc27d9e8eb482f9b8c885c4da02e2ffe951e850971268d64ad78e5d4",
+      "exportSha256": "6281765986224d5d3d36c61506b592bb9f65dc0461e42152b7410376299b32c7"
+    },
+    {
+      "path": "sources/transport/transport-cars-truck-01.svg",
+      "nodeId": "3515:496",
+      "sha256": "e8b0993dc6fc67d1d439f023654c0bb62b018fb08732bdb1a5e1b3a64705aeda",
+      "exportSha256": "fc05fbbf3d428888378df7f0a3a98803d0115d9c1157d377f76b989e16614d7e"
+    },
+    {
+      "path": "sources/transport/transport-cars-van-01.svg",
+      "nodeId": "5604:943",
+      "sha256": "cc04ac861d65184f4572e3d829793bf4fc261a0cd601283a702771685ffcf084",
+      "exportSha256": "832b86ac9e2650d80932bc6cf3811c95b9fb6f043ba5285717e6ba92dce54f65"
+    },
+    {
+      "path": "sources/transport/transport-excavator.svg",
+      "nodeId": "5604:935",
+      "sha256": "599e8aa87a0e0db068dfd1d0fbdee255789a6fcf1bb42bc3552916924b8ded5a",
+      "exportSha256": "3b8f1030d52c251a444e138f02e92c58a59a10827b73c25a2afcd7f36cdf267b"
+    },
+    {
+      "path": "sources/transport/transport-motorbikes-motorbike-01.svg",
+      "nodeId": "3515:456",
+      "sha256": "b13b15051efd2d44c9ece46e354bfea41c9c85699a0a4c69bcfe8f0947b60805",
+      "exportSha256": "db6232b7cd56a8f14bbfccc10ce3f2dd4d312db3b5fd3444d8cae475234ec9f9"
+    },
+    {
+      "path": "sources/transport/transport-other-rollercoaster-01.svg",
+      "nodeId": "3515:559",
+      "sha256": "4e0cf9e7952128bf825d0e769072aacdaf32118bc53a8f761efbb0cb9ad52680",
+      "exportSha256": "b25a5a573477f20c7843bbdef65f637999438f67c04ec66b4ce25636d9ce8d34"
+    },
+    {
+      "path": "sources/transport/transport-other-scooter-01.svg",
+      "nodeId": "3515:380",
+      "sha256": "7c3f65fada6ff7f9e04785580f56dc60d1cd76d224dea2e4a39e17608ca521c8",
+      "exportSha256": "54612e765834f0ac72ec1ad555000138aa7976a67f47f0ccdead94ac44d54051"
+    },
+    {
+      "path": "sources/transport/transport-other-trolley-01.svg",
+      "nodeId": "3515:345",
+      "sha256": "20a5606c1cebd1fbc944450f2e1354e10d23e3a2553c60cb48d4644bff5c9017",
+      "exportSha256": "44e74f0489375959c1b97f9f0a3ccc47ad43dcd9868df1df3e8c2d8859155fe1"
+    },
+    {
+      "path": "sources/transport/transport-planes-plane-01.svg",
+      "nodeId": "3515:428",
+      "sha256": "7aef03469889c261d03e663d267b1f9d735269a4f7316200c60b18227522ad8f",
+      "exportSha256": "79c8429c3a58689c73745a418b83c377ba7a1b2b37b4cd982a2ae0b841c0d7aa"
+    },
+    {
+      "path": "sources/transport/transport-situation-crash.svg",
+      "nodeId": "5604:944",
+      "sha256": "fbcf792289eb2eb99a095c0e3025b8f707102ca02bbae8be132442cee1b3c9b1",
+      "exportSha256": "f7c13d81ef25d3ddbacfdc3cc361d46d010b08535afd9e66507b84d070bcc33a"
+    },
+    {
+      "path": "sources/transport/transport-wheel.svg",
+      "nodeId": "5605:937",
+      "sha256": "d080c649d9ce5df952948d88c855db359f7a79310934fb515aaa09277d881c07",
+      "exportSha256": "c3f2294704fae1cdc39bbeb2c1c39dcf8aea99d306d98d95f8ab41f0480e78ca"
+    }
+  ]
+}

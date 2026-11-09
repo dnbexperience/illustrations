@@ -1,0 +1,141 @@
+name: Sync illustrations from Figma
+
+on:
+  workflow_dispatch:
+
+permissions: {}
+
+concurrency:
+  group: sync-figma
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    name: Fetch and propose illustrations
+    permissions:
+      actions: write # Dispatch regular CI for the generated branch.
+      contents: write # Create and update the automation branch.
+      pull-requests: write # Create or update the synchronization pull request.
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: Check out main
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7
+        with:
+          ref: main
+          fetch-depth: 0
+          persist-credentials: false
+
+      - name: Set up Node.js
+        uses: actions/setup-node@820762786026740c76f36085b0efc47a31fe5020 # v7
+        with:
+          node-version-file: .node-version
+          cache: npm
+
+      - name: Install locked dependencies
+        run: npm ci --ignore-scripts
+
+      - name: Fetch and generate illustrations
+        id: sync
+        run: npm run sync:figma
+        env:
+          FIGMA_TOKEN: ${{ secrets.FIGMA_TOKEN }}
+
+      - name: Upload new illustration proposals
+        if: always()
+        uses: actions/upload-artifact@043fb46d1a93c77aae656e7c1c64a875d1fc6a0a # v7
+        with:
+          name: new-illustration-proposals
+          path: .figma-review
+          include-hidden-files: true
+          if-no-files-found: warn
+          retention-days: 14
+
+      - name: Detect changes
+        id: changes
+        run: |
+          if [ -z "$(git status --porcelain)" ]; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Validate synchronized package
+        if: steps.changes.outputs.changed == 'true'
+        run: npm run ci
+
+      - name: Generate visual review catalogue
+        if: steps.changes.outputs.changed == 'true'
+        run: npm run preview
+
+      - name: Upload visual review catalogue
+        if: steps.changes.outputs.changed == 'true'
+        uses: actions/upload-artifact@043fb46d1a93c77aae656e7c1c64a875d1fc6a0a # v7
+        with:
+          name: illustration-review
+          path: .review
+          include-hidden-files: true
+          if-no-files-found: error
+          retention-days: 14
+
+      - name: Commit synchronization
+        if: steps.changes.outputs.changed == 'true'
+        id: commit
+        env:
+          GH_HOST: github.com
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh auth setup-git --hostname "$GH_HOST"
+          branch=automation/figma-sync
+          remote_sha=$(git ls-remote --heads origin "refs/heads/$branch" | cut -f1)
+          git switch -C "$branch"
+          git config user.name "eufemia-illustration-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          title='fix(Illustrations): synchronize artwork from Figma'
+
+          git add --all
+          git commit -m "Synchronize illustrations from Figma"
+          if [ -n "$remote_sha" ]; then
+            git push origin "HEAD:refs/heads/$branch" \
+              --force-with-lease="refs/heads/$branch:$remote_sha"
+          else
+            git push --set-upstream origin "$branch"
+          fi
+          echo "branch=$branch" >> "$GITHUB_OUTPUT"
+          echo "title=$title" >> "$GITHUB_OUTPUT"
+
+      - name: Create or update pull request
+        if: steps.changes.outputs.changed == 'true'
+        env:
+          GH_HOST: github.com
+          GH_TOKEN: ${{ github.token }}
+          BRANCH: ${{ steps.commit.outputs.branch }}
+          TITLE: ${{ steps.commit.outputs.title }}
+        run: |
+          body_file=$(mktemp)
+          cat > "$body_file" <<'EOF'
+          Synchronizes the illustration library with the reviewed Figma artwork. Review the source changes, foundation assignments and supported surfaces in the attached catalog.
+          EOF
+          number=$(gh pr list --head "$BRANCH" --base main --state open --json number --jq '.[0].number // empty')
+          if [ -n "$number" ]; then
+            gh pr edit "$number" --body-file "$body_file"
+          else
+            gh pr create --head "$BRANCH" --base main --title "$TITLE" --body-file "$body_file"
+          fi
+
+      # Pull requests created with GITHUB_TOKEN do not emit another pull_request
+      # event. Dispatch CI explicitly so the proposed commit still receives the
+      # same required validation as a manually created pull request.
+      - name: Dispatch CI for synchronized commit
+        if: steps.changes.outputs.changed == 'true'
+        env:
+          GH_HOST: github.com
+          GH_TOKEN: ${{ github.token }}
+          BRANCH: ${{ steps.commit.outputs.branch }}
+        run: gh workflow run ci.yml --ref "$BRANCH"
+
+      - name: Report no changes
+        if: steps.changes.outputs.changed == 'false'
+        run: echo "Configured artwork is unchanged. Check new-illustration-proposals for newly discovered artwork."
